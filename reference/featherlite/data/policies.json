@@ -1,0 +1,27 @@
+[
+  {
+    "handle": "privacy-policy",
+    "title": "Privacy policy",
+    "file": "reference/featherlite/data/policies/privacy-policy.md"
+  },
+  {
+    "handle": "refund-policy",
+    "title": "Refund policy",
+    "file": "reference/featherlite/data/policies/refund-policy.md"
+  },
+  {
+    "handle": "terms-of-service",
+    "title": "Terms of service",
+    "file": "reference/featherlite/data/policies/terms-of-service.md"
+  },
+  {
+    "handle": "shipping-policy",
+    "title": "Shipping policy",
+    "file": "reference/featherlite/data/policies/shipping-policy.md"
+  },
+  {
+    "handle": "contact-information",
+    "title": "Contact information",
+    "file": "reference/featherlite/data/policies/contact-information.md"
+  }
+]

@@ -1,0 +1,753 @@
+{
+  "title": "Featherlite Store: Ergonomic Office Chairs and Tables",
+  "description": "Shop Featherlite ergonomic office chairs and tables, made in India for 60+ years. Trusted by India's largest IT employers. Free shipping across India.",
+  "og_image": "reference/featherlite/images/brand/og-image.png",
+  "logo": "reference/featherlite/images/brand/logo.webp",
+  "header_nav": [
+    {
+      "label": "Office Chairs",
+      "href": "/collections/office-chairs"
+    },
+    {
+      "label": "Tables",
+      "href": "/collections/tables"
+    },
+    {
+      "label": "Office Accessories",
+      "href": "/collections/office-accessories"
+    },
+    {
+      "label": "About Featherlite",
+      "href": "/pages/about"
+    },
+    {
+      "label": "Contact",
+      "href": "/pages/contact"
+    },
+    {
+      "label": "Continue shopping",
+      "href": "/collections/all"
+    }
+  ],
+  "social_links": [
+    "https://twitter.com/featherlitein",
+    "https://www.facebook.com/featherlite",
+    "https://www.instagram.com/featherliteofficefurniture/",
+    "https://www.linkedin.com/company/featherlitefurniture/"
+  ],
+  "footer_nav": [
+    {
+      "heading": "Shop",
+      "links": [
+        {
+          "label": "Office Chairs",
+          "href": "/collections/office-chairs"
+        },
+        {
+          "label": "Tables & Desks",
+          "href": "/collections/tables"
+        },
+        {
+          "label": "Gaming Chairs",
+          "href": "/collections/gaming-chairs"
+        }
+      ]
+    },
+    {
+      "heading": "Guides",
+      "links": [
+        {
+          "label": "Best Office Chairs (2026)",
+          "href": "/pages/best-office-chairs-india-2026"
+        },
+        {
+          "label": "Compare Featherlite Chairs",
+          "href": "/pages/compare"
+        },
+        {
+          "label": "Workspace Setup Guide",
+          "href": "/pages/workspace-setup-guide"
+        },
+        {
+          "label": "The Multilock Mechanism",
+          "href": "/pages/multilock-mechanism"
+        },
+        {
+          "label": "Dynaflex Back System",
+          "href": "/pages/dynaflex-system"
+        },
+        {
+          "label": "Materials Library",
+          "href": "/pages/materials"
+        },
+        {
+          "label": "Engineering",
+          "href": "/pages/engineering"
+        },
+        {
+          "label": "Advice & Articles",
+          "href": "/blogs/news"
+        }
+      ]
+    },
+    {
+      "heading": "About",
+      "links": [
+        {
+          "label": "About Featherlite",
+          "href": "/pages/about"
+        },
+        {
+          "label": "Contact",
+          "href": "/pages/contact"
+        },
+        {
+          "label": "Corporate / Bulk Orders",
+          "href": "/pages/corporate-orders"
+        },
+        {
+          "label": "Customers",
+          "href": "/pages/customers"
+        },
+        {
+          "label": "Office Furniture Bangalore",
+          "href": "/collections/office-furniture-bangalore"
+        }
+      ]
+    },
+    {
+      "heading": "Customer Care",
+      "links": [
+        {
+          "label": "Shipping Policy",
+          "href": "/pages/shipping-policy"
+        },
+        {
+          "label": "Returns & Refunds",
+          "href": "/pages/returns-policy"
+        },
+        {
+          "label": "Warranty",
+          "href": "/pages/warranty"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/policies/privacy-policy"
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "/pages/terms-conditions"
+        },
+        {
+          "label": "Your Privacy Choices",
+          "href": "/pages/data-sharing-opt-out"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "section": "marquee_usps",
+      "headings": [],
+      "text": [
+        "• 60+ years building office furniture for India",
+        "• Free shipping across India",
+        "• 3-year mechanism warranty",
+        "• Trusted by India's largest IT employers",
+        "• Razorpay secure checkout"
+      ],
+      "links": []
+    },
+    {
+      "section": "shop_by_tiles",
+      "headings": [
+        "Shop by category"
+      ],
+      "text": [
+        "Shop by category",
+        "Chairs with Headrest",
+        "Chairs with Headrest",
+        "Chairs without Headrest",
+        "Chairs without Headrest",
+        "Height Adjustable Desks",
+        "Height Adjustable Desks",
+        "Office Tables & Desks",
+        "Office Tables & Desks"
+      ],
+      "links": [
+        {
+          "label": "Chairs with Headrest",
+          "href": "/collections/chairs-with-headrest"
+        },
+        {
+          "label": "Chairs without Headrest",
+          "href": "/collections/chairs-without-headrest"
+        },
+        {
+          "label": "Height Adjustable Desks",
+          "href": "/collections/height-adjustable-desks"
+        },
+        {
+          "label": "Office Tables & Desks",
+          "href": "/collections/tables"
+        }
+      ]
+    },
+    {
+      "section": "best_chairs",
+      "headings": [
+        "Best-selling office chairs",
+        "Featherlite Helix Mesh Office Chair with Headrest",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "Featherlite Astro Mesh Office Chair with Headrest (Black)",
+        "Featherlite Enzo Mesh Office Chair with Headrest",
+        "Featherlite Versa Mesh Office Chair with Headrest",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "Featherlite Astro Mesh Office Chair without Headrest (Black)",
+        "Featherlite Contact Medium Back Mesh Office Chair (Black)"
+      ],
+      "text": [
+        "Best-selling office chairs",
+        "Shop all →",
+        "Featherlite Helix Mesh Office Chair with Headrest",
+        "Add",
+        "Choose",
+        "Featherlite Helix Mesh Office Chair with Headrest",
+        "Featherlite Helix Mesh Office Chair with Headrest",
+        "(1)",
+        "1 review",
+        "Rs. 31,509.00",
+        "Sale price",
+        "Rs. 31,509.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "Add",
+        "Choose",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "(59)",
+        "59 reviews",
+        "Rs. 18,869.00",
+        "Sale price",
+        "Rs. 18,869.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Astro Mesh Office Chair with Headrest (Black)",
+        "Add",
+        "Choose",
+        "Featherlite Astro Mesh Office Chair with Headrest (Black)",
+        "Featherlite Astro Mesh Office Chair with Headrest (Black)",
+        "(4)",
+        "4 reviews",
+        "Rs. 10,519.00",
+        "Sale price",
+        "Rs. 10,519.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Enzo Mesh Office Chair with Headrest",
+        "Add",
+        "Choose",
+        "Featherlite Enzo Mesh Office Chair with Headrest",
+        "Featherlite Enzo Mesh Office Chair with Headrest",
+        "(9)",
+        "9 reviews",
+        "Rs. 20,019.00",
+        "Sale price",
+        "Rs. 20,019.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Versa Mesh Office Chair with Headrest",
+        "Add",
+        "Choose",
+        "Featherlite Versa Mesh Office Chair with Headrest",
+        "Featherlite Versa Mesh Office Chair with Headrest",
+        "(11)",
+        "11 reviews",
+        "Rs. 10,469.00",
+        "Sale price",
+        "Rs. 10,469.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "Add",
+        "Choose",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "(8)",
+        "8 reviews",
+        "Rs. 22,299.00",
+        "Sale price",
+        "Rs. 22,299.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Astro Mesh Office Chair without Headrest (Black)",
+        "Add",
+        "Choose",
+        "Featherlite Astro Mesh Office Chair without Headrest (Black)",
+        "Featherlite Astro Mesh Office Chair without Headrest (Black)",
+        "(28)",
+        "28 reviews",
+        "Rs. 9,459.00",
+        "Sale price",
+        "Rs. 9,459.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Contact Medium Back Mesh Office Chair (Black)",
+        "Add",
+        "Choose",
+        "Featherlite Contact Medium Back Mesh Office Chair (Black)",
+        "Featherlite Contact Medium Back Mesh Office Chair (Black)",
+        "(18)",
+        "18 reviews",
+        "Rs. 8,199.00",
+        "Sale price",
+        "Rs. 8,199.00",
+        "Regular price",
+        "Incl. taxes · Free shipping"
+      ],
+      "links": [
+        {
+          "label": "Shop all →",
+          "href": "/collections/best-selling-office-chairs"
+        },
+        {
+          "label": "Featherlite Helix Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-helix-high-back-mesh-chair-with-multilock-seat-sliding-mechanism-four-way-adjustable-arms?variant=43907041755195"
+        },
+        {
+          "label": "Featherlite Helix Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-helix-high-back-mesh-chair-with-multilock-seat-sliding-mechanism-four-way-adjustable-arms?variant=43907041755195"
+        },
+        {
+          "label": "Featherlite Liberate Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-liberate-high-back-mesh-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-multilock-mechanism?variant=43907037954107"
+        },
+        {
+          "label": "Featherlite Liberate Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-liberate-high-back-mesh-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-multilock-mechanism?variant=43907037954107"
+        },
+        {
+          "label": "Featherlite Astro Mesh Office Chair with Headrest (Black)",
+          "href": "/products/featherlite-astro-high-back-mesh-chair-with-padded-lumbar-support-cushion-seatblack?variant=43907069050939"
+        },
+        {
+          "label": "Featherlite Astro Mesh Office Chair with Headrest (Black)",
+          "href": "/products/featherlite-astro-high-back-mesh-chair-with-padded-lumbar-support-cushion-seatblack?variant=43907069050939"
+        },
+        {
+          "label": "Featherlite Enzo Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-enzo-high-back-mesh-chair-with-magnaflex-system-for-stable-lower-back-support-self-calibrate-multilock-mechanism?variant=43907049291835"
+        },
+        {
+          "label": "Featherlite Enzo Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-enzo-high-back-mesh-chair-with-magnaflex-system-for-stable-lower-back-support-self-calibrate-multilock-mechanism?variant=43907049291835"
+        },
+        {
+          "label": "Featherlite Versa Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-versa-high-back-mesh-chair-with-single-lock-synchro-mechanism-fabric-upholstered-seat?variant=43907054272571"
+        },
+        {
+          "label": "Featherlite Versa Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-versa-high-back-mesh-chair-with-single-lock-synchro-mechanism-fabric-upholstered-seat?variant=43907054272571"
+        },
+        {
+          "label": "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+          "href": "/products/featherlite-liberate-game-high-back-fabric-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-seat-depth-adjustmentblue?variant=43907053322299"
+        },
+        {
+          "label": "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+          "href": "/products/featherlite-liberate-game-high-back-fabric-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-seat-depth-adjustmentblue?variant=43907053322299"
+        },
+        {
+          "label": "Featherlite Astro Mesh Office Chair without Headrest (Black)",
+          "href": "/products/featherlite-astro-medium-back-mesh-chair-with-padded-lumbar-support-cushion-seatblack?variant=43907041951803"
+        },
+        {
+          "label": "Featherlite Astro Mesh Office Chair without Headrest (Black)",
+          "href": "/products/featherlite-astro-medium-back-mesh-chair-with-padded-lumbar-support-cushion-seatblack?variant=43907041951803"
+        },
+        {
+          "label": "Featherlite Contact Medium Back Mesh Office Chair (Black)",
+          "href": "/products/featherlite-contact-medium-back-mesh-chair-with-single-lock-synchro-mechanism-adjustable-lumbar-supportblack?variant=43907034316859"
+        },
+        {
+          "label": "Featherlite Contact Medium Back Mesh Office Chair (Black)",
+          "href": "/products/featherlite-contact-medium-back-mesh-chair-with-single-lock-synchro-mechanism-adjustable-lumbar-supportblack?variant=43907034316859"
+        }
+      ]
+    },
+    {
+      "section": "dynaflex_band",
+      "headings": [
+        "A chair that responds , not just reclines."
+      ],
+      "text": [
+        "THE DYNAFLEX SYSTEM",
+        "A chair that",
+        "responds",
+        ",",
+        "not just reclines.",
+        "Most chairs hold one posture. DynaFlex uses a dual frame that flexes with your spine through the day, so support stays where you need it, whether you're leaning into a deadline or back in thought.",
+        "Explore the Liberate"
+      ],
+      "links": [
+        {
+          "label": "Explore the Liberate",
+          "href": "/products/featherlite-liberate-high-back-mesh-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-multilock-mechanism"
+        }
+      ]
+    },
+    {
+      "section": "dynaflex_products",
+      "headings": [
+        "Shop the DynaFlex range",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "Featherlite Liberate Mesh Office Chair without Headrest",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Orange)"
+      ],
+      "text": [
+        "Shop the DynaFlex range",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "Add",
+        "Choose",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "Featherlite Liberate Mesh Office Chair with Headrest",
+        "(59)",
+        "59 reviews",
+        "Rs. 18,869.00",
+        "Sale price",
+        "Rs. 18,869.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Liberate Mesh Office Chair without Headrest",
+        "Add",
+        "Choose",
+        "Featherlite Liberate Mesh Office Chair without Headrest",
+        "Featherlite Liberate Mesh Office Chair without Headrest",
+        "(17)",
+        "17 reviews",
+        "Rs. 16,449.00",
+        "Sale price",
+        "Rs. 16,449.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "Add",
+        "Choose",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+        "(8)",
+        "8 reviews",
+        "Rs. 22,299.00",
+        "Sale price",
+        "Rs. 22,299.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Orange)",
+        "Add",
+        "Choose",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Orange)",
+        "Featherlite Liberate Game Fabric Chair with Headrest (Orange)",
+        "(5)",
+        "5 reviews",
+        "Rs. 22,299.00",
+        "Sale price",
+        "Rs. 22,299.00",
+        "Regular price",
+        "Incl. taxes · Free shipping"
+      ],
+      "links": [
+        {
+          "label": "Featherlite Liberate Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-liberate-high-back-mesh-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-multilock-mechanism?variant=43907037954107"
+        },
+        {
+          "label": "Featherlite Liberate Mesh Office Chair with Headrest",
+          "href": "/products/featherlite-liberate-high-back-mesh-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-multilock-mechanism?variant=43907037954107"
+        },
+        {
+          "label": "Featherlite Liberate Mesh Office Chair without Headrest",
+          "href": "/products/featherlite-liberate-medium-back-mesh-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-multilock-mechanism?variant=43907034644539"
+        },
+        {
+          "label": "Featherlite Liberate Mesh Office Chair without Headrest",
+          "href": "/products/featherlite-liberate-medium-back-mesh-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-multilock-mechanism?variant=43907034644539"
+        },
+        {
+          "label": "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+          "href": "/products/featherlite-liberate-game-high-back-fabric-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-seat-depth-adjustmentblue?variant=43907053322299"
+        },
+        {
+          "label": "Featherlite Liberate Game Fabric Chair with Headrest (Blue)",
+          "href": "/products/featherlite-liberate-game-high-back-fabric-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-seat-depth-adjustmentblue?variant=43907053322299"
+        },
+        {
+          "label": "Featherlite Liberate Game Fabric Chair with Headrest (Orange)",
+          "href": "/products/featherlite-liberate-game-high-back-fabric-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-seat-depth-adjustmentorange?variant=43907053191227"
+        },
+        {
+          "label": "Featherlite Liberate Game Fabric Chair with Headrest (Orange)",
+          "href": "/products/featherlite-liberate-game-high-back-fabric-chair-with-dynaflex-back-support-to-provide-dual-frame-flexibility-seat-depth-adjustmentorange?variant=43907053191227"
+        }
+      ]
+    },
+    {
+      "section": "best_tables",
+      "headings": [
+        "Office tables & desks",
+        "Featherlite Flip Computer Table",
+        "Nexus Walnut Table",
+        "Elevate Height Adjustable Table",
+        "Rise Height Adjustable Table",
+        "Nexus Study Table Maple",
+        "Airlift Height Adjustable Table",
+        "Featherlite Step-Up Computer Table",
+        "Workhub Computer Table"
+      ],
+      "text": [
+        "Office tables & desks",
+        "Shop all →",
+        "Featherlite Flip Computer Table",
+        "Add",
+        "Choose",
+        "Featherlite Flip Computer Table",
+        "Featherlite Flip Computer Table",
+        "(12)",
+        "12 reviews",
+        "Rs. 9,059.00",
+        "Sale price",
+        "Rs. 9,059.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Nexus Walnut Table",
+        "Sold out",
+        "Add",
+        "Choose",
+        "Nexus Walnut Table",
+        "Nexus Walnut Table",
+        "Rs. 6,669.00",
+        "Sale price",
+        "Rs. 6,669.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Elevate Height Adjustable Table",
+        "Sold out",
+        "Add",
+        "Choose",
+        "Elevate Height Adjustable Table",
+        "Elevate Height Adjustable Table",
+        "(9)",
+        "9 reviews",
+        "Rs. 24,869.00",
+        "Sale price",
+        "Rs. 24,869.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Rise Height Adjustable Table",
+        "Add",
+        "Choose",
+        "Rise Height Adjustable Table",
+        "Rise Height Adjustable Table",
+        "(9)",
+        "9 reviews",
+        "Rs. 15,859.00",
+        "Sale price",
+        "Rs. 15,859.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Nexus Study Table Maple",
+        "Add",
+        "Choose",
+        "Nexus Study Table Maple",
+        "Nexus Study Table Maple",
+        "(26)",
+        "26 reviews",
+        "Rs. 6,669.00",
+        "Sale price",
+        "Rs. 6,669.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Airlift Height Adjustable Table",
+        "Add",
+        "Choose",
+        "Airlift Height Adjustable Table",
+        "Airlift Height Adjustable Table",
+        "Rs. 30,009.00",
+        "Sale price",
+        "Rs. 30,009.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Featherlite Step-Up Computer Table",
+        "Add",
+        "Choose",
+        "Featherlite Step-Up Computer Table",
+        "Featherlite Step-Up Computer Table",
+        "(6)",
+        "6 reviews",
+        "Rs. 12,109.00",
+        "Sale price",
+        "Rs. 12,109.00",
+        "Regular price",
+        "Incl. taxes · Free shipping",
+        "Workhub Computer Table",
+        "Add",
+        "Choose",
+        "Workhub Computer Table",
+        "Workhub Computer Table",
+        "(1)",
+        "1 review",
+        "Rs. 11,809.00",
+        "Sale price",
+        "Rs. 11,809.00",
+        "Regular price",
+        "Incl. taxes · Free shipping"
+      ],
+      "links": [
+        {
+          "label": "Shop all →",
+          "href": "/collections/tables"
+        },
+        {
+          "label": "Featherlite Flip Computer Table",
+          "href": "/products/featherlite-flip-computer-table?variant=43907052601403"
+        },
+        {
+          "label": "Featherlite Flip Computer Table",
+          "href": "/products/featherlite-flip-computer-table?variant=43907052601403"
+        },
+        {
+          "label": "Nexus Walnut Table",
+          "href": "/products/nexus-walnut-table?variant=43907054436411"
+        },
+        {
+          "label": "Nexus Walnut Table",
+          "href": "/products/nexus-walnut-table?variant=43907054436411"
+        },
+        {
+          "label": "Elevate Height Adjustable Table",
+          "href": "/products/elevate-height-adjustable-table?variant=43907042050107"
+        },
+        {
+          "label": "Elevate Height Adjustable Table",
+          "href": "/products/elevate-height-adjustable-table?variant=43907042050107"
+        },
+        {
+          "label": "Rise Height Adjustable Table",
+          "href": "/products/rise-height-adjustable-table?variant=43907045720123"
+        },
+        {
+          "label": "Rise Height Adjustable Table",
+          "href": "/products/rise-height-adjustable-table?variant=43907045720123"
+        },
+        {
+          "label": "Nexus Study Table Maple",
+          "href": "/products/nexus-study-table-maple?variant=43907053486139"
+        },
+        {
+          "label": "Nexus Study Table Maple",
+          "href": "/products/nexus-study-table-maple?variant=43907053486139"
+        },
+        {
+          "label": "Airlift Height Adjustable Table",
+          "href": "/products/airlift-height-adjustable-table?variant=43907054731323"
+        },
+        {
+          "label": "Airlift Height Adjustable Table",
+          "href": "/products/airlift-height-adjustable-table?variant=43907054731323"
+        },
+        {
+          "label": "Featherlite Step-Up Computer Table",
+          "href": "/products/featherlite-step-up-computer-table?variant=43907053584443"
+        },
+        {
+          "label": "Featherlite Step-Up Computer Table",
+          "href": "/products/featherlite-step-up-computer-table?variant=43907053584443"
+        },
+        {
+          "label": "Workhub Computer Table",
+          "href": "/products/workhub-computer-table?variant=43907053420603"
+        },
+        {
+          "label": "Workhub Computer Table",
+          "href": "/products/workhub-computer-table?variant=43907053420603"
+        }
+      ]
+    }
+  ],
+  "theme_css_variables": {
+    "--font-body--family": "Inter, sans-serif",
+    "--font-subheading--family": "Inter, sans-serif",
+    "--font-heading--family": "\"Space Grotesk\", sans-serif",
+    "--font-accent--family": "\"Space Grotesk\", sans-serif",
+    "--font-paragraph--family": "var(--font-body--family)",
+    "--font-h1--family": "var(--font-heading--family)",
+    "--font-h2--family": "var(--font-heading--family)",
+    "--font-h3--family": "var(--font-heading--family)",
+    "--font-h4--family": "var(--font-heading--family)",
+    "--font-h5--family": "var(--font-subheading--family)",
+    "--font-h6--family": "var(--font-subheading--family)",
+    "--color-error": "#8B0000",
+    "--color-success": "#006400",
+    "--color-white": "#FFFFFF",
+    "--color-white-rgb": "255 255 255",
+    "--color-black": "#000000",
+    "--color-instock": "#3ED660",
+    "--color-lowstock": "#EE9441",
+    "--color-outofstock": "#C8C8C8",
+    "--color-background": "rgb(26 26 28 / 1.0)",
+    "--color-background-rgb": "244 244 243",
+    "--color-foreground": "rgb(52 52 58 / 1.0)",
+    "--color-foreground-rgb": "52 52 58",
+    "--color-foreground-heading": "rgb(26 26 28 / 1.0)",
+    "--color-foreground-heading-rgb": "26 26 28",
+    "--color-primary": "rgb(226 35 26 / 1.0)",
+    "--color-primary-rgb": "226 35 26",
+    "--color-primary-hover": "rgb(191 24 16 / 1.0)",
+    "--color-primary-hover-rgb": "191 24 16",
+    "--color-border": "rgb(234 233 230 / 1.0)",
+    "--color-border-rgb": "234 233 230",
+    "--color-shadow": "rgb(0 0 0 / 1.0)",
+    "--color-shadow-rgb": "0 0 0",
+    "--color-primary-button-text": "rgb(255 255 255 / 1.0)",
+    "--color-primary-button-background": "rgb(226 35 26 / 1.0)",
+    "--color-primary-button-border": "rgb(226 35 26 / 1.0)",
+    "--color-primary-button-hover-text": "rgb(255 255 255 / 1.0)",
+    "--color-primary-button-hover-background": "rgb(191 24 16 / 1.0)",
+    "--color-primary-button-hover-border": "rgb(191 24 16 / 1.0)",
+    "--color-secondary-button-text": "rgb(26 26 28 / 1.0)",
+    "--color-secondary-button-background": "rgb(0 0 0 / 0.0)",
+    "--color-secondary-button-border": "rgb(219 217 212 / 1.0)",
+    "--color-secondary-button-hover-text": "rgb(255 255 255 / 1.0)",
+    "--color-secondary-button-hover-background": "rgb(26 26 28 / 1.0)",
+    "--color-secondary-button-hover-border": "rgb(26 26 28 / 1.0)",
+    "--color-input-background": "rgb(0 0 0 / 0.0)",
+    "--color-input-text": "rgb(0 0 0 / 0.81)",
+    "--color-input-text-rgb": "0 0 0",
+    "--color-input-border": "rgb(0 0 0 / 0.81)",
+    "--color-input-hover-background": "rgb(255 255 255 / 0.36)",
+    "--color-variant-background": "rgb(255 255 255 / 1.0)",
+    "--color-variant-border": "rgb(230 230 230 / 1.0)",
+    "--color-variant-text": "rgb(0 0 0 / 1.0)",
+    "--color-variant-text-rgb": "0 0 0",
+    "--color-variant-hover-background": "rgb(245 245 245 / 1.0)",
+    "--color-variant-hover-text": "rgb(0 0 0 / 1.0)",
+    "--color-variant-hover-border": "rgb(230 230 230 / 1.0)",
+    "--color-selected-variant-background": "rgb(0 0 0 / 1.0)",
+    "--color-selected-variant-border": "rgb(0 0 0 / 1.0)",
+    "--color-selected-variant-text": "rgb(255 255 255 / 1.0)",
+    "--color-selected-variant-hover-background": "rgb(26 26 26 / 1.0)",
+    "--color-selected-variant-hover-text": "rgb(255 255 255 / 1.0)",
+    "--color-selected-variant-hover-border": "rgb(26 26 26 / 1.0)",
+    "--color-foreground-muted": "rgb(var(--color-foreground-rgb) / var(--opacity-60))"
+  },
+  "google_or_shop_fonts": [
+    " ",
+    "'JudgemeStar'",
+    "Inter",
+    "var(--font-body--family)",
+    "var(--font-paragraph-family)",
+    "var(--font-secondary--family)"
+  ]
+}
