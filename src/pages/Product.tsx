@@ -80,8 +80,8 @@ function ProductView({ p }: { p: P }) {
     e.preventDefault();
     if (!/^\d{6}$/.test(pincode)) return setEta('Please enter a valid 6-digit pincode.');
     const metro = /^(56|40|11|12|41|50|60|70|38)/.test(pincode);
-    const days = p.category === 'seating' ? (metro ? '3–5' : '6–9') : metro ? '5–7' : '8–12';
-    setEta(`Delivers to ${pincode} in ${days} working days${metro ? ', with free assembly available' : ''}.`);
+    const days = p.category === 'seating' ? (metro ? '3–5' : '6–9') : p.category === 'living' ? (metro ? '7–10' : '10–14') : metro ? '5–7' : '8–12';
+    setEta(`Delivers to ${pincode} in ${days} working days${metro ? (p.category === 'living' ? ', placed in your room by our crew' : ', with free assembly available') : ''}.`);
   };
 
   return (
@@ -99,7 +99,7 @@ function ProductView({ p }: { p: P }) {
 
       <section className="wrap pdp-top">
         <div className="pdp-gallery">
-          <div className="pdp-main" ref={galleryRef} onScroll={onGalleryScroll} tabIndex={0} aria-label="Product images, scroll for more">
+          <div className={`pdp-main ${p.category === 'living' ? 'cover' : ''}`} ref={galleryRef} onScroll={onGalleryScroll} tabIndex={0} aria-label="Product images, scroll for more">
             {variant.images.map((src, n) => (
               <figure key={src} className={n === img ? 'on' : ''}>
                 <img src={src} alt={`${p.title}, ${variant.label}, view ${n + 1} of ${variant.images.length}`} loading={n === 0 ? 'eager' : 'lazy'} width={1100} height={1100} />
@@ -208,7 +208,7 @@ function ProductView({ p }: { p: P }) {
           <a className="pdp-wa" href={`https://wa.me/${BRAND.whatsapp}?text=${waText}`} target="_blank" rel="noreferrer">
             <Icon name="chat" size={18} /> Ask a question on WhatsApp
           </a>
-          {qty >= 10 || p.category === 'seating' ? (
+          {qty >= 10 || p.category === 'seating' || p.category === 'living' ? (
             <p className="pdp-trade">
               <strong>Buying 10 or more?</strong> Get trade pricing and a dedicated consultant. <Link to="/trade#enquire" className="text-link">Request a quote</Link>
             </p>
@@ -234,7 +234,7 @@ function ProductView({ p }: { p: P }) {
               <Icon name="shield" size={18} /> {p.warranty}
             </li>
             <li>
-              <Icon name="tool" size={18} /> Assembly by our team in metro cities
+              <Icon name="tool" size={18} /> {p.category === 'living' ? 'White-glove delivery and placement' : 'Assembly by our team in metro cities'}
             </li>
             <li>
               <Icon name="receipt" size={18} /> GST invoice for businesses
@@ -295,7 +295,7 @@ function ProductView({ p }: { p: P }) {
             </Accordion>
             <Accordion title="Delivery & assembly">
               <p>
-                Free delivery to 40+ cities. {p.leadTime}. {p.category === 'seating' ? 'Chairs arrive largely assembled and take around fifteen minutes to finish.' : 'Ships flat-packed with all tools; complimentary assembly in metro cities.'}{' '}
+                Free delivery to 40+ cities. {p.leadTime}. {p.category === 'living' ? 'Delivered and placed in your room by our own crew, who attach the legs and take the packaging away.' : p.category === 'seating' ? 'Chairs arrive largely assembled and take around fifteen minutes to finish.' : 'Ships flat-packed with all tools; complimentary assembly in metro cities.'}{' '}
                 <Link to="/info/delivery-and-assembly" className="text-link">
                   Delivery details
                 </Link>

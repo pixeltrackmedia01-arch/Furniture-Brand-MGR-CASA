@@ -37,6 +37,10 @@
   object-fit: contain;
   padding: 6%;
 }
+.pdp-main.cover img {
+  object-fit: cover;
+  padding: 0;
+}
 .pdp-badges {
   position: absolute;
   top: 16px;

@@ -29,7 +29,7 @@ export default function About() {
         </h1>
       </section>
       <Reveal variant="img" className="about-hero">
-        <img src="/images/scenes/hero-linen.webp" alt="A calm home office with an MGR CASA chair and desk" />
+        <img src="/images/scenes/living-lino.webp" alt="A bright living room with an MGR CASA Lino sofa" />
       </Reveal>
       <section className="wrap section about-intro">
         <p className="eyebrow">Since the beginning</p>
@@ -38,7 +38,7 @@ export default function About() {
             MGR CASA began with a simple frustration: furniture in India was either beautiful or comfortable, rarely both, and almost never designed for the way we actually live and work here.
           </p>
           <p className="lede" style={{ marginTop: 24 }}>
-            We set out to change that with a small, considered collection of seating, desks and storage, drawn in our own studio, tested relentlessly and made with partners who share our standards. Today our pieces furnish homes, studios and workplaces from Kochi to Chandigarh.
+            We set out to change that with a considered collection of sofas, seating, desks and storage, drawn in our own studio, tested relentlessly and made with partners who share our standards. Today our pieces furnish homes, studios and workplaces from Kochi to Chandigarh.
           </p>
         </div>
       </section>

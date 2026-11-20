@@ -10,13 +10,13 @@ import { prefersReducedMotion, useMediaQuery, useReveal, useScrollProgress, useS
 import '../styles/home.css';
 
 const SLIDES = [
+  { image: '/images/scenes/living-hero.webp', caption: 'Riviera Sectional Sofa in sapphire velvet', product: 'riviera-sectional-sofa' },
+  { image: '/images/scenes/living-sun.webp', caption: 'Riviera Sectional Sofa in sunflower velvet', product: 'riviera-sectional-sofa' },
   { image: '/images/scenes/hero-terracotta.webp', caption: 'Nido Task Chair in a Bengaluru home studio', product: 'nido-task-chair' },
-  { image: '/images/scenes/hero-linen.webp', caption: 'Volta Task Chair beside a reading nook', product: 'volta-task-chair' },
-  { image: '/images/scenes/room-stripe.webp', caption: 'Spira Task Chair, with headrest', product: 'spira-task-chair' },
 ];
 
 export default function Home() {
-  useSeo('MGR CASA · Contemporary furniture, designed in India', 'Ergonomic chairs, sit-stand desks and storage for homes and workplaces. Visit our studios in Bengaluru and Mumbai or enquire online.');
+  useSeo('MGR CASA · Contemporary furniture, designed in India', 'Sofas, sectionals, executive and ergonomic chairs, sit-stand desks and storage for homes and workplaces. Visit our studios in Bengaluru and Mumbai or enquire online.');
   return (
     <div className="home">
       <Hero />
@@ -107,7 +107,7 @@ function Hero() {
 
 /* ---------------------------------------------------------------- Marquee */
 function Marquee() {
-  const items = ['Designed in India', 'Up to 5-year warranty', 'Studios in Bengaluru, Mumbai & Gurugram', 'Free delivery to 40+ cities', 'Trade programme from 10 seats', 'Tested to 120,000 cycles'];
+  const items = ['Designed in India', 'Sofas, seating & workspace', 'Up to 5-year warranty', 'Studios in Bengaluru, Mumbai & Gurugram', 'Free delivery to 40+ cities', 'Trade programme from 10 seats', 'Tested to 120,000 cycles'];
   return (
     <div className="marquee" aria-label="Brand promises">
       <div className="marquee-track">
@@ -265,7 +265,7 @@ function Anatomy() {
 
 /* ---------------------------------------------------------------- Horizontal rail */
 function Rail() {
-  const items = useMemo(() => PRODUCTS.filter((p) => p.badges.some((b) => ['Signature', 'Bestseller', 'New'].includes(b))).slice(0, 8), []);
+  const items = useMemo(() => ['riviera-sectional-sofa', 'luna-executive-chair', 'sole-three-seater-sofa', 'vetta-task-chair', 'lino-three-seater-sofa', 'conte-executive-chair', 'lido-chaise-lounge', 'altezza-standing-desk'].map((s) => getProduct(s)!), []);
   const desktop = useMediaQuery('(min-width: 960px)');
   const pinned = desktop && !prefersReducedMotion();
   const outer = useRef<HTMLElement>(null);
@@ -341,6 +341,14 @@ function Rail() {
 /* ---------------------------------------------------------------- Spaces */
 const SPACES = [
   {
+    key: 'living',
+    label: 'The living room',
+    title: 'Sofas you will want to come home to.',
+    text: 'Deep seats, performance velvets and sectionals sized for the whole family, plus a sofa-cum-bed for when they stay over.',
+    image: '/images/scenes/living-rose.webp',
+    products: ['riviera-sectional-sofa', 'sole-three-seater-sofa', 'lido-chaise-lounge'],
+  },
+  {
     key: 'home',
     label: 'The home office',
     title: 'A desk that belongs in the living room.',
@@ -350,11 +358,11 @@ const SPACES = [
   },
   {
     key: 'work',
-    label: 'The workplace',
+    label: 'The executive office',
     title: 'Specified by the floor, chosen by the person.',
     text: 'Contract-grade chairs and desks with adjustments anyone can find in under a minute.',
-    image: '/images/scenes/workspace-floor.webp',
-    products: ['ponte-task-chair', 'spira-task-chair', 'piega-work-table'],
+    image: '/images/scenes/exec-luna.webp',
+    products: ['luna-executive-chair', 'conte-executive-chair', 'aurelio-ergonomic-chair'],
   },
   {
     key: 'play',
@@ -376,7 +384,7 @@ function Spaces() {
           <div>
             <p className="eyebrow">(05) — Spaces</p>
             <h2 className="h2" id="spaces-title" style={{ marginTop: 16 }}>
-              Furniture for <em className="italic">every</em> room you work in.
+              Furniture for <em className="italic">every</em> room you live in.
             </h2>
           </div>
           <div className="tabs" role="tablist" aria-label="Spaces">
@@ -633,7 +641,7 @@ function Journal() {
 function StudioCta() {
   return (
     <section className="studio-cta" aria-labelledby="studio-title">
-      <img src="/images/scenes/room-orange.webp" alt="" loading="lazy" />
+      <img src="/images/scenes/living-teal.webp" alt="" loading="lazy" />
       <div className="studio-cta-shade" />
       <div className="wrap studio-cta-in">
         <p className="eyebrow">(11) — Visit</p>
@@ -642,7 +650,7 @@ function StudioCta() {
           <br />
           you decide.
         </h2>
-        <p className="lede">Try every chair and desk at our studios in {STUDIOS.map((s) => s.city).join(', ').replace(/, ([^,]*)$/, ' and $1')}. Our consultants will help you find the right fit.</p>
+        <p className="lede">Try every sofa, chair and desk at our studios in {STUDIOS.map((s) => s.city).join(', ').replace(/, ([^,]*)$/, ' and $1')}. Our consultants will help you find the right fit.</p>
         <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
           <Link to="/contact#visit" className="btn btn-light">
             Book a studio visit

@@ -1000,7 +1000,7 @@ p {
 }
 .card-media {
   position: relative;
-  aspect-ratio: 4/5;
+  aspect-ratio: 1;
   background: #fff;
   overflow: hidden;
   margin-bottom: 14px;
@@ -1016,6 +1016,10 @@ p {
 }
 .card-media img + img {
   opacity: 0;
+}
+.card-media.cover img {
+  object-fit: cover;
+  padding: 0;
 }
 @media (hover: hover) {
   .card:hover .card-media img + img {

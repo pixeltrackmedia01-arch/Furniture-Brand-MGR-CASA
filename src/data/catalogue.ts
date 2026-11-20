@@ -50,7 +50,7 @@ export interface Product {
   variants: Variant[];
 }
 
-export type CategorySlug = 'seating' | 'desks' | 'storage' | 'accessories';
+export type CategorySlug = 'living' | 'seating' | 'desks' | 'storage' | 'accessories';
 
 export interface Category {
   slug: CategorySlug;
@@ -63,12 +63,28 @@ export interface Category {
 
 export const CATEGORIES: Category[] = [
   {
+    slug: 'living',
+    title: 'Living',
+    kicker: 'Sofas, sectionals & lounge',
+    description: 'Deep, generous sofas, sectionals, sofa-cum-beds and accent pieces in velvet, fabric and leatherette, made for Indian living rooms.',
+    image: '/images/scenes/living-hero.webp',
+    subcategories: [
+      { slug: 'sofas', title: 'Sofas' },
+      { slug: 'sectionals', title: 'Sectionals & L-shapes' },
+      { slug: 'armchairs', title: 'Armchairs' },
+      { slug: 'sofa-beds', title: 'Sofa-cum-beds' },
+      { slug: 'chaises', title: 'Chaises & diwans' },
+      { slug: 'ottomans', title: 'Ottomans & kids' },
+    ],
+  },
+  {
     slug: 'seating',
     title: 'Seating',
-    kicker: 'Task, lounge & visitor chairs',
-    description: 'Ergonomic task chairs, upholstered lounge seating and guest chairs, engineered for long days and Indian climates.',
+    kicker: 'Executive, task & lounge chairs',
+    description: 'Executive chairs in leather and mesh, ergonomic task chairs and lounge seating, engineered for long days and Indian climates.',
     image: '/images/scenes/room-slate.webp',
     subcategories: [
+      { slug: 'executive', title: 'Executive chairs' },
       { slug: 'task', title: 'Task chairs' },
       { slug: 'work', title: 'Work & study chairs' },
       { slug: 'lounge', title: 'Lounge & gaming' },
@@ -108,15 +124,15 @@ export const LINES = [
     slug: 'signature',
     name: 'Signature' as const,
     numeral: 'I',
-    summary: 'Our most considered pieces: die-cast details, every adjustment, and a five-year promise.',
-    image: '/images/scenes/room-stripe.webp',
+    summary: 'Our most considered pieces: grand sectionals, sculpted executive chairs and every adjustment, with a five-year promise.',
+    image: '/images/scenes/living-sun.webp',
   },
   {
     slug: 'atelier',
     name: 'Atelier' as const,
     numeral: 'II',
-    summary: 'Warm, residential designs for the home office, study and media room.',
-    image: '/images/scenes/room-gallery.webp',
+    summary: 'Warm, residential designs: velvet sofas, chaises and chairs for the living room and the home study.',
+    image: '/images/scenes/living-sapphire.webp',
   },
   {
     slug: 'studio',

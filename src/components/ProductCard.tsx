@@ -8,7 +8,7 @@ import { Rating } from './Stars';
 export function ProductCard({ product: p, priority = false }: { product: Product; priority?: boolean }) {
   const { wishlist, toggleWish, openEnquiry } = useStore();
   const v = p.variants[0];
-  const second = v.images[2] ?? v.images[1];
+  const second = p.category === 'living' ? v.images[1] : v.images[2] ?? v.images[1];
   const swatches = p.variants.filter((x, i, a) => x.swatch && a.findIndex((y) => y.swatch === x.swatch) === i);
   const multiPrice = p.variants.some((x) => x.price !== v.price);
   const wished = wishlist.includes(p.slug);
@@ -16,7 +16,7 @@ export function ProductCard({ product: p, priority = false }: { product: Product
 
   return (
     <article className="card">
-      <div className="card-media">
+      <div className={`card-media ${p.category === 'living' ? 'cover' : ''}`}>
         <div className="card-badges">
           {p.badges.slice(0, 1).map((b) => (
             <span key={b} className={`badge ${b === 'Signature' ? 'badge-dark' : ''}`}>

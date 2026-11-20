@@ -6,7 +6,7 @@ import { formatPrice } from '../lib/format';
 import { useStore } from '../lib/store';
 import { Icon } from './Icon';
 
-const SUGGESTIONS = ['Task chair', 'Standing desk', 'Mesh', 'Study table', 'Lounge', 'Walnut'];
+const SUGGESTIONS = ['Sofa', 'Velvet', 'Sectional', 'Executive chair', 'Standing desk', 'Sofa-cum-bed'];
 
 export function Header() {
   const { pathname } = useLocation();
@@ -124,7 +124,7 @@ export function Header() {
 
         <div id="mega" className={`mega ${mega ? 'open' : ''}`} onMouseEnter={openMega}>
           <div className="wrap mega-in">
-            {CATEGORIES.slice(0, 2).map((c) => (
+            {CATEGORIES.slice(0, 3).map((c) => (
               <div key={c.slug}>
                 <h3 className="eyebrow">
                   <Link to={`/shop/${c.slug}`}>{c.title}</Link>
@@ -142,7 +142,17 @@ export function Header() {
               </div>
             ))}
             <div>
-              <h3 className="eyebrow">More</h3>
+              <h3 className="eyebrow">Collections</h3>
+              <ul>
+                {LINES.map((l) => (
+                  <li key={l.slug}>
+                    <Link to={`/collections/${l.slug}`}>{l.name}</Link>
+                  </li>
+                ))}
+              </ul>
+              <h3 className="eyebrow" style={{ marginTop: 24 }}>
+                More
+              </h3>
               <ul>
                 <li>
                   <Link to="/shop/storage">Storage</Link>
@@ -151,29 +161,13 @@ export function Header() {
                   <Link to="/shop/accessories">Accessories</Link>
                 </li>
                 <li>
-                  <Link to="/shop">Shop everything</Link>
-                </li>
-                <li>
-                  <Link to="/compare">Compare pieces</Link>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="eyebrow">Collections</h3>
-              <ul>
-                {LINES.map((l) => (
-                  <li key={l.slug}>
-                    <Link to={`/collections/${l.slug}`}>{l.name}</Link>
-                  </li>
-                ))}
-                <li>
                   <Link to="/trade">For business</Link>
                 </li>
               </ul>
             </div>
-            <Link to="/collections/signature" className="mega-feature">
-              <img src="/images/scenes/room-stripe.webp" alt="" loading="lazy" />
-              <span>The Signature collection</span>
+            <Link to="/shop/living" className="mega-feature">
+              <img src="/images/scenes/living-hero.webp" alt="" loading="lazy" />
+              <span>The living room edit</span>
             </Link>
           </div>
         </div>

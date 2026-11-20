@@ -49,12 +49,12 @@ export function Footer() {
           <div>
             <h4>Shop</h4>
             <ul>
+              <li><Link to="/shop/living">Living & sofas</Link></li>
               <li><Link to="/shop/seating">Seating</Link></li>
               <li><Link to="/shop/desks">Desks & tables</Link></li>
               <li><Link to="/shop/storage">Storage</Link></li>
               <li><Link to="/shop/accessories">Accessories</Link></li>
-              <li><Link to="/collections/signature">Signature collection</Link></li>
-            </ul>
+                          </ul>
           </div>
           <div>
             <h4>Company</h4>

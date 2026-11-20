@@ -1,5 +1,3972 @@
 [
  {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "lino-three-seater-sofa",
+  "code": "LNO3",
+  "name": "Lino",
+  "title": "Lino Three-Seater Sofa",
+  "type": "Three-seater sofa",
+  "line": "Studio",
+  "subcategory": "sofas",
+  "tagline": "Button-tufted, compact and endlessly easy to live with.",
+  "description": "Lino is our everyday sofa: a compact three-seater with a button-tufted back, slim track arms and tapered legs. It fits a city flat without crowding it, in five soft-wearing fabric colours.",
+  "highlights": [
+   "Button-tufted back",
+   "Compact footprint",
+   "Five fabric colours",
+   "Solid tapered legs"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "spaces": [
+   "Living room"
+  ],
+  "story": [
+   {
+    "title": "A soft, durable weave",
+    "text": "A textured, tightly woven upholstery fabric tested for everyday family use, with a soft hand that only gets better with time."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   },
+   {
+    "title": "Built on a solid frame",
+    "text": "Seasoned wood frames, no-sag webbing and tapered solid legs keep the sofa level and quiet for years."
+   }
+  ],
+  "badges": [
+   "Bestseller"
+  ],
+  "rating": 4.7,
+  "reviews": 214,
+  "variants": [
+   {
+    "id": "lino-three-seater-sofa-shell",
+    "key": "shell",
+    "label": "Shell",
+    "options": {
+     "Colour": "Shell"
+    },
+    "swatch": "#6f6c69",
+    "sku": "MGR-LNO3-SHELL",
+    "price": 18999,
+    "available": true,
+    "images": [
+     "/images/products/lino-three-seater-sofa/shell-01.webp",
+     "/images/products/lino-three-seater-sofa/shell-02.webp",
+     "/images/products/lino-three-seater-sofa/shell-03.webp",
+     "/images/products/lino-three-seater-sofa/shell-04.webp",
+     "/images/products/lino-three-seater-sofa/shell-05.webp",
+     "/images/products/lino-three-seater-sofa/shell-06.webp",
+     "/images/products/lino-three-seater-sofa/shell-07.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-three-seater-sofa/shell-1.webp",
+     "/images/details/lino-three-seater-sofa/shell-2.webp",
+     "/images/details/lino-three-seater-sofa/shell-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "190 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-three-seater-sofa-denim",
+    "key": "denim",
+    "label": "Denim",
+    "options": {
+     "Colour": "Denim"
+    },
+    "swatch": "#4b5f86",
+    "sku": "MGR-LNO3-DENIM",
+    "price": 17099,
+    "available": true,
+    "images": [
+     "/images/products/lino-three-seater-sofa/denim-01.webp",
+     "/images/products/lino-three-seater-sofa/denim-02.webp",
+     "/images/products/lino-three-seater-sofa/denim-03.webp",
+     "/images/products/lino-three-seater-sofa/denim-04.webp",
+     "/images/products/lino-three-seater-sofa/denim-05.webp",
+     "/images/products/lino-three-seater-sofa/denim-06.webp",
+     "/images/products/lino-three-seater-sofa/denim-07.webp",
+     "/images/products/lino-three-seater-sofa/denim-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-three-seater-sofa/denim-1.webp",
+     "/images/details/lino-three-seater-sofa/denim-2.webp",
+     "/images/details/lino-three-seater-sofa/denim-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "190 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-three-seater-sofa-teal",
+    "key": "teal",
+    "label": "Lagoon",
+    "options": {
+     "Colour": "Lagoon"
+    },
+    "swatch": "#2f8c92",
+    "sku": "MGR-LNO3-TEAL",
+    "price": 17999,
+    "available": true,
+    "images": [
+     "/images/products/lino-three-seater-sofa/teal-01.webp",
+     "/images/products/lino-three-seater-sofa/teal-02.webp",
+     "/images/products/lino-three-seater-sofa/teal-03.webp",
+     "/images/products/lino-three-seater-sofa/teal-04.webp",
+     "/images/products/lino-three-seater-sofa/teal-05.webp",
+     "/images/products/lino-three-seater-sofa/teal-06.webp",
+     "/images/products/lino-three-seater-sofa/teal-07.webp",
+     "/images/products/lino-three-seater-sofa/teal-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-three-seater-sofa/teal-1.webp",
+     "/images/details/lino-three-seater-sofa/teal-2.webp",
+     "/images/details/lino-three-seater-sofa/teal-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "190 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-three-seater-sofa-walnut",
+    "key": "walnut",
+    "label": "Walnut",
+    "options": {
+     "Colour": "Walnut"
+    },
+    "swatch": "#6b4a32",
+    "sku": "MGR-LNO3-WALNUT",
+    "price": 16999,
+    "available": true,
+    "images": [
+     "/images/products/lino-three-seater-sofa/walnut-01.webp",
+     "/images/products/lino-three-seater-sofa/walnut-02.webp",
+     "/images/products/lino-three-seater-sofa/walnut-03.webp",
+     "/images/products/lino-three-seater-sofa/walnut-04.webp",
+     "/images/products/lino-three-seater-sofa/walnut-05.webp",
+     "/images/products/lino-three-seater-sofa/walnut-06.webp",
+     "/images/products/lino-three-seater-sofa/walnut-07.webp",
+     "/images/products/lino-three-seater-sofa/walnut-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-three-seater-sofa/walnut-1.webp",
+     "/images/details/lino-three-seater-sofa/walnut-2.webp",
+     "/images/details/lino-three-seater-sofa/walnut-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "190 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-three-seater-sofa-mustard",
+    "key": "mustard",
+    "label": "Turmeric",
+    "options": {
+     "Colour": "Turmeric"
+    },
+    "swatch": "#b98a3a",
+    "sku": "MGR-LNO3-MUSTARD",
+    "price": 16999,
+    "available": true,
+    "images": [
+     "/images/products/lino-three-seater-sofa/mustard-01.webp",
+     "/images/products/lino-three-seater-sofa/mustard-02.webp",
+     "/images/products/lino-three-seater-sofa/mustard-03.webp",
+     "/images/products/lino-three-seater-sofa/mustard-04.webp",
+     "/images/products/lino-three-seater-sofa/mustard-05.webp",
+     "/images/products/lino-three-seater-sofa/mustard-06.webp",
+     "/images/products/lino-three-seater-sofa/mustard-07.webp",
+     "/images/products/lino-three-seater-sofa/mustard-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-three-seater-sofa/mustard-1.webp",
+     "/images/details/lino-three-seater-sofa/mustard-2.webp",
+     "/images/details/lino-three-seater-sofa/mustard-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "190 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "lino-armchair",
+  "code": "LNO1",
+  "name": "Lino Armchair",
+  "title": "Lino Armchair",
+  "type": "Armchair",
+  "line": "Studio",
+  "subcategory": "armchairs",
+  "tagline": "The reading chair to match.",
+  "description": "A single-seat companion to the Lino sofa, with the same tufted back and slim arms. Pair it with the sofa or use it alone in a bedroom corner.",
+  "highlights": [
+   "Button-tufted back",
+   "Pairs with Lino sofa",
+   "Four fabric colours",
+   "Small-room friendly"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "spaces": [
+   "Living room",
+   "Bedroom"
+  ],
+  "story": [
+   {
+    "title": "A soft, durable weave",
+    "text": "A textured, tightly woven upholstery fabric tested for everyday family use, with a soft hand that only gets better with time."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   }
+  ],
+  "badges": [],
+  "rating": 4.6,
+  "reviews": 96,
+  "variants": [
+   {
+    "id": "lino-armchair-denim",
+    "key": "denim",
+    "label": "Denim",
+    "options": {
+     "Colour": "Denim"
+    },
+    "swatch": "#4b5f86",
+    "sku": "MGR-LNO1-DENIM",
+    "price": 9799,
+    "available": true,
+    "images": [
+     "/images/products/lino-armchair/denim-01.webp",
+     "/images/products/lino-armchair/denim-02.webp",
+     "/images/products/lino-armchair/denim-03.webp",
+     "/images/products/lino-armchair/denim-04.webp",
+     "/images/products/lino-armchair/denim-05.webp",
+     "/images/products/lino-armchair/denim-06.webp",
+     "/images/products/lino-armchair/denim-07.webp",
+     "/images/products/lino-armchair/denim-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-armchair/denim-1.webp",
+     "/images/details/lino-armchair/denim-2.webp",
+     "/images/details/lino-armchair/denim-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "82 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-armchair-teal",
+    "key": "teal",
+    "label": "Lagoon",
+    "options": {
+     "Colour": "Lagoon"
+    },
+    "swatch": "#2f8c92",
+    "sku": "MGR-LNO1-TEAL",
+    "price": 8999,
+    "available": true,
+    "images": [
+     "/images/products/lino-armchair/teal-01.webp",
+     "/images/products/lino-armchair/teal-02.webp",
+     "/images/products/lino-armchair/teal-03.webp",
+     "/images/products/lino-armchair/teal-04.webp",
+     "/images/products/lino-armchair/teal-05.webp",
+     "/images/products/lino-armchair/teal-06.webp",
+     "/images/products/lino-armchair/teal-07.webp",
+     "/images/products/lino-armchair/teal-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-armchair/teal-1.webp",
+     "/images/details/lino-armchair/teal-2.webp",
+     "/images/details/lino-armchair/teal-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "82 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-armchair-walnut",
+    "key": "walnut",
+    "label": "Walnut",
+    "options": {
+     "Colour": "Walnut"
+    },
+    "swatch": "#6b4a32",
+    "sku": "MGR-LNO1-WALNUT",
+    "price": 7799,
+    "available": true,
+    "images": [
+     "/images/products/lino-armchair/walnut-01.webp",
+     "/images/products/lino-armchair/walnut-02.webp",
+     "/images/products/lino-armchair/walnut-03.webp",
+     "/images/products/lino-armchair/walnut-04.webp",
+     "/images/products/lino-armchair/walnut-05.webp",
+     "/images/products/lino-armchair/walnut-06.webp",
+     "/images/products/lino-armchair/walnut-07.webp",
+     "/images/products/lino-armchair/walnut-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-armchair/walnut-1.webp",
+     "/images/details/lino-armchair/walnut-2.webp",
+     "/images/details/lino-armchair/walnut-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "82 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-armchair-mustard",
+    "key": "mustard",
+    "label": "Turmeric",
+    "options": {
+     "Colour": "Turmeric"
+    },
+    "swatch": "#b98a3a",
+    "sku": "MGR-LNO1-MUSTARD",
+    "price": 9799,
+    "available": true,
+    "images": [
+     "/images/products/lino-armchair/mustard-01.webp",
+     "/images/products/lino-armchair/mustard-02.webp",
+     "/images/products/lino-armchair/mustard-03.webp",
+     "/images/products/lino-armchair/mustard-04.webp",
+     "/images/products/lino-armchair/mustard-05.webp",
+     "/images/products/lino-armchair/mustard-06.webp",
+     "/images/products/lino-armchair/mustard-07.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-armchair/mustard-1.webp",
+     "/images/details/lino-armchair/mustard-2.webp",
+     "/images/details/lino-armchair/mustard-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "82 cm"
+      ],
+      [
+       "Depth",
+       "84 cm"
+      ],
+      [
+       "Height",
+       "84 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "lino-ottoman",
+  "code": "LNOO",
+  "name": "Lino Ottoman",
+  "title": "Lino Ottoman",
+  "type": "Ottoman",
+  "line": "Studio",
+  "subcategory": "ottomans",
+  "tagline": "Feet up, tray down, extra seat in a pinch.",
+  "description": "A generous upholstered ottoman in the Lino fabrics, sturdy enough for a guest and soft enough for tired feet.",
+  "highlights": [
+   "Doubles as a seat",
+   "Matches Lino sofa",
+   "Solid legs",
+   "Two colours"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "spaces": [
+   "Living room"
+  ],
+  "story": [
+   {
+    "title": "A soft, durable weave",
+    "text": "A textured, tightly woven upholstery fabric tested for everyday family use, with a soft hand that only gets better with time."
+   }
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 41,
+  "variants": [
+   {
+    "id": "lino-ottoman-mustard",
+    "key": "mustard",
+    "label": "Turmeric",
+    "options": {
+     "Colour": "Turmeric"
+    },
+    "swatch": "#b98a3a",
+    "sku": "MGR-LNOO-MUSTARD",
+    "price": 4999,
+    "available": true,
+    "images": [
+     "/images/products/lino-ottoman/mustard-01.webp",
+     "/images/products/lino-ottoman/mustard-02.webp",
+     "/images/products/lino-ottoman/mustard-03.webp",
+     "/images/products/lino-ottoman/mustard-04.webp",
+     "/images/products/lino-ottoman/mustard-05.webp",
+     "/images/products/lino-ottoman/mustard-06.webp",
+     "/images/products/lino-ottoman/mustard-07.webp",
+     "/images/products/lino-ottoman/mustard-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-ottoman/mustard-1.webp",
+     "/images/details/lino-ottoman/mustard-2.webp",
+     "/images/details/lino-ottoman/mustard-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "60 cm"
+      ],
+      [
+       "Depth",
+       "45 cm"
+      ],
+      [
+       "Height",
+       "42 cm"
+      ],
+      [
+       "Seat height",
+       "42 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lino-ottoman-teal",
+    "key": "teal",
+    "label": "Lagoon",
+    "options": {
+     "Colour": "Lagoon"
+    },
+    "swatch": "#2f8c92",
+    "sku": "MGR-LNOO-TEAL",
+    "price": 4999,
+    "available": true,
+    "images": [
+     "/images/products/lino-ottoman/teal-01.webp",
+     "/images/products/lino-ottoman/teal-02.webp",
+     "/images/products/lino-ottoman/teal-03.webp",
+     "/images/products/lino-ottoman/teal-04.webp",
+     "/images/products/lino-ottoman/teal-05.webp",
+     "/images/products/lino-ottoman/teal-06.webp",
+     "/images/products/lino-ottoman/teal-07.webp",
+     "/images/products/lino-ottoman/teal-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lino-ottoman/teal-1.webp",
+     "/images/details/lino-ottoman/teal-2.webp",
+     "/images/details/lino-ottoman/teal-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "60 cm"
+      ],
+      [
+       "Depth",
+       "45 cm"
+      ],
+      [
+       "Height",
+       "42 cm"
+      ],
+      [
+       "Seat height",
+       "42 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "sole-three-seater-sofa",
+  "code": "SOL3",
+  "name": "Sole",
+  "title": "Sole Velvet Sofa",
+  "type": "Three-seater sofa",
+  "line": "Atelier",
+  "subcategory": "sofas",
+  "tagline": "Channel-stitched velvet and a low, confident line.",
+  "description": "Sole’s deep seat, rounded arms and vertical channel stitching give it the presence of a bespoke piece. Upholstered in a rich performance velvet in sapphire or rose.",
+  "highlights": [
+   "Channel-stitched back",
+   "Performance velvet",
+   "Deep seat",
+   "Slim metal legs"
+  ],
+  "material": [
+   "Velvet"
+  ],
+  "spaces": [
+   "Living room"
+  ],
+  "story": [
+   {
+    "title": "Velvet with depth",
+    "text": "A dense, low-pile performance velvet that catches the light, resists crushing and wipes clean with a damp cloth."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   },
+   {
+    "title": "Built on a solid frame",
+    "text": "Seasoned wood frames, no-sag webbing and tapered solid legs keep the sofa level and quiet for years."
+   }
+  ],
+  "badges": [
+   "New"
+  ],
+  "rating": 4.8,
+  "reviews": 63,
+  "variants": [
+   {
+    "id": "sole-three-seater-sofa-sapphire",
+    "key": "sapphire",
+    "label": "Sapphire",
+    "options": {
+     "Colour": "Sapphire"
+    },
+    "swatch": "#24448c",
+    "sku": "MGR-SOL3-SAPPHIRE",
+    "price": 39999,
+    "available": true,
+    "images": [
+     "/images/products/sole-three-seater-sofa/sapphire-01.webp",
+     "/images/products/sole-three-seater-sofa/sapphire-02.webp",
+     "/images/products/sole-three-seater-sofa/sapphire-03.webp",
+     "/images/products/sole-three-seater-sofa/sapphire-04.webp",
+     "/images/products/sole-three-seater-sofa/sapphire-05.webp",
+     "/images/products/sole-three-seater-sofa/sapphire-06.webp",
+     "/images/products/sole-three-seater-sofa/sapphire-07.webp",
+     "/images/products/sole-three-seater-sofa/sapphire-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/sole-three-seater-sofa/sapphire-1.webp",
+     "/images/details/sole-three-seater-sofa/sapphire-2.webp",
+     "/images/details/sole-three-seater-sofa/sapphire-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "205 cm"
+      ],
+      [
+       "Depth",
+       "90 cm"
+      ],
+      [
+       "Height",
+       "80 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "sole-three-seater-sofa-rose",
+    "key": "rose",
+    "label": "Rose",
+    "options": {
+     "Colour": "Rose"
+    },
+    "swatch": "#c98b8b",
+    "sku": "MGR-SOL3-ROSE",
+    "price": 39999,
+    "available": true,
+    "images": [
+     "/images/products/sole-three-seater-sofa/rose-01.webp",
+     "/images/products/sole-three-seater-sofa/rose-02.webp",
+     "/images/products/sole-three-seater-sofa/rose-03.webp",
+     "/images/products/sole-three-seater-sofa/rose-04.webp",
+     "/images/products/sole-three-seater-sofa/rose-05.webp",
+     "/images/products/sole-three-seater-sofa/rose-06.webp",
+     "/images/products/sole-three-seater-sofa/rose-07.webp"
+    ],
+    "detailImages": [
+     "/images/details/sole-three-seater-sofa/rose-1.webp",
+     "/images/details/sole-three-seater-sofa/rose-2.webp",
+     "/images/details/sole-three-seater-sofa/rose-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "205 cm"
+      ],
+      [
+       "Depth",
+       "90 cm"
+      ],
+      [
+       "Height",
+       "80 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "sole-armchair",
+  "code": "SOL1",
+  "name": "Sole Armchair",
+  "title": "Sole Armchair",
+  "type": "Armchair",
+  "line": "Atelier",
+  "subcategory": "armchairs",
+  "tagline": "A sculpted accent chair with channel stitching.",
+  "description": "The Sole armchair brings the sofa’s stitched back and rounded arms to a single seat. A statement in rose velvet or plum fabric.",
+  "highlights": [
+   "Channel-stitched back",
+   "Velvet or fabric",
+   "Rounded arms",
+   "Slim metal legs"
+  ],
+  "material": [
+   "Velvet",
+   "Fabric"
+  ],
+  "spaces": [
+   "Living room",
+   "Bedroom"
+  ],
+  "story": [
+   {
+    "title": "Velvet with depth",
+    "text": "A dense, low-pile performance velvet that catches the light, resists crushing and wipes clean with a damp cloth."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   }
+  ],
+  "badges": [],
+  "rating": 4.7,
+  "reviews": 38,
+  "variants": [
+   {
+    "id": "sole-armchair-rose",
+    "key": "rose",
+    "label": "Rose velvet",
+    "options": {
+     "Colour": "Rose velvet"
+    },
+    "swatch": "#c98b8b",
+    "sku": "MGR-SOL1-ROSE",
+    "price": 19999,
+    "available": true,
+    "images": [
+     "/images/products/sole-armchair/rose-01.webp",
+     "/images/products/sole-armchair/rose-02.webp",
+     "/images/products/sole-armchair/rose-03.webp",
+     "/images/products/sole-armchair/rose-04.webp",
+     "/images/products/sole-armchair/rose-05.webp",
+     "/images/products/sole-armchair/rose-06.webp",
+     "/images/products/sole-armchair/rose-07.webp",
+     "/images/products/sole-armchair/rose-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/sole-armchair/rose-1.webp",
+     "/images/details/sole-armchair/rose-2.webp",
+     "/images/details/sole-armchair/rose-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "86 cm"
+      ],
+      [
+       "Depth",
+       "88 cm"
+      ],
+      [
+       "Height",
+       "80 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "sole-armchair-plum",
+    "key": "plum",
+    "label": "Plum fabric",
+    "options": {
+     "Colour": "Plum fabric"
+    },
+    "swatch": "#4a2a4f",
+    "sku": "MGR-SOL1-PLUM",
+    "price": 19999,
+    "available": true,
+    "images": [
+     "/images/products/sole-armchair/plum-01.webp",
+     "/images/products/sole-armchair/plum-02.webp",
+     "/images/products/sole-armchair/plum-03.webp",
+     "/images/products/sole-armchair/plum-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/sole-armchair/plum-1.webp",
+     "/images/details/sole-armchair/plum-2.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "86 cm"
+      ],
+      [
+       "Depth",
+       "88 cm"
+      ],
+      [
+       "Height",
+       "80 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "riviera-sectional-sofa",
+  "code": "RIVL",
+  "name": "Riviera",
+  "title": "Riviera Sectional Sofa",
+  "type": "L-shaped sectional",
+  "line": "Signature",
+  "subcategory": "sectionals",
+  "tagline": "A grand, channel-backed sectional for the whole family.",
+  "description": "Riviera is our signature sectional: a long L-shape with sculpted channel-stitched backs, plump cushions and a lounging chaise. Made for movie nights, long lunches and everyone at once.",
+  "highlights": [
+   "Generous L-shape",
+   "Channel-stitched backs",
+   "Performance velvet",
+   "Lounging chaise"
+  ],
+  "material": [
+   "Velvet"
+  ],
+  "spaces": [
+   "Living room"
+  ],
+  "story": [
+   {
+    "title": "Velvet with depth",
+    "text": "A dense, low-pile performance velvet that catches the light, resists crushing and wipes clean with a damp cloth."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   },
+   {
+    "title": "Built on a solid frame",
+    "text": "Seasoned wood frames, no-sag webbing and tapered solid legs keep the sofa level and quiet for years."
+   }
+  ],
+  "badges": [
+   "Signature"
+  ],
+  "rating": 4.9,
+  "reviews": 47,
+  "variants": [
+   {
+    "id": "riviera-sectional-sofa-sapphire",
+    "key": "sapphire",
+    "label": "Sapphire",
+    "options": {
+     "Colour": "Sapphire"
+    },
+    "swatch": "#24448c",
+    "sku": "MGR-RIVL-SAPPHIRE",
+    "price": 53999,
+    "available": true,
+    "images": [
+     "/images/products/riviera-sectional-sofa/sapphire-01.webp",
+     "/images/products/riviera-sectional-sofa/sapphire-02.webp",
+     "/images/products/riviera-sectional-sofa/sapphire-03.webp",
+     "/images/products/riviera-sectional-sofa/sapphire-04.webp",
+     "/images/products/riviera-sectional-sofa/sapphire-05.webp",
+     "/images/products/riviera-sectional-sofa/sapphire-06.webp",
+     "/images/products/riviera-sectional-sofa/sapphire-07.webp",
+     "/images/products/riviera-sectional-sofa/sapphire-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/riviera-sectional-sofa/sapphire-1.webp",
+     "/images/details/riviera-sectional-sofa/sapphire-2.webp",
+     "/images/details/riviera-sectional-sofa/sapphire-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "290 cm"
+      ],
+      [
+       "Depth",
+       "190 cm"
+      ],
+      [
+       "Height",
+       "85 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "riviera-sectional-sofa-sun",
+    "key": "sun",
+    "label": "Sunflower",
+    "options": {
+     "Colour": "Sunflower"
+    },
+    "swatch": "#d9a531",
+    "sku": "MGR-RIVL-SUN",
+    "price": 55999,
+    "available": true,
+    "images": [
+     "/images/products/riviera-sectional-sofa/sun-01.webp",
+     "/images/products/riviera-sectional-sofa/sun-02.webp",
+     "/images/products/riviera-sectional-sofa/sun-03.webp",
+     "/images/products/riviera-sectional-sofa/sun-04.webp",
+     "/images/products/riviera-sectional-sofa/sun-05.webp",
+     "/images/products/riviera-sectional-sofa/sun-06.webp",
+     "/images/products/riviera-sectional-sofa/sun-07.webp",
+     "/images/products/riviera-sectional-sofa/sun-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/riviera-sectional-sofa/sun-1.webp",
+     "/images/details/riviera-sectional-sofa/sun-2.webp",
+     "/images/details/riviera-sectional-sofa/sun-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "290 cm"
+      ],
+      [
+       "Depth",
+       "190 cm"
+      ],
+      [
+       "Height",
+       "85 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "riviera-sectional-sofa-rose",
+    "key": "rose",
+    "label": "Rose",
+    "options": {
+     "Colour": "Rose"
+    },
+    "swatch": "#c98b8b",
+    "sku": "MGR-RIVL-ROSE",
+    "price": 53999,
+    "available": true,
+    "images": [
+     "/images/products/riviera-sectional-sofa/rose-01.webp",
+     "/images/products/riviera-sectional-sofa/rose-02.webp",
+     "/images/products/riviera-sectional-sofa/rose-03.webp",
+     "/images/products/riviera-sectional-sofa/rose-04.webp",
+     "/images/products/riviera-sectional-sofa/rose-05.webp",
+     "/images/products/riviera-sectional-sofa/rose-06.webp",
+     "/images/products/riviera-sectional-sofa/rose-07.webp",
+     "/images/products/riviera-sectional-sofa/rose-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/riviera-sectional-sofa/rose-1.webp",
+     "/images/details/riviera-sectional-sofa/rose-2.webp",
+     "/images/details/riviera-sectional-sofa/rose-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "290 cm"
+      ],
+      [
+       "Depth",
+       "190 cm"
+      ],
+      [
+       "Height",
+       "85 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "riviera-three-seater-sofa",
+  "code": "RIV3",
+  "name": "Riviera Sofa",
+  "title": "Riviera Three-Seater Sofa",
+  "type": "Three-seater sofa",
+  "line": "Signature",
+  "subcategory": "sofas",
+  "tagline": "All the Riviera presence, in three seats.",
+  "description": "The Riviera three-seater keeps the sectional’s sculpted channel backs and plush velvet in a size suited to smaller living rooms.",
+  "highlights": [
+   "Channel-stitched back",
+   "Performance velvet",
+   "Plump cushions",
+   "Pairs with the sectional"
+  ],
+  "material": [
+   "Velvet"
+  ],
+  "spaces": [
+   "Living room"
+  ],
+  "story": [
+   {
+    "title": "Velvet with depth",
+    "text": "A dense, low-pile performance velvet that catches the light, resists crushing and wipes clean with a damp cloth."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   }
+  ],
+  "badges": [],
+  "rating": 4.8,
+  "reviews": 29,
+  "variants": [
+   {
+    "id": "riviera-three-seater-sofa-sapphire",
+    "key": "sapphire",
+    "label": "Sapphire",
+    "options": {
+     "Colour": "Sapphire"
+    },
+    "swatch": "#24448c",
+    "sku": "MGR-RIV3-SAPPHIRE",
+    "price": 24999,
+    "available": true,
+    "images": [
+     "/images/products/riviera-three-seater-sofa/sapphire-01.webp",
+     "/images/products/riviera-three-seater-sofa/sapphire-02.webp",
+     "/images/products/riviera-three-seater-sofa/sapphire-03.webp",
+     "/images/products/riviera-three-seater-sofa/sapphire-04.webp",
+     "/images/products/riviera-three-seater-sofa/sapphire-05.webp",
+     "/images/products/riviera-three-seater-sofa/sapphire-06.webp",
+     "/images/products/riviera-three-seater-sofa/sapphire-07.webp"
+    ],
+    "detailImages": [
+     "/images/details/riviera-three-seater-sofa/sapphire-1.webp",
+     "/images/details/riviera-three-seater-sofa/sapphire-2.webp",
+     "/images/details/riviera-three-seater-sofa/sapphire-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "210 cm"
+      ],
+      [
+       "Depth",
+       "92 cm"
+      ],
+      [
+       "Height",
+       "85 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "dormi-sofa-cum-bed",
+  "code": "DOR",
+  "name": "Dormi",
+  "title": "Dormi Sofa-cum-Bed",
+  "type": "Sofa-cum-bed",
+  "line": "Atelier",
+  "subcategory": "sofa-beds",
+  "tagline": "A sofa by day, a guest bed in seconds.",
+  "description": "Dormi’s seat pulls forward and its adjustable headrests fold flat to make a comfortable double bed, with storage hidden underneath for linen. Upholstered in deep teal velvet.",
+  "highlights": [
+   "Converts to a double bed",
+   "Adjustable headrests",
+   "Under-seat storage",
+   "Deep teal velvet"
+  ],
+  "material": [
+   "Velvet"
+  ],
+  "spaces": [
+   "Living room",
+   "Guest room"
+  ],
+  "story": [
+   {
+    "title": "Two pieces in one",
+    "text": "A smooth pull-out mechanism turns the sofa into a bed in under a minute, without removing a single cushion."
+   },
+   {
+    "title": "Velvet with depth",
+    "text": "A dense, low-pile performance velvet that catches the light, resists crushing and wipes clean with a damp cloth."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   }
+  ],
+  "badges": [],
+  "rating": 4.6,
+  "reviews": 34,
+  "variants": [
+   {
+    "id": "dormi-sofa-cum-bed-teal",
+    "key": "teal",
+    "label": "Deep teal",
+    "options": {},
+    "swatch": "#1f5a5a",
+    "sku": "MGR-DOR-TEAL",
+    "price": 42199,
+    "available": true,
+    "images": [
+     "/images/products/dormi-sofa-cum-bed/teal-01.webp",
+     "/images/products/dormi-sofa-cum-bed/teal-02.webp",
+     "/images/products/dormi-sofa-cum-bed/teal-03.webp",
+     "/images/products/dormi-sofa-cum-bed/teal-04.webp",
+     "/images/products/dormi-sofa-cum-bed/teal-05.webp",
+     "/images/products/dormi-sofa-cum-bed/teal-06.webp",
+     "/images/products/dormi-sofa-cum-bed/teal-07.webp",
+     "/images/products/dormi-sofa-cum-bed/teal-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/dormi-sofa-cum-bed/teal-1.webp",
+     "/images/details/dormi-sofa-cum-bed/teal-2.webp",
+     "/images/details/dormi-sofa-cum-bed/teal-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "220 cm"
+      ],
+      [
+       "Depth (sofa)",
+       "100 cm"
+      ],
+      [
+       "Depth (bed)",
+       "190 cm"
+      ],
+      [
+       "Height",
+       "85 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "sogno-sofa-cum-bed",
+  "code": "SOG",
+  "name": "Sogno",
+  "title": "Sogno Sofa-cum-Bed",
+  "type": "Sofa-cum-bed",
+  "line": "Studio",
+  "subcategory": "sofa-beds",
+  "tagline": "A clean-lined sectional that opens into a bed.",
+  "description": "Sogno is a soft grey sectional with a pull-out bed and a storage chaise. Ideal for flats where the living room doubles as the guest room.",
+  "highlights": [
+   "Pull-out bed",
+   "Storage chaise",
+   "Soft grey fabric",
+   "Reversible layout"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "spaces": [
+   "Living room",
+   "Guest room"
+  ],
+  "story": [
+   {
+    "title": "Room for guests",
+    "text": "The seat slides out into a full sleeping surface and the chaise lifts to reveal storage for pillows and linen."
+   },
+   {
+    "title": "A soft, durable weave",
+    "text": "A textured, tightly woven upholstery fabric tested for everyday family use, with a soft hand that only gets better with time."
+   }
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 27,
+  "variants": [
+   {
+    "id": "sogno-sofa-cum-bed-grey",
+    "key": "grey",
+    "label": "Fog grey",
+    "options": {},
+    "swatch": "#7a7876",
+    "sku": "MGR-SOG-GREY",
+    "price": 39999,
+    "available": true,
+    "images": [
+     "/images/products/sogno-sofa-cum-bed/grey-01.webp",
+     "/images/products/sogno-sofa-cum-bed/grey-02.webp",
+     "/images/products/sogno-sofa-cum-bed/grey-03.webp",
+     "/images/products/sogno-sofa-cum-bed/grey-04.webp",
+     "/images/products/sogno-sofa-cum-bed/grey-05.webp",
+     "/images/products/sogno-sofa-cum-bed/grey-06.webp",
+     "/images/products/sogno-sofa-cum-bed/grey-07.webp",
+     "/images/products/sogno-sofa-cum-bed/grey-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/sogno-sofa-cum-bed/grey-1.webp",
+     "/images/details/sogno-sofa-cum-bed/grey-2.webp",
+     "/images/details/sogno-sofa-cum-bed/grey-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "250 cm"
+      ],
+      [
+       "Depth",
+       "160 cm"
+      ],
+      [
+       "Height",
+       "85 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "lido-chaise-lounge",
+  "code": "LID",
+  "name": "Lido",
+  "title": "Lido Chaise Lounge",
+  "type": "Chaise lounge",
+  "line": "Atelier",
+  "subcategory": "chaises",
+  "tagline": "Stretch out by the window.",
+  "description": "Lido is a long, low chaise with a single sculpted arm and a loose bolster: the most relaxed seat in the house, with hidden storage beneath.",
+  "highlights": [
+   "Full-length lounging",
+   "Hidden storage",
+   "Loose bolster",
+   "Two velvet colours"
+  ],
+  "material": [
+   "Velvet"
+  ],
+  "spaces": [
+   "Living room",
+   "Bedroom"
+  ],
+  "story": [
+   {
+    "title": "Velvet with depth",
+    "text": "A dense, low-pile performance velvet that catches the light, resists crushing and wipes clean with a damp cloth."
+   },
+   {
+    "title": "Sink in, sit up",
+    "text": "High-resilience foam cores wrapped in fibre give the first-touch softness of a lounge sofa with the support to sit upright for a long conversation."
+   }
+  ],
+  "badges": [
+   "New"
+  ],
+  "rating": 4.7,
+  "reviews": 22,
+  "variants": [
+   {
+    "id": "lido-chaise-lounge-rose",
+    "key": "rose",
+    "label": "Rose",
+    "options": {
+     "Colour": "Rose"
+    },
+    "swatch": "#c98b8b",
+    "sku": "MGR-LID-ROSE",
+    "price": 31499,
+    "available": true,
+    "images": [
+     "/images/products/lido-chaise-lounge/rose-01.webp",
+     "/images/products/lido-chaise-lounge/rose-02.webp",
+     "/images/products/lido-chaise-lounge/rose-03.webp",
+     "/images/products/lido-chaise-lounge/rose-04.webp",
+     "/images/products/lido-chaise-lounge/rose-05.webp",
+     "/images/products/lido-chaise-lounge/rose-06.webp",
+     "/images/products/lido-chaise-lounge/rose-07.webp",
+     "/images/products/lido-chaise-lounge/rose-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lido-chaise-lounge/rose-1.webp",
+     "/images/details/lido-chaise-lounge/rose-2.webp",
+     "/images/details/lido-chaise-lounge/rose-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "170 cm"
+      ],
+      [
+       "Depth",
+       "80 cm"
+      ],
+      [
+       "Height",
+       "78 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "lido-chaise-lounge-turmeric",
+    "key": "turmeric",
+    "label": "Turmeric",
+    "options": {
+     "Colour": "Turmeric"
+    },
+    "swatch": "#c9952f",
+    "sku": "MGR-LID-TURMERIC",
+    "price": 30499,
+    "available": true,
+    "images": [
+     "/images/products/lido-chaise-lounge/turmeric-01.webp",
+     "/images/products/lido-chaise-lounge/turmeric-02.webp",
+     "/images/products/lido-chaise-lounge/turmeric-03.webp",
+     "/images/products/lido-chaise-lounge/turmeric-04.webp",
+     "/images/products/lido-chaise-lounge/turmeric-05.webp",
+     "/images/products/lido-chaise-lounge/turmeric-06.webp",
+     "/images/products/lido-chaise-lounge/turmeric-07.webp",
+     "/images/products/lido-chaise-lounge/turmeric-08.webp"
+    ],
+    "detailImages": [
+     "/images/details/lido-chaise-lounge/turmeric-1.webp",
+     "/images/details/lido-chaise-lounge/turmeric-2.webp",
+     "/images/details/lido-chaise-lounge/turmeric-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "170 cm"
+      ],
+      [
+       "Depth",
+       "80 cm"
+      ],
+      [
+       "Height",
+       "78 cm"
+      ],
+      [
+       "Seat height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "baithak-diwan",
+  "code": "BAI",
+  "name": "Baithak",
+  "title": "Baithak Diwan & Floor Cushions",
+  "type": "Diwan",
+  "line": "Atelier",
+  "subcategory": "chaises",
+  "tagline": "A modern take on the Indian baithak.",
+  "description": "Baithak is a low diwan with a set of matching floor cushions, for relaxed gatherings close to the ground. Rearrange it as a daybed, a lounge or extra seating for a festive evening.",
+  "highlights": [
+   "Low diwan",
+   "Matching floor cushions",
+   "Modular layout",
+   "Honey-gold fabric"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "spaces": [
+   "Living room"
+  ],
+  "story": [
+   {
+    "title": "Close to the ground",
+    "text": "Inspired by traditional Indian floor seating, Baithak invites people to sit, sprawl and gather however they like."
+   },
+   {
+    "title": "A soft, durable weave",
+    "text": "A textured, tightly woven upholstery fabric tested for everyday family use, with a soft hand that only gets better with time."
+   }
+  ],
+  "badges": [],
+  "rating": 4.6,
+  "reviews": 18,
+  "variants": [
+   {
+    "id": "baithak-diwan-honey",
+    "key": "honey",
+    "label": "Honey",
+    "options": {},
+    "swatch": "#c79a3c",
+    "sku": "MGR-BAI-HONEY",
+    "price": 22999,
+    "available": true,
+    "images": [
+     "/images/products/baithak-diwan/honey-01.webp",
+     "/images/products/baithak-diwan/honey-02.webp",
+     "/images/products/baithak-diwan/honey-03.webp",
+     "/images/products/baithak-diwan/honey-04.webp",
+     "/images/products/baithak-diwan/honey-05.webp",
+     "/images/products/baithak-diwan/honey-06.webp",
+     "/images/products/baithak-diwan/honey-07.webp"
+    ],
+    "detailImages": [
+     "/images/details/baithak-diwan/honey-1.webp",
+     "/images/details/baithak-diwan/honey-2.webp",
+     "/images/details/baithak-diwan/honey-3.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "190 cm"
+      ],
+      [
+       "Depth",
+       "80 cm"
+      ],
+      [
+       "Height",
+       "60 cm"
+      ],
+      [
+       "Seat height",
+       "32 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "living",
+  "warranty": "5-year frame warranty",
+  "leadTime": "Delivers in 7–10 working days",
+  "faqs": [
+   {
+    "q": "How is the sofa delivered?",
+    "a": "Our own crew delivers, carries it to the room of your choice, attaches the legs and removes all packaging. Please check door and lift widths against the dimensions before ordering."
+   },
+   {
+    "q": "What is the frame made of?",
+    "a": "Seasoned hardwood and engineered-wood frames with no-sag webbing and high-resilience foam, wrapped in a soft fibre layer for a relaxed sit."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame against manufacturing defects, and one year on upholstery, foam and legs."
+   },
+   {
+    "q": "Can I see the fabric before I buy?",
+    "a": "Yes. Visit a studio, or ask us to post free swatches of up to four colours to your home."
+   }
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "slug": "bambino-kids-sofa",
+  "code": "BAM",
+  "name": "Bambino",
+  "title": "Bambino Kids’ Sofa",
+  "type": "Kids’ sofa",
+  "line": "Studio",
+  "subcategory": "ottomans",
+  "tagline": "A little armchair for little people.",
+  "description": "Bambino is a rounded, child-sized armchair with no hard edges, upholstered in an easy-clean fabric for reading corners and playrooms.",
+  "highlights": [
+   "Child-sized",
+   "Rounded, soft edges",
+   "Easy-clean fabric",
+   "Lightweight"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "spaces": [
+   "Kids’ room"
+  ],
+  "story": [
+   {
+    "title": "Made for small hands",
+    "text": "Rounded corners, a low seat and a light frame make Bambino safe to climb into and easy to move."
+   }
+  ],
+  "badges": [],
+  "rating": 4.8,
+  "reviews": 31,
+  "variants": [
+   {
+    "id": "bambino-kids-sofa-amber",
+    "key": "amber",
+    "label": "Amber",
+    "options": {
+     "Colour": "Amber"
+    },
+    "swatch": "#e2a43a",
+    "sku": "MGR-BAM-AMBER",
+    "price": 8799,
+    "available": true,
+    "images": [
+     "/images/products/bambino-kids-sofa/amber-01.webp",
+     "/images/products/bambino-kids-sofa/amber-02.webp",
+     "/images/products/bambino-kids-sofa/amber-03.webp",
+     "/images/products/bambino-kids-sofa/amber-04.webp",
+     "/images/products/bambino-kids-sofa/amber-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/bambino-kids-sofa/amber-1.webp",
+     "/images/details/bambino-kids-sofa/amber-2.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "60 cm"
+      ],
+      [
+       "Depth",
+       "55 cm"
+      ],
+      [
+       "Height",
+       "55 cm"
+      ],
+      [
+       "Seat height",
+       "26 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "bambino-kids-sofa-sage",
+    "key": "sage",
+    "label": "Sage",
+    "options": {
+     "Colour": "Sage"
+    },
+    "swatch": "#9fae8a",
+    "sku": "MGR-BAM-SAGE",
+    "price": 8799,
+    "available": true,
+    "images": [
+     "/images/products/bambino-kids-sofa/sage-01.webp",
+     "/images/products/bambino-kids-sofa/sage-02.webp",
+     "/images/products/bambino-kids-sofa/sage-03.webp",
+     "/images/products/bambino-kids-sofa/sage-04.webp",
+     "/images/products/bambino-kids-sofa/sage-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/bambino-kids-sofa/sage-1.webp",
+     "/images/details/bambino-kids-sofa/sage-2.webp"
+    ],
+    "specs": {
+     "Indicative dimensions": [
+      [
+       "Width",
+       "60 cm"
+      ],
+      [
+       "Depth",
+       "55 cm"
+      ],
+      [
+       "Height",
+       "55 cm"
+      ],
+      [
+       "Seat height",
+       "26 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [
+   "Signature"
+  ],
+  "slug": "marea-executive-chair",
+  "code": "MAR",
+  "name": "Marea",
+  "title": "Marea Executive Chair",
+  "line": "Signature",
+  "tagline": "Cream leather, sculpted like a lounge chair.",
+  "description": "Marea is our most indulgent executive chair: a deeply padded, wing-like back in cream composite leather on a polished base. For the corner office or the home study that deserves it.",
+  "highlights": [
+   "Sculpted wing back",
+   "Cream composite leather",
+   "Synchro tilt",
+   "Polished aluminium base"
+  ],
+  "rating": 4.9,
+  "reviews": 12,
+  "variants": [
+   {
+    "id": "marea-executive-chair-cream",
+    "key": "cream",
+    "label": "Cream",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-MAR-CREAM",
+    "price": 78000,
+    "available": true,
+    "images": [
+     "/images/products/marea-executive-chair/cream-01.webp",
+     "/images/products/marea-executive-chair/cream-02.webp",
+     "/images/products/marea-executive-chair/cream-03.webp"
+    ],
+    "detailImages": [
+     "/images/details/marea-executive-chair/cream-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [
+   "Signature"
+  ],
+  "slug": "luna-executive-chair",
+  "code": "LUN",
+  "name": "Luna",
+  "title": "Luna Executive Chair",
+  "line": "Signature",
+  "tagline": "A tan leather classic with a modern frame.",
+  "description": "Luna pairs a softly curved, channel-padded back in tan leather with a slender frame and armrests. Warm, generous and quietly authoritative.",
+  "highlights": [
+   "Channel-padded back",
+   "Tan composite leather",
+   "Synchro tilt",
+   "Padded armrests"
+  ],
+  "rating": 4.9,
+  "reviews": 16,
+  "variants": [
+   {
+    "id": "luna-executive-chair-tan",
+    "key": "tan",
+    "label": "Tan",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-LUN-TAN",
+    "price": 69000,
+    "available": true,
+    "images": [
+     "/images/products/luna-executive-chair/tan-01.webp",
+     "/images/products/luna-executive-chair/tan-02.webp",
+     "/images/products/luna-executive-chair/tan-03.webp",
+     "/images/products/luna-executive-chair/tan-04.webp",
+     "/images/products/luna-executive-chair/tan-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/luna-executive-chair/tan-1.webp",
+     "/images/details/luna-executive-chair/tan-2.webp",
+     "/images/details/luna-executive-chair/tan-3.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest",
+   "Adjustable arms",
+   "Lumbar support",
+   "Seat depth"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "story": [
+   {
+    "title": "Breathable support",
+    "text": "A taut technical mesh back keeps air moving while a sculpted frame supports the spine through the day."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [
+   "Signature"
+  ],
+  "slug": "aurelio-ergonomic-chair",
+  "code": "AUR",
+  "name": "Aurelio",
+  "title": "Aurelio Ergonomic Chair",
+  "line": "Signature",
+  "tagline": "Every adjustment, engineered in mesh.",
+  "description": "Aurelio is a fully adjustable ergonomic chair with a dynamic lumbar, 4D arms, sliding seat and a contoured headrest, all in breathable technical mesh on a polished frame.",
+  "highlights": [
+   "Dynamic lumbar support",
+   "4D armrests",
+   "Sliding seat",
+   "Adjustable headrest"
+  ],
+  "rating": 4.8,
+  "reviews": 41,
+  "variants": [
+   {
+    "id": "aurelio-ergonomic-chair-grey",
+    "key": "grey",
+    "label": "Grey",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-AUR-GREY",
+    "price": 64000,
+    "available": true,
+    "images": [
+     "/images/products/aurelio-ergonomic-chair/grey-01.webp",
+     "/images/products/aurelio-ergonomic-chair/grey-02.webp",
+     "/images/products/aurelio-ergonomic-chair/grey-03.webp",
+     "/images/products/aurelio-ergonomic-chair/grey-04.webp",
+     "/images/products/aurelio-ergonomic-chair/grey-05.webp",
+     "/images/products/aurelio-ergonomic-chair/grey-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/aurelio-ergonomic-chair/grey-1.webp",
+     "/images/details/aurelio-ergonomic-chair/grey-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest",
+   "Adjustable arms",
+   "Lumbar support"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "story": [
+   {
+    "title": "Breathable support",
+    "text": "A taut technical mesh back keeps air moving while a sculpted frame supports the spine through the day."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   }
+  ],
+  "badges": [],
+  "slug": "astra-executive-chair",
+  "code": "AST",
+  "name": "Astra",
+  "title": "Astra Executive Chair",
+  "line": "Signature",
+  "tagline": "Pale, precise and quietly futuristic.",
+  "description": "Astra’s white frame and pale grey mesh read as light as air, while an adjustable headrest and lumbar keep you supported for hours.",
+  "highlights": [
+   "White frame, grey mesh",
+   "Adjustable lumbar",
+   "Adjustable headrest",
+   "Synchro tilt"
+  ],
+  "rating": 4.7,
+  "reviews": 19,
+  "variants": [
+   {
+    "id": "astra-executive-chair-white",
+    "key": "white",
+    "label": "White & grey",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-AST-WHITE",
+    "price": 46999,
+    "available": true,
+    "images": [
+     "/images/products/astra-executive-chair/white-01.webp",
+     "/images/products/astra-executive-chair/white-02.webp",
+     "/images/products/astra-executive-chair/white-03.webp",
+     "/images/products/astra-executive-chair/white-04.webp",
+     "/images/products/astra-executive-chair/white-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/astra-executive-chair/white-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "ambra-executive-chair",
+  "code": "AMB",
+  "name": "Ambra",
+  "title": "Ambra Executive Chair",
+  "line": "Signature",
+  "tagline": "Cognac leather on a slim, modern frame.",
+  "description": "Ambra’s tall cognac-leather back sits on a minimal frame with floating armrests, a contemporary take on the executive chair.",
+  "highlights": [
+   "Cognac composite leather",
+   "Floating armrests",
+   "Synchro tilt",
+   "Polished base"
+  ],
+  "rating": 4.8,
+  "reviews": 14,
+  "variants": [
+   {
+    "id": "ambra-executive-chair-cognac",
+    "key": "cognac",
+    "label": "Cognac",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-AMB-COGNAC",
+    "price": 39000,
+    "available": true,
+    "images": [
+     "/images/products/ambra-executive-chair/cognac-01.webp",
+     "/images/products/ambra-executive-chair/cognac-02.webp",
+     "/images/products/ambra-executive-chair/cognac-03.webp",
+     "/images/products/ambra-executive-chair/cognac-04.webp",
+     "/images/products/ambra-executive-chair/cognac-05.webp",
+     "/images/products/ambra-executive-chair/cognac-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/ambra-executive-chair/cognac-1.webp",
+     "/images/details/ambra-executive-chair/cognac-2.webp",
+     "/images/details/ambra-executive-chair/cognac-3.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [
+   "Bestseller"
+  ],
+  "slug": "conte-executive-chair",
+  "code": "CON",
+  "name": "Conte",
+  "title": "Conte Executive Chair",
+  "line": "Signature",
+  "tagline": "Bent-ply comfort, tailored in leather.",
+  "description": "Conte’s curved bent-plywood back carries a three-layer cushion for firm lumbar support, finished in brown or beige leather with chrome arms.",
+  "highlights": [
+   "Bent-ply curved back",
+   "Three-layer cushion",
+   "Chrome armrests",
+   "Two colours"
+  ],
+  "rating": 4.8,
+  "reviews": 52,
+  "variants": [
+   {
+    "id": "conte-executive-chair-brown",
+    "key": "brown",
+    "label": "Brown",
+    "options": {
+     "Colour": "Brown"
+    },
+    "swatch": "#6b4330",
+    "sku": "MGR-CON-BROWN",
+    "price": 37000,
+    "available": true,
+    "images": [
+     "/images/products/conte-executive-chair/brown-01.webp",
+     "/images/products/conte-executive-chair/brown-02.webp",
+     "/images/products/conte-executive-chair/brown-03.webp",
+     "/images/products/conte-executive-chair/brown-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/conte-executive-chair/brown-1.webp",
+     "/images/details/conte-executive-chair/brown-2.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "conte-executive-chair-beige",
+    "key": "beige",
+    "label": "Beige",
+    "options": {
+     "Colour": "Beige"
+    },
+    "swatch": "#d8c7ad",
+    "sku": "MGR-CON-BEIGE",
+    "price": 37000,
+    "available": true,
+    "images": [
+     "/images/products/conte-executive-chair/beige-01.webp",
+     "/images/products/conte-executive-chair/beige-02.webp",
+     "/images/products/conte-executive-chair/beige-03.webp",
+     "/images/products/conte-executive-chair/beige-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/conte-executive-chair/beige-1.webp",
+     "/images/details/conte-executive-chair/beige-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "perla-executive-chair",
+  "code": "PER",
+  "name": "Perla",
+  "title": "Perla Executive Chair",
+  "line": "Signature",
+  "tagline": "Ivory and chrome for the bright office.",
+  "description": "Perla’s ivory leather shell and chrome frame bring a light, gallery-like elegance to the boardroom or a sunlit study.",
+  "highlights": [
+   "Ivory composite leather",
+   "Chrome frame",
+   "Synchro tilt",
+   "Integrated headrest"
+  ],
+  "rating": 4.7,
+  "reviews": 11,
+  "variants": [
+   {
+    "id": "perla-executive-chair-ivory",
+    "key": "ivory",
+    "label": "Ivory",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-PER-IVORY",
+    "price": 35000,
+    "available": true,
+    "images": [
+     "/images/products/perla-executive-chair/ivory-01.webp",
+     "/images/products/perla-executive-chair/ivory-02.webp",
+     "/images/products/perla-executive-chair/ivory-03.webp",
+     "/images/products/perla-executive-chair/ivory-04.webp",
+     "/images/products/perla-executive-chair/ivory-05.webp",
+     "/images/products/perla-executive-chair/ivory-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/perla-executive-chair/ivory-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "corona-executive-chair",
+  "code": "COR",
+  "name": "Corona",
+  "title": "Corona Executive Chair",
+  "line": "Signature",
+  "tagline": "Boardroom presence in two back heights.",
+  "description": "Corona is a tall, generously padded executive chair in ivory leather, also available with a medium back for meeting rooms.",
+  "highlights": [
+   "Generous padding",
+   "Two back heights",
+   "Synchro tilt",
+   "Polished base"
+  ],
+  "rating": 4.7,
+  "reviews": 23,
+  "variants": [
+   {
+    "id": "corona-executive-chair-high",
+    "key": "high",
+    "label": "High back",
+    "options": {
+     "Back height": "High back"
+    },
+    "swatch": null,
+    "sku": "MGR-COR-HIGH",
+    "price": 35000,
+    "available": true,
+    "images": [
+     "/images/products/corona-executive-chair/high-01.webp",
+     "/images/products/corona-executive-chair/high-02.webp"
+    ],
+    "detailImages": [
+     "/images/details/corona-executive-chair/high-1.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "corona-executive-chair-mid",
+    "key": "mid",
+    "label": "Medium back",
+    "options": {
+     "Back height": "Medium back"
+    },
+    "swatch": null,
+    "sku": "MGR-COR-MID",
+    "price": 34000,
+    "available": true,
+    "images": [
+     "/images/products/corona-executive-chair/mid-01.webp",
+     "/images/products/corona-executive-chair/mid-02.webp",
+     "/images/products/corona-executive-chair/mid-03.webp",
+     "/images/products/corona-executive-chair/mid-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/corona-executive-chair/mid-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "filo-executive-chair",
+  "code": "FIL",
+  "name": "Filo",
+  "title": "Filo Executive Chair",
+  "line": "Signature",
+  "tagline": "Graphic black leather, slim as a pencil line.",
+  "description": "Filo’s narrow, tall black back and slender arms give it a strikingly graphic profile, comfortable enough for long days at the desk.",
+  "highlights": [
+   "Slim tall back",
+   "Black composite leather",
+   "Synchro tilt",
+   "Aluminium base"
+  ],
+  "rating": 4.7,
+  "reviews": 17,
+  "variants": [
+   {
+    "id": "filo-executive-chair-black",
+    "key": "black",
+    "label": "Black",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-FIL-BLACK",
+    "price": 34000,
+    "available": true,
+    "images": [
+     "/images/products/filo-executive-chair/black-01.webp",
+     "/images/products/filo-executive-chair/black-02.webp",
+     "/images/products/filo-executive-chair/black-03.webp",
+     "/images/products/filo-executive-chair/black-04.webp",
+     "/images/products/filo-executive-chair/black-05.webp",
+     "/images/products/filo-executive-chair/black-06.webp",
+     "/images/products/filo-executive-chair/black-07.webp"
+    ],
+    "detailImages": [
+     "/images/details/filo-executive-chair/black-1.webp",
+     "/images/details/filo-executive-chair/black-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "vino-executive-chair",
+  "code": "VIN",
+  "name": "Vino",
+  "title": "Vino Executive Chair",
+  "line": "Signature",
+  "tagline": "Oxblood leather with a sculpted, cushioned back.",
+  "description": "Vino is wrapped in a deep oxblood leather with a sculpted, pillowed back, a chair with real character for a study or private office.",
+  "highlights": [
+   "Oxblood composite leather",
+   "Pillowed back",
+   "Synchro tilt",
+   "Padded arms"
+  ],
+  "rating": 4.8,
+  "reviews": 9,
+  "variants": [
+   {
+    "id": "vino-executive-chair-oxblood",
+    "key": "oxblood",
+    "label": "Oxblood",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-VIN-OXBLOOD",
+    "price": 34000,
+    "available": true,
+    "images": [
+     "/images/products/vino-executive-chair/oxblood-01.webp",
+     "/images/products/vino-executive-chair/oxblood-02.webp",
+     "/images/products/vino-executive-chair/oxblood-03.webp",
+     "/images/products/vino-executive-chair/oxblood-04.webp",
+     "/images/products/vino-executive-chair/oxblood-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/vino-executive-chair/oxblood-1.webp",
+     "/images/details/vino-executive-chair/oxblood-2.webp",
+     "/images/details/vino-executive-chair/oxblood-3.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "felice-executive-chair",
+  "code": "FEL",
+  "name": "Felice",
+  "title": "Felice Executive Chair",
+  "line": "Signature",
+  "tagline": "White and tan, high or mid back.",
+  "description": "Felice combines a white frame with a tan leather back in a soft, contemporary silhouette. Choose a high back for the desk or a mid back for the meeting table.",
+  "highlights": [
+   "White frame, tan back",
+   "Two back heights",
+   "Synchro tilt",
+   "Polished base"
+  ],
+  "rating": 4.7,
+  "reviews": 21,
+  "variants": [
+   {
+    "id": "felice-executive-chair-high",
+    "key": "high",
+    "label": "High back",
+    "options": {
+     "Back height": "High back"
+    },
+    "swatch": null,
+    "sku": "MGR-FEL-HIGH",
+    "price": 30000,
+    "available": true,
+    "images": [
+     "/images/products/felice-executive-chair/high-01.webp",
+     "/images/products/felice-executive-chair/high-02.webp",
+     "/images/products/felice-executive-chair/high-03.webp",
+     "/images/products/felice-executive-chair/high-04.webp",
+     "/images/products/felice-executive-chair/high-05.webp",
+     "/images/products/felice-executive-chair/high-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/felice-executive-chair/high-1.webp",
+     "/images/details/felice-executive-chair/high-2.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "felice-executive-chair-mid",
+    "key": "mid",
+    "label": "Mid back",
+    "options": {
+     "Back height": "Mid back"
+    },
+    "swatch": null,
+    "sku": "MGR-FEL-MID",
+    "price": 29000,
+    "available": true,
+    "images": [
+     "/images/products/felice-executive-chair/mid-01.webp",
+     "/images/products/felice-executive-chair/mid-02.webp",
+     "/images/products/felice-executive-chair/mid-03.webp",
+     "/images/products/felice-executive-chair/mid-04.webp",
+     "/images/products/felice-executive-chair/mid-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/felice-executive-chair/mid-1.webp",
+     "/images/details/felice-executive-chair/mid-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "magno-executive-chair",
+  "code": "MAG",
+  "name": "Magno",
+  "title": "Magno Executive Chair",
+  "line": "Atelier",
+  "tagline": "Cream leather with a contoured headrest.",
+  "description": "Magno’s contoured cream leather back flows into an integrated headrest, supported by a robust synchro mechanism.",
+  "highlights": [
+   "Contoured back",
+   "Integrated headrest",
+   "Cream composite leather",
+   "Synchro tilt"
+  ],
+  "rating": 4.6,
+  "reviews": 15,
+  "variants": [
+   {
+    "id": "magno-executive-chair-cream",
+    "key": "cream",
+    "label": "Cream",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-MAG-CREAM",
+    "price": 30000,
+    "available": true,
+    "images": [
+     "/images/products/magno-executive-chair/cream-01.webp",
+     "/images/products/magno-executive-chair/cream-02.webp",
+     "/images/products/magno-executive-chair/cream-03.webp",
+     "/images/products/magno-executive-chair/cream-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/magno-executive-chair/cream-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "cotto-executive-chair",
+  "code": "COT",
+  "name": "Cotto",
+  "title": "Cotto Executive Chair",
+  "line": "Atelier",
+  "tagline": "Terracotta leather, made for warm interiors.",
+  "description": "Cotto’s terracotta-brown leather and tall rounded back bring warmth to wood-panelled offices and earthy home studies.",
+  "highlights": [
+   "Terracotta composite leather",
+   "Tall rounded back",
+   "Synchro tilt",
+   "Chrome arms"
+  ],
+  "rating": 4.7,
+  "reviews": 13,
+  "variants": [
+   {
+    "id": "cotto-executive-chair-terracotta",
+    "key": "terracotta",
+    "label": "Terracotta",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-COT-TERRACOTTA",
+    "price": 30000,
+    "available": true,
+    "images": [
+     "/images/products/cotto-executive-chair/terracotta-01.webp",
+     "/images/products/cotto-executive-chair/terracotta-02.webp",
+     "/images/products/cotto-executive-chair/terracotta-03.webp",
+     "/images/products/cotto-executive-chair/terracotta-04.webp",
+     "/images/products/cotto-executive-chair/terracotta-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/cotto-executive-chair/terracotta-1.webp",
+     "/images/details/cotto-executive-chair/terracotta-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest",
+   "Adjustable arms",
+   "Lumbar support"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "story": [
+   {
+    "title": "Breathable support",
+    "text": "A taut technical mesh back keeps air moving while a sculpted frame supports the spine through the day."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   }
+  ],
+  "badges": [],
+  "slug": "gravita-ergonomic-chair",
+  "code": "GRA2",
+  "name": "Gravità",
+  "title": "Gravità Ergonomic Chair",
+  "line": "Atelier",
+  "tagline": "A flexing mesh back that follows every move.",
+  "description": "Gravità’s flexible mesh back and adaptive lumbar move with you as you reach and recline, with adjustable arms and headrest.",
+  "highlights": [
+   "Flexing mesh back",
+   "Adaptive lumbar",
+   "Adjustable arms",
+   "Adjustable headrest"
+  ],
+  "rating": 4.7,
+  "reviews": 36,
+  "variants": [
+   {
+    "id": "gravita-ergonomic-chair-black",
+    "key": "black",
+    "label": "Black & grey",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-GRA2-BLACK",
+    "price": 26500,
+    "available": true,
+    "images": [
+     "/images/products/gravita-ergonomic-chair/black-01.webp",
+     "/images/products/gravita-ergonomic-chair/black-02.webp",
+     "/images/products/gravita-ergonomic-chair/black-03.webp",
+     "/images/products/gravita-ergonomic-chair/black-04.webp",
+     "/images/products/gravita-ergonomic-chair/black-05.webp",
+     "/images/products/gravita-ergonomic-chair/black-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/gravita-ergonomic-chair/black-1.webp",
+     "/images/details/gravita-ergonomic-chair/black-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest",
+   "Adjustable arms",
+   "Lumbar support"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "story": [
+   {
+    "title": "Breathable support",
+    "text": "A taut technical mesh back keeps air moving while a sculpted frame supports the spine through the day."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   }
+  ],
+  "badges": [],
+  "slug": "brezza-ergonomic-chair",
+  "code": "BRE",
+  "name": "Brezza",
+  "title": "Brezza Ergonomic Chair",
+  "line": "Atelier",
+  "tagline": "Light grey mesh on a white frame.",
+  "description": "Brezza is a bright, airy ergonomic chair with a white frame, grey mesh and a full set of adjustments.",
+  "highlights": [
+   "White frame",
+   "Grey mesh",
+   "Adjustable lumbar",
+   "Adjustable headrest"
+  ],
+  "rating": 4.6,
+  "reviews": 28,
+  "variants": [
+   {
+    "id": "brezza-ergonomic-chair-grey",
+    "key": "grey",
+    "label": "Grey",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-BRE-GREY",
+    "price": 26999,
+    "available": true,
+    "images": [
+     "/images/products/brezza-ergonomic-chair/grey-01.webp",
+     "/images/products/brezza-ergonomic-chair/grey-02.webp",
+     "/images/products/brezza-ergonomic-chair/grey-03.webp",
+     "/images/products/brezza-ergonomic-chair/grey-04.webp",
+     "/images/products/brezza-ergonomic-chair/grey-05.webp",
+     "/images/products/brezza-ergonomic-chair/grey-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/brezza-ergonomic-chair/grey-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest",
+   "Adjustable arms",
+   "Lumbar support"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "story": [
+   {
+    "title": "Breathable support",
+    "text": "A taut technical mesh back keeps air moving while a sculpted frame supports the spine through the day."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   }
+  ],
+  "badges": [],
+  "slug": "ispira-ergonomic-chair",
+  "code": "ISP",
+  "name": "Ispira",
+  "title": "Ispira Ergonomic Chair",
+  "line": "Atelier",
+  "tagline": "Sport-inspired mesh in black or ice blue.",
+  "description": "Ispira’s sculpted mesh back and winged headrest borrow from performance seating, tuned for long working days.",
+  "highlights": [
+   "Sculpted mesh back",
+   "Winged headrest",
+   "Adjustable arms",
+   "Two colourways"
+  ],
+  "rating": 4.6,
+  "reviews": 24,
+  "variants": [
+   {
+    "id": "ispira-ergonomic-chair-black",
+    "key": "black",
+    "label": "Black",
+    "options": {
+     "Colour": "Black"
+    },
+    "swatch": "#1f1e1c",
+    "sku": "MGR-ISP-BLACK",
+    "price": 26000,
+    "available": true,
+    "images": [
+     "/images/products/ispira-ergonomic-chair/black-01.webp",
+     "/images/products/ispira-ergonomic-chair/black-02.webp",
+     "/images/products/ispira-ergonomic-chair/black-03.webp",
+     "/images/products/ispira-ergonomic-chair/black-04.webp",
+     "/images/products/ispira-ergonomic-chair/black-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/ispira-ergonomic-chair/black-1.webp",
+     "/images/details/ispira-ergonomic-chair/black-2.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "ispira-ergonomic-chair-ice",
+    "key": "ice",
+    "label": "Ice",
+    "options": {
+     "Colour": "Ice"
+    },
+    "swatch": "#b9cddd",
+    "sku": "MGR-ISP-ICE",
+    "price": 26000,
+    "available": true,
+    "images": [
+     "/images/products/ispira-ergonomic-chair/ice-01.webp",
+     "/images/products/ispira-ergonomic-chair/ice-02.webp",
+     "/images/products/ispira-ergonomic-chair/ice-03.webp",
+     "/images/products/ispira-ergonomic-chair/ice-04.webp",
+     "/images/products/ispira-ergonomic-chair/ice-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/ispira-ergonomic-chair/ice-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Adjustable arms"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "story": [
+   {
+    "title": "Breathable support",
+    "text": "A taut technical mesh back keeps air moving while a sculpted frame supports the spine through the day."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   }
+  ],
+  "badges": [],
+  "slug": "trama-mesh-chair",
+  "code": "TRA",
+  "name": "Trama",
+  "title": "Trama Mesh Chair",
+  "line": "Atelier",
+  "tagline": "A woven-look mesh back in two heights.",
+  "description": "Trama’s distinctive patterned mesh back is as supportive as it is striking, available with a high or medium back.",
+  "highlights": [
+   "Patterned mesh back",
+   "Two back heights",
+   "Synchro tilt",
+   "Aluminium base"
+  ],
+  "rating": 4.6,
+  "reviews": 19,
+  "variants": [
+   {
+    "id": "trama-mesh-chair-high",
+    "key": "high",
+    "label": "High back",
+    "options": {
+     "Back height": "High back"
+    },
+    "swatch": null,
+    "sku": "MGR-TRA-HIGH",
+    "price": 24500,
+    "available": true,
+    "images": [
+     "/images/products/trama-mesh-chair/high-01.webp",
+     "/images/products/trama-mesh-chair/high-02.webp",
+     "/images/products/trama-mesh-chair/high-03.webp",
+     "/images/products/trama-mesh-chair/high-04.webp",
+     "/images/products/trama-mesh-chair/high-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/trama-mesh-chair/high-1.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "trama-mesh-chair-mid",
+    "key": "mid",
+    "label": "Medium back",
+    "options": {
+     "Back height": "Medium back"
+    },
+    "swatch": null,
+    "sku": "MGR-TRA-MID",
+    "price": 22500,
+    "available": true,
+    "images": [
+     "/images/products/trama-mesh-chair/mid-01.webp",
+     "/images/products/trama-mesh-chair/mid-02.webp",
+     "/images/products/trama-mesh-chair/mid-03.webp",
+     "/images/products/trama-mesh-chair/mid-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/trama-mesh-chair/mid-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest",
+   "Adjustable arms"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "story": [
+   {
+    "title": "Breathable support",
+    "text": "A taut technical mesh back keeps air moving while a sculpted frame supports the spine through the day."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   }
+  ],
+  "badges": [],
+  "slug": "seta-ergonomic-chair",
+  "code": "SET",
+  "name": "Seta",
+  "title": "Seta Ergonomic Chair",
+  "line": "Atelier",
+  "tagline": "Silky grey mesh, softly sculpted.",
+  "description": "Seta wraps a softly sculpted frame in fine grey mesh, with a supportive headrest and adjustable arms.",
+  "highlights": [
+   "Fine grey mesh",
+   "Sculpted frame",
+   "Adjustable headrest",
+   "Adjustable arms"
+  ],
+  "rating": 4.5,
+  "reviews": 22,
+  "variants": [
+   {
+    "id": "seta-ergonomic-chair-grey",
+    "key": "grey",
+    "label": "Grey",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-SET-GREY",
+    "price": 24000,
+    "available": true,
+    "images": [
+     "/images/products/seta-ergonomic-chair/grey-01.webp",
+     "/images/products/seta-ergonomic-chair/grey-02.webp",
+     "/images/products/seta-ergonomic-chair/grey-03.webp",
+     "/images/products/seta-ergonomic-chair/grey-04.webp",
+     "/images/products/seta-ergonomic-chair/grey-05.webp",
+     "/images/products/seta-ergonomic-chair/grey-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/seta-ergonomic-chair/grey-1.webp",
+     "/images/details/seta-ergonomic-chair/grey-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "ettore-executive-chair",
+  "code": "ETT",
+  "name": "Ettore",
+  "title": "Ettore Executive Chair",
+  "line": "Atelier",
+  "tagline": "Classic proportions in warm leather.",
+  "description": "Ettore is a well-proportioned executive chair in tan or ivory leather, a dependable centrepiece for a cabin or study.",
+  "highlights": [
+   "Composite leather",
+   "Synchro tilt",
+   "Padded arms",
+   "Polished base"
+  ],
+  "rating": 4.5,
+  "reviews": 18,
+  "variants": [
+   {
+    "id": "ettore-executive-chair-std",
+    "key": "std",
+    "label": "Ivory & tan",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-ETT-STD",
+    "price": 22000,
+    "available": true,
+    "images": [
+     "/images/products/ettore-executive-chair/std-01.webp",
+     "/images/products/ettore-executive-chair/std-02.webp",
+     "/images/products/ettore-executive-chair/std-03.webp",
+     "/images/products/ettore-executive-chair/std-04.webp",
+     "/images/products/ettore-executive-chair/std-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/ettore-executive-chair/std-1.webp",
+     "/images/details/ettore-executive-chair/std-2.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Soft, tailored upholstery",
+    "text": "Premium composite leather is stretched over multi-layer moulded foam and finished with precise stitching, for a chair that looks as good in year five as on day one."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "bruna-executive-chair",
+  "code": "BRU",
+  "name": "Bruna",
+  "title": "Bruna Executive Chair",
+  "line": "Studio",
+  "tagline": "A rich executive chair at a sensible price.",
+  "description": "Bruna offers the comfort of a padded leather executive chair in brown or black, at a price that suits whole teams.",
+  "highlights": [
+   "Padded composite leather",
+   "Synchro tilt",
+   "Two colours",
+   "Chrome base"
+  ],
+  "rating": 4.5,
+  "reviews": 47,
+  "variants": [
+   {
+    "id": "bruna-executive-chair-brown",
+    "key": "brown",
+    "label": "Brown",
+    "options": {
+     "Colour": "Brown"
+    },
+    "swatch": "#7a4a2e",
+    "sku": "MGR-BRU-BROWN",
+    "price": 17500,
+    "available": true,
+    "images": [
+     "/images/products/bruna-executive-chair/brown-01.webp",
+     "/images/products/bruna-executive-chair/brown-02.webp",
+     "/images/products/bruna-executive-chair/brown-03.webp",
+     "/images/products/bruna-executive-chair/brown-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/bruna-executive-chair/brown-1.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "bruna-executive-chair-black",
+    "key": "black",
+    "label": "Black",
+    "options": {
+     "Colour": "Black"
+    },
+    "swatch": "#1f1e1c",
+    "sku": "MGR-BRU-BLACK",
+    "price": 17500,
+    "available": true,
+    "images": [
+     "/images/products/bruna-executive-chair/black-01.webp",
+     "/images/products/bruna-executive-chair/black-02.webp",
+     "/images/products/bruna-executive-chair/black-03.webp",
+     "/images/products/bruna-executive-chair/black-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/bruna-executive-chair/black-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "executive",
+  "type": "Executive chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "story": [
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "velluto-executive-chair",
+  "code": "VEL",
+  "name": "Velluto",
+  "title": "Velluto Upholstered Chair",
+  "line": "Studio",
+  "tagline": "Soft fabric executive seating in grey or sage.",
+  "description": "Velluto swaps leather for a soft, textured fabric in grey or sage, a gentler executive chair for creative studios and homes.",
+  "highlights": [
+   "Textured fabric",
+   "Tall padded back",
+   "Synchro tilt",
+   "Two colours"
+  ],
+  "rating": 4.5,
+  "reviews": 20,
+  "variants": [
+   {
+    "id": "velluto-executive-chair-grey",
+    "key": "grey",
+    "label": "Grey",
+    "options": {
+     "Colour": "Grey"
+    },
+    "swatch": "#7d7c7a",
+    "sku": "MGR-VEL-GREY",
+    "price": 17000,
+    "available": true,
+    "images": [
+     "/images/products/velluto-executive-chair/grey-01.webp",
+     "/images/products/velluto-executive-chair/grey-02.webp",
+     "/images/products/velluto-executive-chair/grey-03.webp",
+     "/images/products/velluto-executive-chair/grey-04.webp",
+     "/images/products/velluto-executive-chair/grey-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/velluto-executive-chair/grey-1.webp",
+     "/images/details/velluto-executive-chair/grey-2.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "velluto-executive-chair-sage",
+    "key": "sage",
+    "label": "Sage",
+    "options": {
+     "Colour": "Sage"
+    },
+    "swatch": "#7f9a86",
+    "sku": "MGR-VEL-SAGE",
+    "price": 17000,
+    "available": true,
+    "images": [
+     "/images/products/velluto-executive-chair/sage-01.webp",
+     "/images/products/velluto-executive-chair/sage-02.webp",
+     "/images/products/velluto-executive-chair/sage-03.webp"
+    ],
+    "detailImages": [
+     "/images/details/velluto-executive-chair/sage-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
   "category": "seating",
   "warranty": "5-year frame & mechanism warranty",
   "leadTime": "Ships in 3–5 working days",

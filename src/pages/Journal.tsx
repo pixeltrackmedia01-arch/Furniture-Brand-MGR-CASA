@@ -63,7 +63,9 @@ export function Article() {
   const a = ARTICLES.find((x) => x.slug === slug);
   useSeo(a?.title ?? 'Journal', a?.excerpt);
   if (!a) return <NotFound />;
-  const picks = PRODUCTS.filter((p) => (a.kicker === 'Trade' ? p.line === 'Studio' : p.badges.includes('Bestseller'))).slice(0, 4);
+  const picks = PRODUCTS.filter((p) =>
+    a.slug.includes('sofa') ? p.category === 'living' : a.kicker === 'Trade' ? p.line === 'Studio' && p.category === 'seating' : p.badges.includes('Bestseller'),
+  ).slice(0, 4);
   return (
     <article>
       <div className="wrap">

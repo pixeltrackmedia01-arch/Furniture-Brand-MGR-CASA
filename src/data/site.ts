@@ -47,7 +47,7 @@ export const STATS = [
   { value: 5, suffix: '-yr', label: 'warranty on every chair mechanism' },
   { value: 40, suffix: '+', label: 'cities with free white-glove delivery' },
   { value: 1200, suffix: '+', label: 'workplaces furnished across India' },
-  { value: 27, suffix: '', label: 'designs, each tested for 120,000 cycles' },
+  { value: 60, suffix: '', label: 'designs, from sofas to sit-stand desks' },
 ];
 
 export const TESTIMONIALS = [
@@ -69,10 +69,11 @@ export const TESTIMONIALS = [
 ];
 
 export const MATERIALS = [
+  { name: 'Performance velvet', image: '/images/scenes/detail-velvet.webp', text: 'A dense, low-pile velvet that holds its colour, resists crushing and wipes clean, made for family living rooms.' },
   { name: 'Woven mesh', image: '/images/scenes/detail-mesh.webp', text: 'An elastomeric weave that lets air move through the back, so long afternoons stay cool.' },
   { name: 'Textured fabric', image: '/images/scenes/detail-fabric.webp', text: 'Hard-wearing upholstery with a soft hand, tested to 100,000 rub cycles.' },
   { name: 'Cast frames', image: '/images/scenes/detail-frame.webp', text: 'Glass-filled nylon and die-cast aluminium shaped to flex where your body moves.' },
-  { name: 'Moulded foam', image: '/images/scenes/detail-seat.webp', text: 'High-resilience foam that recovers its shape after years of daily sitting.' },
+  { name: 'Tufted fabric', image: '/images/scenes/detail-tuft.webp', text: 'Textured weaves, button-tufted by hand and tested for years of everyday family use.' },
   { name: 'Laminate & steel', image: '/images/scenes/detail-desk.webp', text: 'Edge-banded tops on powder-coated steel, quiet and level on uneven floors.' },
 ];
 
@@ -97,6 +98,22 @@ export interface Article {
 }
 
 export const ARTICLES: Article[] = [
+  {
+    slug: 'choosing-a-sofa-for-an-indian-living-room',
+    title: 'Choosing a sofa for an Indian living room',
+    kicker: 'Guide',
+    excerpt: 'Size, fabric and seat depth: what to decide before you fall in love with a colour.',
+    image: '/images/scenes/living-rose.webp',
+    date: '2026-11-12',
+    readTime: '6 min read',
+    body: [
+      { p: 'A sofa is the piece a living room is arranged around, and the one you will sit on most. It pays to choose with a tape measure in hand before choosing a colour.' },
+      { h: 'Measure the room, and the route in', p: 'Leave at least 45 cm between the sofa and a coffee table, and 75 cm for walkways. Then measure doors, lifts and stair turns: a sectional that cannot reach the room is no use at all.' },
+      { h: 'Pick a depth for how you sit', p: 'Upright conversation suits a seat depth of around 55 cm; lounging and tucking your feet up suits 60 cm or more. If the household is split, a chaise or an ottoman solves the argument.' },
+      { h: 'Fabric for real life', p: 'Performance velvet and tightly woven fabrics resist dust and wear well in Indian homes. Lighter colours brighten small rooms; deeper tones forgive children, pets and monsoon-season muddy feet.' },
+      { h: 'Try before you buy', p: 'Sit for ten minutes, not ten seconds. Our studios have every sofa on the floor, and we post free swatches so you can see colours in your own light.' },
+    ],
+  },
   {
     slug: 'setting-up-a-home-office-that-works',
     title: 'Setting up a home office that actually works',

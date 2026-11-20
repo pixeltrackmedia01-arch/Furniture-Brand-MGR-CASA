@@ -11,13 +11,45 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import sharp from 'sharp';
-import { SERIES, SCENES } from './catalogue-copy.mjs';
+import { SERIES as WORK, SCENES as WORK_SCENES } from './catalogue-copy.mjs';
+import { LIVING, EXECUTIVE, DRIVE_SCENES } from './catalogue-copy-drive.mjs';
+
+const SERIES = [...LIVING, ...EXECUTIVE, ...WORK];
+const SCENES = [...DRIVE_SCENES, ...WORK_SCENES];
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const REF = path.join(ROOT, 'reference/featherlite');
 const OUT_IMG = path.join(ROOT, 'public/images');
 const OUT_JSON = path.join(ROOT, 'src/data/products.generated.json');
+const DRIVE = path.join(ROOT, 'reference/mgr-casa-drive/scraped');
 const MAX_IMAGES_PER_VARIANT = 6;
+const IMG_EXT = /\.(jpe?g|png|webp|avif)$/i;
+
+// Images for a variant sourced from the shared Drive folder (reference/mgr-casa-drive).
+// pick / detail are 1-based positions in the folder's sorted image list.
+async function driveImages(v) {
+  const dir = path.join(DRIVE, v.dir);
+  const all = (await fs.readdir(dir)).filter((f) => IMG_EXT.test(f)).sort();
+  const at = (ns) => ns.map((n) => all[n - 1]).filter(Boolean).map((f) => path.join(dir, f));
+  return { gallery: v.pick ? at(v.pick) : all.map((f) => path.join(dir, f)), detail: v.detail ? at(v.detail) : [] };
+}
+
+// Resolve a reference path whose extension may differ (01.jpg vs 01.png).
+async function resolveExt(rel) {
+  const abs = path.join(ROOT, rel);
+  try {
+    await fs.access(abs);
+    return rel;
+  } catch {}
+  const base = abs.replace(/\.[a-z]+$/i, '');
+  for (const e of ['.jpg', '.png', '.jpeg', '.webp']) {
+    try {
+      await fs.access(base + e);
+      return path.relative(ROOT, base + e);
+    } catch {}
+  }
+  throw new Error('Missing source image ' + rel);
+}
 
 const src = JSON.parse(await fs.readFile(path.join(REF, 'data/products.json'), 'utf8'));
 const byHandle = Object.fromEntries(src.map((p) => [p.handle, p]));
@@ -48,6 +80,29 @@ const products = [];
 for (const s of SERIES) {
   const variants = [];
   for (const v of s.variants) {
+    if (v.dir) {
+      const found = await driveImages(v);
+      const gallery = found.gallery.slice(0, v.max ?? 8);
+      const wide = found.detail.slice(0, 3);
+      const imgs = [];
+      for (const [n, g] of gallery.entries()) {
+        const rel = `products/${s.slug}/${v.key}-${String(n + 1).padStart(2, '0')}.webp`;
+        await toWebp(path.relative(ROOT, g), path.join(OUT_IMG, rel), 1200);
+        imgs.push('/images/' + rel);
+      }
+      const feat = [];
+      for (const [n, g] of wide.entries()) {
+        const rel = `details/${s.slug}/${v.key}-${n + 1}.webp`;
+        await toWebp(path.relative(ROOT, g), path.join(OUT_IMG, rel), 1800, 72);
+        feat.push('/images/' + rel);
+      }
+      variants.push({
+        id: `${s.slug}-${v.key}`, key: v.key, label: v.label, options: v.options, swatch: v.swatch || null,
+        sku: `MGR-${s.code}-${v.key.toUpperCase()}`, price: v.price, available: v.available ?? true,
+        images: imgs, detailImages: feat, specs: { ...(s.specOverrides || {}), ...(v.specs || {}) },
+      });
+      continue;
+    }
     const p = byHandle[v.handle];
     if (!p) throw new Error('Missing reference product ' + v.handle);
     const imgs = [];
@@ -85,7 +140,7 @@ for (const s of SERIES) {
 }
 
 for (const sc of SCENES) {
-  await toWebp(sc.from, path.join(OUT_IMG, 'scenes', sc.name + '.webp'), sc.width || 2000, 74);
+  await toWebp(await resolveExt(sc.from), path.join(OUT_IMG, 'scenes', sc.name + '.webp'), sc.width || 2000, 74);
 }
 
 await fs.mkdir(path.dirname(OUT_JSON), { recursive: true });

@@ -49,11 +49,28 @@ tools/
 - **Type:** Libre Caslon Display for headlines, Libre Caslon Text italic for accent words, Hanken Grotesk for UI and body text. All fonts are self-hosted through Fontsource.
 - **Colour:** bone `#f2ede4`, ink `#1c1a17`, terracotta `#a8492a`, moss `#4d5843`, night `#161411`. Tokens are on `:root` in `src/styles/global.css`.
 
+## Catalogue and images
+
+The catalogue has 60 products in five categories: **Living** (sofas, sectionals, sofa-cum-beds, chaises, armchairs, ottomans), **Seating** (executive, task, work and lounge chairs), **Desks & Tables**, **Storage** and **Accessories**.
+
+| Range | Copy and variants | Photo source |
+|---|---|---|
+| Living, Executive chairs | `tools/catalogue-copy-drive.mjs` | The shared Google Drive folder: Furlenco sofas and Cellbell chairs |
+| Task chairs, desks, storage | `tools/catalogue-copy.mjs` | `reference/featherlite/` |
+
+The optimised WebP images in `public/images/` are committed, so the site runs without the raw files. To regenerate them, re-download the Drive folder (about 470 MB, git-ignored) and rebuild:
+
+```bash
+pip install gdown
+python3 tools/fetch-drive-images.py
+npm run catalogue
+```
+
 ## ⚠️ Placeholder content to replace before launch
 
-- **Photography.** Every image currently comes from the Featherlite reference scrape in `reference/featherlite/` and is a placeholder only (see `PROJECT.md` for the rights note). To use MGR CASA photography:
-  1. Product shots: point each variant's `handle`, or a new image list, in `tools/catalogue-copy.mjs` at your files, then run `npm run catalogue` (delete `public/images/products/<slug>` first so it rebuilds).
+- **Photography.** All product and lifestyle photos come from third-party stores (Featherlite, Furlenco and Cellbell), via the reference scrape and the shared Drive folder. They are placeholders only: replace them with MGR CASA's own photography, or get written permission, before launch. To swap in new photography:
+  1. Product shots: point each variant's `dir` (Drive set) or `handle` (Featherlite set) at your files, then run `npm run catalogue`. Delete `public/images/products/<slug>` first so it rebuilds.
   2. Lifestyle and detail shots: replace the files in `public/images/scenes/` with the same names, or update the paths in `src/data/site.ts` and `src/data/catalogue.ts`.
-- **Prices and dimensions** come from the reference catalogue.
+- **Prices** come from the source stores. Sofa dimensions are indicative estimates; chair and desk dimensions come from the reference catalogue.
 - **Business details** in `src/data/site.ts` are invented samples: phone, WhatsApp, emails, studio addresses, stats, testimonials and warranty terms.
 - **Reviews and ratings** are sample data.
