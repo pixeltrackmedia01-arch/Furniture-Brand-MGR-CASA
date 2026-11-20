@@ -1,0 +1,4674 @@
+[
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "vetta-task-chair",
+  "code": "VET",
+  "name": "Vetta",
+  "title": "Vetta Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Signature",
+  "tagline": "Our flagship. Every adjustment, nothing superfluous.",
+  "description": "Vetta is the chair we would put in our own studio. A die-cast aluminium base, a bi-panel back that calibrates to each side of the spine and a sliding seat combine into a chair that disappears beneath you over a long day.",
+  "highlights": [
+   "Bi-panel calibrated back",
+   "Sliding seat depth",
+   "3D adjustable arms",
+   "Polished aluminium base"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Multi-position tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Corporate",
+   "Executive"
+  ],
+  "features": [
+   "Adjustable arms",
+   "Seat depth",
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   },
+   {
+    "title": "Calibrated on both sides",
+    "text": "Two independent back panels pivot on their own axes, so a body that leans slightly to one side is still supported evenly."
+   }
+  ],
+  "badges": [
+   "Signature"
+  ],
+  "rating": 4.9,
+  "reviews": 38,
+  "variants": [
+   {
+    "id": "vetta-task-chair-black",
+    "key": "black",
+    "label": "Graphite",
+    "options": {
+     "Colour": "Graphite"
+    },
+    "swatch": "#1f1e1c",
+    "sku": "MGR-VET-BLACK",
+    "price": 74529,
+    "available": false,
+    "images": [
+     "/images/products/vetta-task-chair/black-01.webp",
+     "/images/products/vetta-task-chair/black-02.webp",
+     "/images/products/vetta-task-chair/black-03.webp",
+     "/images/products/vetta-task-chair/black-04.webp",
+     "/images/products/vetta-task-chair/black-05.webp",
+     "/images/products/vetta-task-chair/black-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/vetta-task-chair/black-1.webp",
+     "/images/details/vetta-task-chair/black-2.webp",
+     "/images/details/vetta-task-chair/black-3.webp",
+     "/images/details/vetta-task-chair/black-4.webp"
+    ],
+    "specs": {
+     "Seat": [
+      [
+       "Depth",
+       "51 cm"
+      ],
+      [
+       "Width",
+       "20.5 cm"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Width",
+       "71 cm"
+      ],
+      [
+       "Depth",
+       "69 cm"
+      ],
+      [
+       "Minimum Height",
+       "100 cm"
+      ],
+      [
+       "Maximum Height",
+       "120 cm"
+      ],
+      [
+       "Minimum Seat Height",
+       "50 cm"
+      ],
+      [
+       "Maximum Seat Height",
+       "56 cm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "51 cm"
+      ],
+      [
+       "Arm Rest Height",
+       "43 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "vetta-task-chair-grey",
+    "key": "grey",
+    "label": "Fog",
+    "options": {
+     "Colour": "Fog"
+    },
+    "swatch": "#8f8c86",
+    "sku": "MGR-VET-GREY",
+    "price": 75999,
+    "available": false,
+    "images": [
+     "/images/products/vetta-task-chair/grey-01.webp",
+     "/images/products/vetta-task-chair/grey-02.webp",
+     "/images/products/vetta-task-chair/grey-03.webp"
+    ],
+    "detailImages": [
+     "/images/details/vetta-task-chair/grey-1.webp",
+     "/images/details/vetta-task-chair/grey-2.webp",
+     "/images/details/vetta-task-chair/grey-3.webp",
+     "/images/details/vetta-task-chair/grey-4.webp"
+    ],
+    "specs": {
+     "Seat": [
+      [
+       "Depth",
+       "51 cm"
+      ],
+      [
+       "Width",
+       "20.5 cm"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Width",
+       "71 cm"
+      ],
+      [
+       "Depth",
+       "69 cm"
+      ],
+      [
+       "Minimum Height",
+       "100 cm"
+      ],
+      [
+       "Maximum Height",
+       "120 cm"
+      ],
+      [
+       "Minimum Seat Height",
+       "50 cm"
+      ],
+      [
+       "Maximum Seat Height",
+       "56 cm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "51 cm"
+      ],
+      [
+       "Arm Rest Height",
+       "43 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "spira-task-chair",
+  "code": "SPI",
+  "name": "Spira",
+  "title": "Spira Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Signature",
+  "tagline": "Four-way arms and a back that rises with you.",
+  "description": "Spira was drawn for people who change posture constantly. Arms move in four directions, the seat slides forward for shorter legs, and the tall back keeps the shoulders supported when you lean in to read.",
+  "highlights": [
+   "4-way adjustable arms",
+   "Adjustable lumbar",
+   "Sliding seat",
+   "Tall supportive back"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Multi-position tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Corporate",
+   "Executive"
+  ],
+  "features": [
+   "Adjustable arms",
+   "Lumbar support",
+   "Seat depth",
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "Support where your spine curves",
+    "text": "An adjustable lumbar pad tracks the natural inward curve of the lower back. Slide it up or down until it meets you, rather than asking you to meet the chair."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [
+   "Signature",
+   "Bestseller"
+  ],
+  "rating": 4.8,
+  "reviews": 112,
+  "variants": [
+   {
+    "id": "spira-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-SPI-HB",
+    "price": 31509,
+    "available": true,
+    "images": [
+     "/images/products/spira-task-chair/hb-01.webp",
+     "/images/products/spira-task-chair/hb-02.webp",
+     "/images/products/spira-task-chair/hb-03.webp",
+     "/images/products/spira-task-chair/hb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/spira-task-chair/hb-1.webp",
+     "/images/details/spira-task-chair/hb-2.webp",
+     "/images/details/spira-task-chair/hb-3.webp",
+     "/images/details/spira-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "With headrest",
+       "23 kg"
+      ],
+      [
+       "Without headrest",
+       "22 kg"
+      ]
+     ],
+     "Seat": [
+      [
+       "Depth",
+       "52 cm"
+      ],
+      [
+       "Width",
+       "51 cm"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Width",
+       "67.5 cm"
+      ],
+      [
+       "Depth",
+       "58 cm"
+      ],
+      [
+       "Minimum Height",
+       "122 cm"
+      ],
+      [
+       "Maximum Height for Back",
+       "198 cm"
+      ],
+      [
+       "Minimum Seat Height",
+       "45 cm"
+      ],
+      [
+       "Maximum Seat Height",
+       "56 cm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "46 cm"
+      ],
+      [
+       "Arm Rest Height",
+       "18 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "spira-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-SPI-MB",
+    "price": 30079,
+    "available": true,
+    "images": [
+     "/images/products/spira-task-chair/mb-01.webp",
+     "/images/products/spira-task-chair/mb-02.webp",
+     "/images/products/spira-task-chair/mb-03.webp",
+     "/images/products/spira-task-chair/mb-04.webp",
+     "/images/products/spira-task-chair/mb-05.webp",
+     "/images/products/spira-task-chair/mb-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/spira-task-chair/mb-1.webp",
+     "/images/details/spira-task-chair/mb-2.webp",
+     "/images/details/spira-task-chair/mb-3.webp",
+     "/images/details/spira-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "With headrest",
+       "23 kg"
+      ],
+      [
+       "Without headrest",
+       "22 kg"
+      ]
+     ],
+     "Seat": [
+      [
+       "Depth",
+       "52 cm"
+      ],
+      [
+       "Width",
+       "51 cm"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Width",
+       "67.5 cm"
+      ],
+      [
+       "Depth",
+       "58 cm"
+      ],
+      [
+       "Minimum Height",
+       "122 cm"
+      ],
+      [
+       "Maximum Height for Back",
+       "198 cm"
+      ],
+      [
+       "Minimum Seat Height",
+       "45 cm"
+      ],
+      [
+       "Maximum Seat Height",
+       "56 cm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "46 cm"
+      ],
+      [
+       "Arm Rest Height",
+       "18 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "linea-task-chair",
+  "code": "LIN",
+  "name": "Linea",
+  "title": "Linea Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Signature",
+  "tagline": "A clean silhouette with serious engineering underneath.",
+  "description": "Linea pares the task chair back to a single continuous line from headrest to seat edge. Underneath sit a sliding seat, three-way arms and a multi-lock tilt that holds firm at any angle.",
+  "highlights": [
+   "3-way adjustable arms",
+   "Sliding seat depth",
+   "Multi-lock tilt",
+   "Cool-touch mesh"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Multi-position tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Adjustable arms",
+   "Seat depth",
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [
+   "Signature"
+  ],
+  "rating": 4.7,
+  "reviews": 64,
+  "variants": [
+   {
+    "id": "linea-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-LIN-HB",
+    "price": 28199,
+    "available": true,
+    "images": [
+     "/images/products/linea-task-chair/hb-01.webp",
+     "/images/products/linea-task-chair/hb-02.webp",
+     "/images/products/linea-task-chair/hb-03.webp",
+     "/images/products/linea-task-chair/hb-04.webp",
+     "/images/products/linea-task-chair/hb-05.webp",
+     "/images/products/linea-task-chair/hb-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/linea-task-chair/hb-1.webp",
+     "/images/details/linea-task-chair/hb-2.webp",
+     "/images/details/linea-task-chair/hb-3.webp",
+     "/images/details/linea-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "With headrest",
+       "19.5 kg"
+      ],
+      [
+       "Without headrest",
+       "18.4 kg"
+      ]
+     ],
+     "Seat": [
+      [
+       "Depth",
+       "51 cm"
+      ],
+      [
+       "Width",
+       "62 cm"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Width",
+       "62 cm"
+      ],
+      [
+       "Depth",
+       "66 cm"
+      ],
+      [
+       "Minimum Height",
+       "113 cm"
+      ],
+      [
+       "Maximum Height",
+       "123 cm"
+      ],
+      [
+       "Minimum Seat Height",
+       "57.5 cm"
+      ],
+      [
+       "Maximum Seat Height",
+       "62 cm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "62 cm"
+      ],
+      [
+       "Arm Rest Height",
+       "18.5- 26.5cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "linea-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-LIN-MB",
+    "price": 25649,
+    "available": true,
+    "images": [
+     "/images/products/linea-task-chair/mb-01.webp",
+     "/images/products/linea-task-chair/mb-02.webp",
+     "/images/products/linea-task-chair/mb-03.webp",
+     "/images/products/linea-task-chair/mb-04.webp",
+     "/images/products/linea-task-chair/mb-05.webp",
+     "/images/products/linea-task-chair/mb-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/linea-task-chair/mb-1.webp",
+     "/images/details/linea-task-chair/mb-2.webp",
+     "/images/details/linea-task-chair/mb-3.webp",
+     "/images/details/linea-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "With headrest",
+       "19.5 kg"
+      ],
+      [
+       "Without headrest",
+       "18.4 kg"
+      ]
+     ],
+     "Seat": [
+      [
+       "Depth",
+       "51 cm"
+      ],
+      [
+       "Width",
+       "62 cm"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Width",
+       "62 cm"
+      ],
+      [
+       "Depth",
+       "66 cm"
+      ],
+      [
+       "Minimum Height",
+       "113 cm"
+      ],
+      [
+       "Maximum Height",
+       "123 cm"
+      ],
+      [
+       "Minimum Seat Height",
+       "57.5 cm"
+      ],
+      [
+       "Maximum Seat Height",
+       "62 cm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "62 cm"
+      ],
+      [
+       "Arm Rest Height",
+       "18.5- 26.5cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "arca-task-chair",
+  "code": "ARC",
+  "name": "Arca",
+  "title": "Arca Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Atelier",
+  "tagline": "A steady hand at the small of your back.",
+  "description": "Arca pairs a self-adjusting tilt with a firm lower-back support that holds its shape through the day. A good choice for anyone who tends to slump by late afternoon.",
+  "highlights": [
+   "Stable lower-back support",
+   "Self-adjusting tilt",
+   "Breathable mesh",
+   "Padded seat"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Self-adjusting tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Lumbar support",
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Support where your spine curves",
+    "text": "An adjustable lumbar pad tracks the natural inward curve of the lower back. Slide it up or down until it meets you, rather than asking you to meet the chair."
+   },
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [
+   "New"
+  ],
+  "rating": 4.7,
+  "reviews": 29,
+  "variants": [
+   {
+    "id": "arca-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-ARC-HB",
+    "price": 20019,
+    "available": true,
+    "images": [
+     "/images/products/arca-task-chair/hb-01.webp",
+     "/images/products/arca-task-chair/hb-02.webp",
+     "/images/products/arca-task-chair/hb-03.webp",
+     "/images/products/arca-task-chair/hb-04.webp",
+     "/images/products/arca-task-chair/hb-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/arca-task-chair/hb-1.webp",
+     "/images/details/arca-task-chair/hb-2.webp",
+     "/images/details/arca-task-chair/hb-3.webp",
+     "/images/details/arca-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "16.3±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1200±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1300±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "440±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "475±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "575±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "155-245mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "750±10mm"
+      ],
+      [
+       "Headrest Height",
+       "175-200mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "arca-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-ARC-MB",
+    "price": 17859,
+    "available": true,
+    "images": [
+     "/images/products/arca-task-chair/mb-01.webp",
+     "/images/products/arca-task-chair/mb-02.webp",
+     "/images/products/arca-task-chair/mb-03.webp",
+     "/images/products/arca-task-chair/mb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/arca-task-chair/mb-1.webp",
+     "/images/details/arca-task-chair/mb-2.webp",
+     "/images/details/arca-task-chair/mb-3.webp",
+     "/images/details/arca-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "15.8±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1015±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1115±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "440±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "475±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "575±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "155-245mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "580±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "volta-task-chair",
+  "code": "VOL",
+  "name": "Volta",
+  "title": "Volta Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Atelier",
+  "tagline": "Flexes as you reach, turn and lean.",
+  "description": "Volta’s dual-frame back flexes at the shoulders and the lower back independently. Reach for a file, swivel towards a colleague, and the chair moves with you rather than against you.",
+  "highlights": [
+   "Dual-frame flexing back",
+   "Multi-lock tilt",
+   "Adjustable arms",
+   "Breathable mesh"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Multi-position tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Adjustable arms",
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "A frame that follows you",
+    "text": "A dual-frame back flexes independently at the shoulders and the lower back, so the chair follows twists and reaches instead of fighting them."
+   },
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [
+   "Bestseller"
+  ],
+  "rating": 4.8,
+  "reviews": 156,
+  "variants": [
+   {
+    "id": "volta-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-VOL-HB",
+    "price": 18869,
+    "available": true,
+    "images": [
+     "/images/products/volta-task-chair/hb-01.webp",
+     "/images/products/volta-task-chair/hb-02.webp",
+     "/images/products/volta-task-chair/hb-03.webp",
+     "/images/products/volta-task-chair/hb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/volta-task-chair/hb-1.webp",
+     "/images/details/volta-task-chair/hb-2.webp",
+     "/images/details/volta-task-chair/hb-3.webp",
+     "/images/details/volta-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "16.7±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1255±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1355±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "430±10mm"
+      ],
+      [
+       "Seat Width",
+       "500±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "480±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "580±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "160-250mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "690±10mm"
+      ],
+      [
+       "Headrest Height",
+       "155-195mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "volta-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-VOL-MB",
+    "price": 16449,
+    "available": true,
+    "images": [
+     "/images/products/volta-task-chair/mb-01.webp",
+     "/images/products/volta-task-chair/mb-02.webp",
+     "/images/products/volta-task-chair/mb-03.webp",
+     "/images/products/volta-task-chair/mb-04.webp",
+     "/images/products/volta-task-chair/mb-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/volta-task-chair/mb-1.webp",
+     "/images/details/volta-task-chair/mb-2.webp",
+     "/images/details/volta-task-chair/mb-3.webp",
+     "/images/details/volta-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "16.1±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1155±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1255±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "430±10mm"
+      ],
+      [
+       "Seat Width",
+       "500±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "480±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "580±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "160-250mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "560±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "nido-task-chair",
+  "code": "NID",
+  "name": "Nido",
+  "title": "Nido Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Atelier",
+  "tagline": "A softer seat for the home study.",
+  "description": "Nido combines a mesh back with an upholstered fabric seat, so it reads as warmly at home as it does in the office. Choose it in graphite or fog, with or without headrest.",
+  "highlights": [
+   "Upholstered fabric seat",
+   "Self-adjusting tilt",
+   "Two colourways",
+   "Optional headrest"
+  ],
+  "material": [
+   "Mesh",
+   "Fabric"
+  ],
+  "mechanism": "Self-adjusting tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Study"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   },
+   {
+    "title": "An upholstered seat",
+    "text": "A moulded foam cushion wrapped in a tightly woven fabric gives the seat a softer first touch without losing support."
+   }
+  ],
+  "badges": [
+   "Bestseller"
+  ],
+  "rating": 4.6,
+  "reviews": 203,
+  "variants": [
+   {
+    "id": "nido-task-chair-hb-black",
+    "key": "hb-black",
+    "label": "Graphite, with headrest",
+    "options": {
+     "Headrest": "With headrest",
+     "Colour": "Graphite"
+    },
+    "swatch": "#1f1e1c",
+    "sku": "MGR-NID-HB-BLACK",
+    "price": 12239,
+    "available": false,
+    "images": [
+     "/images/products/nido-task-chair/hb-black-01.webp",
+     "/images/products/nido-task-chair/hb-black-02.webp",
+     "/images/products/nido-task-chair/hb-black-03.webp",
+     "/images/products/nido-task-chair/hb-black-04.webp",
+     "/images/products/nido-task-chair/hb-black-05.webp",
+     "/images/products/nido-task-chair/hb-black-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/nido-task-chair/hb-black-1.webp",
+     "/images/details/nido-task-chair/hb-black-2.webp",
+     "/images/details/nido-task-chair/hb-black-3.webp",
+     "/images/details/nido-task-chair/hb-black-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "14.7±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1140±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1240±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "485±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "470±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "570±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "160-250mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ],
+      [
+       "Backrest Width",
+       "425±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "nido-task-chair-hb-grey",
+    "key": "hb-grey",
+    "label": "Fog, with headrest",
+    "options": {
+     "Headrest": "With headrest",
+     "Colour": "Fog"
+    },
+    "swatch": "#8f8c86",
+    "sku": "MGR-NID-HB-GREY",
+    "price": 13529,
+    "available": false,
+    "images": [
+     "/images/products/nido-task-chair/hb-grey-01.webp",
+     "/images/products/nido-task-chair/hb-grey-02.webp",
+     "/images/products/nido-task-chair/hb-grey-03.webp",
+     "/images/products/nido-task-chair/hb-grey-04.webp",
+     "/images/products/nido-task-chair/hb-grey-05.webp",
+     "/images/products/nido-task-chair/hb-grey-06.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "14.7±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1140±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1240±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "485±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "470±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "570±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "160-250mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ],
+      [
+       "Backrest Width",
+       "425±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "nido-task-chair-mb-black",
+    "key": "mb-black",
+    "label": "Graphite, without headrest",
+    "options": {
+     "Headrest": "Without headrest",
+     "Colour": "Graphite"
+    },
+    "swatch": "#1f1e1c",
+    "sku": "MGR-NID-MB-BLACK",
+    "price": 10869,
+    "available": true,
+    "images": [
+     "/images/products/nido-task-chair/mb-black-01.webp",
+     "/images/products/nido-task-chair/mb-black-02.webp",
+     "/images/products/nido-task-chair/mb-black-03.webp",
+     "/images/products/nido-task-chair/mb-black-04.webp",
+     "/images/products/nido-task-chair/mb-black-05.webp",
+     "/images/products/nido-task-chair/mb-black-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/nido-task-chair/mb-black-1.webp",
+     "/images/details/nido-task-chair/mb-black-2.webp",
+     "/images/details/nido-task-chair/mb-black-3.webp",
+     "/images/details/nido-task-chair/mb-black-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "14.7±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "990±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1090±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "485±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "470±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "570±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "160-250mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ],
+      [
+       "Backrest Width",
+       "425±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "nido-task-chair-mb-grey",
+    "key": "mb-grey",
+    "label": "Fog, without headrest",
+    "options": {
+     "Headrest": "Without headrest",
+     "Colour": "Fog"
+    },
+    "swatch": "#8f8c86",
+    "sku": "MGR-NID-MB-GREY",
+    "price": 11989,
+    "available": true,
+    "images": [
+     "/images/products/nido-task-chair/mb-grey-01.webp",
+     "/images/products/nido-task-chair/mb-grey-02.webp",
+     "/images/products/nido-task-chair/mb-grey-03.webp",
+     "/images/products/nido-task-chair/mb-grey-04.webp",
+     "/images/products/nido-task-chair/mb-grey-05.webp",
+     "/images/products/nido-task-chair/mb-grey-06.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "14.7±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "990±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1090±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "485±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "470±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "570±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "160-250mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ],
+      [
+       "Backrest Width",
+       "425±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "sella-task-chair",
+  "code": "SEL",
+  "name": "Sella",
+  "title": "Sella Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Atelier",
+  "tagline": "Lumbar support that adjusts in two directions.",
+  "description": "Sella’s lumbar pad moves up and down and adjusts its depth, so you can dial in support precisely. A self-adjusting tilt reads your weight and sets the recline tension for you.",
+  "highlights": [
+   "Two-way lumbar support",
+   "Self-adjusting tilt",
+   "Breathable mesh",
+   "Optional headrest"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Self-adjusting tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Lumbar support",
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Support where your spine curves",
+    "text": "An adjustable lumbar pad tracks the natural inward curve of the lower back. Slide it up or down until it meets you, rather than asking you to meet the chair."
+   },
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [],
+  "rating": 4.6,
+  "reviews": 88,
+  "variants": [
+   {
+    "id": "sella-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-SEL-HB",
+    "price": 11249,
+    "available": true,
+    "images": [
+     "/images/products/sella-task-chair/hb-01.webp",
+     "/images/products/sella-task-chair/hb-02.webp",
+     "/images/products/sella-task-chair/hb-03.webp",
+     "/images/products/sella-task-chair/hb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/sella-task-chair/hb-1.webp",
+     "/images/details/sella-task-chair/hb-2.webp",
+     "/images/details/sella-task-chair/hb-3.webp",
+     "/images/details/sella-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "13.6±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1000±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1100±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "465±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "465±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "565±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "185-275mm"
+      ],
+      [
+       "Arm to Arm)",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ],
+      [
+       "Headrest Height",
+       "155-235±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "sella-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-SEL-MB",
+    "price": 10309,
+    "available": true,
+    "images": [
+     "/images/products/sella-task-chair/mb-01.webp",
+     "/images/products/sella-task-chair/mb-02.webp",
+     "/images/products/sella-task-chair/mb-03.webp",
+     "/images/products/sella-task-chair/mb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/sella-task-chair/mb-1.webp",
+     "/images/details/sella-task-chair/mb-2.webp",
+     "/images/details/sella-task-chair/mb-3.webp",
+     "/images/details/sella-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "13.4±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "980±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1080±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "480±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "470±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "570±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "180-270mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "435±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ],
+      [
+       "Backrest Width",
+       "445±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "forma-task-chair",
+  "code": "FOR",
+  "name": "Forma",
+  "title": "Forma Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Studio",
+  "tagline": "Honest support at an honest price.",
+  "description": "Forma brings a multi-lock tilt and a cushioned seat to a chair that is easy to specify across a whole floor. Durable, quiet and quick to assemble.",
+  "highlights": [
+   "Multi-lock tilt",
+   "Cushioned fabric seat",
+   "Mesh back",
+   "Optional headrest"
+  ],
+  "material": [
+   "Mesh",
+   "Fabric"
+  ],
+  "mechanism": "Multi-position tilt",
+  "backType": "High back",
+  "spaces": [
+   "Corporate",
+   "Home office"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 71,
+  "variants": [
+   {
+    "id": "forma-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-FOR-HB",
+    "price": 12639,
+    "available": true,
+    "images": [
+     "/images/products/forma-task-chair/hb-01.webp",
+     "/images/products/forma-task-chair/hb-02.webp",
+     "/images/products/forma-task-chair/hb-03.webp"
+    ],
+    "detailImages": [
+     "/images/details/forma-task-chair/hb-1.webp",
+     "/images/details/forma-task-chair/hb-2.webp",
+     "/images/details/forma-task-chair/hb-3.webp",
+     "/images/details/forma-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "15.8±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "670±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1060±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1160±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "440±10mm"
+      ],
+      [
+       "Seat Width",
+       "480±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "435±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "535±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Arm to Arm Inner Width",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "645±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "forma-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-FOR-MB",
+    "price": 11419,
+    "available": true,
+    "images": [
+     "/images/products/forma-task-chair/mb-01.webp",
+     "/images/products/forma-task-chair/mb-02.webp",
+     "/images/products/forma-task-chair/mb-03.webp",
+     "/images/products/forma-task-chair/mb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/forma-task-chair/mb-1.webp",
+     "/images/details/forma-task-chair/mb-2.webp",
+     "/images/details/forma-task-chair/mb-3.webp",
+     "/images/details/forma-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "15.8±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "670±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "960±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1060±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "440±10mm"
+      ],
+      [
+       "Seat Width",
+       "480±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "435±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "535±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Arm to Arm Inner Width",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "545±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "cielo-task-chair",
+  "code": "CIE",
+  "name": "Cielo",
+  "title": "Cielo Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Studio",
+  "tagline": "A padded lumbar and a light, airy frame.",
+  "description": "Cielo is light on its feet and generous where it counts: a padded lumbar cushion, a deep seat and a mesh back that keeps you cool.",
+  "highlights": [
+   "Padded lumbar cushion",
+   "Cushioned seat",
+   "Mesh back",
+   "Optional headrest"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Centre tilt",
+  "backType": "High back",
+  "spaces": [
+   "Home office",
+   "Study",
+   "Corporate"
+  ],
+  "features": [
+   "Lumbar support",
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Support where your spine curves",
+    "text": "An adjustable lumbar pad tracks the natural inward curve of the lower back. Slide it up or down until it meets you, rather than asking you to meet the chair."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 94,
+  "variants": [
+   {
+    "id": "cielo-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-CIE-HB",
+    "price": 10519,
+    "available": true,
+    "images": [
+     "/images/products/cielo-task-chair/hb-01.webp",
+     "/images/products/cielo-task-chair/hb-02.webp",
+     "/images/products/cielo-task-chair/hb-03.webp",
+     "/images/products/cielo-task-chair/hb-04.webp",
+     "/images/products/cielo-task-chair/hb-05.webp",
+     "/images/products/cielo-task-chair/hb-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/cielo-task-chair/hb-1.webp",
+     "/images/details/cielo-task-chair/hb-2.webp",
+     "/images/details/cielo-task-chair/hb-3.webp",
+     "/images/details/cielo-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "15.4±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1175±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1275±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "450±10mm"
+      ],
+      [
+       "Seat Width",
+       "485±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "435±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "535±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "180-270mm"
+      ],
+      [
+       "Arm Depth",
+       "255±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "435±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "520±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "cielo-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-CIE-MB",
+    "price": 9459,
+    "available": true,
+    "images": [
+     "/images/products/cielo-task-chair/mb-01.webp",
+     "/images/products/cielo-task-chair/mb-02.webp",
+     "/images/products/cielo-task-chair/mb-03.webp",
+     "/images/products/cielo-task-chair/mb-04.webp",
+     "/images/products/cielo-task-chair/mb-05.webp",
+     "/images/products/cielo-task-chair/mb-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/cielo-task-chair/mb-1.webp",
+     "/images/details/cielo-task-chair/mb-2.webp",
+     "/images/details/cielo-task-chair/mb-3.webp",
+     "/images/details/cielo-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "14.5±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "950±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1050±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "450±10mm"
+      ],
+      [
+       "Seat Width",
+       "485±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "435±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "535±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "180-270mm"
+      ],
+      [
+       "Arm Depth",
+       "255±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "435±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "520±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "riva-task-chair",
+  "code": "RIV",
+  "name": "Riva",
+  "title": "Riva Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Studio",
+  "tagline": "Synchronised recline, upholstered comfort.",
+  "description": "Riva’s synchronised tilt keeps your feet on the floor as you recline, while an upholstered seat makes it an easy companion for long days at the desk.",
+  "highlights": [
+   "Synchro tilt",
+   "Upholstered seat",
+   "Mesh back",
+   "Optional headrest"
+  ],
+  "material": [
+   "Mesh",
+   "Fabric"
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Corporate",
+   "Home office"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Seat and back that move together",
+    "text": "A synchronised tilt reclines the back at roughly twice the rate of the seat, so your feet stay planted and your hips stay open as you lean back. One lever locks it upright when you want to type."
+   },
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 57,
+  "variants": [
+   {
+    "id": "riva-task-chair-hb",
+    "key": "hb",
+    "label": "With headrest",
+    "options": {
+     "Headrest": "With headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-RIV-HB",
+    "price": 10469,
+    "available": true,
+    "images": [
+     "/images/products/riva-task-chair/hb-01.webp",
+     "/images/products/riva-task-chair/hb-02.webp",
+     "/images/products/riva-task-chair/hb-03.webp",
+     "/images/products/riva-task-chair/hb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/riva-task-chair/hb-1.webp",
+     "/images/details/riva-task-chair/hb-2.webp",
+     "/images/details/riva-task-chair/hb-3.webp",
+     "/images/details/riva-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "13.6±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1000±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1100±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "465±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "465±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "565±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "185-275mm"
+      ],
+      [
+       "Arm Depth",
+       "255±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "riva-task-chair-mb",
+    "key": "mb",
+    "label": "Without headrest",
+    "options": {
+     "Headrest": "Without headrest"
+    },
+    "swatch": null,
+    "sku": "MGR-RIV-MB",
+    "price": 9099,
+    "available": true,
+    "images": [
+     "/images/products/riva-task-chair/mb-01.webp",
+     "/images/products/riva-task-chair/mb-02.webp",
+     "/images/products/riva-task-chair/mb-03.webp",
+     "/images/products/riva-task-chair/mb-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/riva-task-chair/mb-1.webp",
+     "/images/details/riva-task-chair/mb-2.webp",
+     "/images/details/riva-task-chair/mb-3.webp",
+     "/images/details/riva-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "13±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1000±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1100±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "465±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "465±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "565±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "185-275mm"
+      ],
+      [
+       "Arm Depth",
+       "255±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "500±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "ponte-task-chair",
+  "code": "PON",
+  "name": "Ponte",
+  "title": "Ponte Task Chair",
+  "type": "Ergonomic chair",
+  "line": "Studio",
+  "tagline": "The workhorse of a well-run floor.",
+  "description": "Ponte is our most specified chair for offices: a synchronised tilt, adjustable lumbar and a choice of back heights, built to take years of daily use.",
+  "highlights": [
+   "Synchro tilt",
+   "Adjustable lumbar",
+   "Two back heights",
+   "Contract-grade build"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Corporate"
+  ],
+  "features": [
+   "Lumbar support"
+  ],
+  "story": [
+   {
+    "title": "Seat and back that move together",
+    "text": "A synchronised tilt reclines the back at roughly twice the rate of the seat, so your feet stay planted and your hips stay open as you lean back. One lever locks it upright when you want to type."
+   },
+   {
+    "title": "Support where your spine curves",
+    "text": "An adjustable lumbar pad tracks the natural inward curve of the lower back. Slide it up or down until it meets you, rather than asking you to meet the chair."
+   }
+  ],
+  "badges": [
+   "Trade favourite"
+  ],
+  "rating": 4.6,
+  "reviews": 141,
+  "variants": [
+   {
+    "id": "ponte-task-chair-hb",
+    "key": "hb",
+    "label": "High back",
+    "options": {
+     "Back height": "High back"
+    },
+    "swatch": null,
+    "sku": "MGR-PON-HB",
+    "price": 9049,
+    "available": true,
+    "images": [
+     "/images/products/ponte-task-chair/hb-01.webp",
+     "/images/products/ponte-task-chair/hb-02.webp",
+     "/images/products/ponte-task-chair/hb-03.webp",
+     "/images/products/ponte-task-chair/hb-04.webp",
+     "/images/products/ponte-task-chair/hb-05.webp",
+     "/images/products/ponte-task-chair/hb-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/ponte-task-chair/hb-1.webp",
+     "/images/details/ponte-task-chair/hb-2.webp",
+     "/images/details/ponte-task-chair/hb-3.webp",
+     "/images/details/ponte-task-chair/hb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "15.4±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1060±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1160±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "455±10mm"
+      ],
+      [
+       "Seat Width",
+       "480±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "435±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "535±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "185-275mm"
+      ],
+      [
+       "Arm Depth",
+       "255±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "650±10mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "ponte-task-chair-mb",
+    "key": "mb",
+    "label": "Medium back",
+    "options": {
+     "Back height": "Medium back"
+    },
+    "swatch": null,
+    "sku": "MGR-PON-MB",
+    "price": 8199,
+    "available": true,
+    "images": [
+     "/images/products/ponte-task-chair/mb-01.webp",
+     "/images/products/ponte-task-chair/mb-02.webp",
+     "/images/products/ponte-task-chair/mb-03.webp",
+     "/images/products/ponte-task-chair/mb-04.webp",
+     "/images/products/ponte-task-chair/mb-05.webp",
+     "/images/products/ponte-task-chair/mb-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/ponte-task-chair/mb-1.webp",
+     "/images/details/ponte-task-chair/mb-2.webp",
+     "/images/details/ponte-task-chair/mb-3.webp",
+     "/images/details/ponte-task-chair/mb-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "15±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "915±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1015±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "455±10mm"
+      ],
+      [
+       "Seat Width",
+       "480±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "435±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "535±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "185-275mm"
+      ],
+      [
+       "Arm Depth",
+       "255±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "500±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "onda-work-chair",
+  "code": "OND",
+  "name": "Onda",
+  "title": "Onda Work Chair",
+  "type": "Work chair",
+  "line": "Studio",
+  "tagline": "Adjustable arms in a compact frame.",
+  "description": "Onda suits smaller rooms and shared desks: a compact medium back, adjustable arms and a seat that tucks neatly under the desk.",
+  "highlights": [
+   "Adjustable arms",
+   "Compact footprint",
+   "Mesh back",
+   "Centre tilt"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Centre tilt",
+  "backType": "Medium back",
+  "spaces": [
+   "Home office",
+   "Study",
+   "Corporate"
+  ],
+  "features": [
+   "Adjustable arms"
+  ],
+  "story": [
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [],
+  "rating": 4.4,
+  "reviews": 46,
+  "variants": [
+   {
+    "id": "onda-work-chair-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-OND-STD",
+    "price": 7489,
+    "available": true,
+    "images": [
+     "/images/products/onda-work-chair/std-01.webp",
+     "/images/products/onda-work-chair/std-02.webp",
+     "/images/products/onda-work-chair/std-03.webp",
+     "/images/products/onda-work-chair/std-04.webp",
+     "/images/products/onda-work-chair/std-05.webp",
+     "/images/products/onda-work-chair/std-06.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "15±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "915±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1015±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "455±10mm"
+      ],
+      [
+       "Seat Width",
+       "480±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "435±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "535±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "185-275mm"
+      ],
+      [
+       "Arm Depth",
+       "255±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "450±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "500±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "piccolo-work-chair",
+  "code": "PIC",
+  "name": "Piccolo",
+  "title": "Piccolo Work Chair",
+  "type": "Work chair",
+  "line": "Studio",
+  "tagline": "A low back for touchdown desks and meeting rooms.",
+  "description": "Piccolo’s low back keeps sightlines open across a room. Ideal for meeting tables, reception desks and short sessions.",
+  "highlights": [
+   "Low back",
+   "Mesh back",
+   "Swivel and height adjust",
+   "Easy to clean"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Centre tilt",
+  "backType": "Low back",
+  "spaces": [
+   "Corporate",
+   "Study"
+  ],
+  "features": [],
+  "story": [
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [],
+  "rating": 4.3,
+  "reviews": 33,
+  "variants": [
+   {
+    "id": "piccolo-work-chair-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-PIC-STD",
+    "price": 6709,
+    "available": true,
+    "images": [
+     "/images/products/piccolo-work-chair/std-01.webp",
+     "/images/products/piccolo-work-chair/std-02.webp",
+     "/images/products/piccolo-work-chair/std-03.webp",
+     "/images/products/piccolo-work-chair/std-04.webp",
+     "/images/products/piccolo-work-chair/std-05.webp",
+     "/images/products/piccolo-work-chair/std-06.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "13±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "640±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "850±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "950±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "500±10mm"
+      ],
+      [
+       "Seat Width",
+       "490±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "420±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "540±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Depth",
+       "260±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "banco-study-chair",
+  "code": "BAN",
+  "name": "Banco",
+  "title": "Banco Study Chair",
+  "type": "Study chair",
+  "line": "Studio",
+  "tagline": "Armless and light, for growing students.",
+  "description": "Banco is an armless swivel chair that slides close to a study table. Simple, robust and kind to small rooms.",
+  "highlights": [
+   "Armless design",
+   "Height adjustable",
+   "Mesh back",
+   "Lightweight"
+  ],
+  "material": [
+   "Mesh"
+  ],
+  "mechanism": "Fixed",
+  "backType": "Medium back",
+  "spaces": [
+   "Study"
+  ],
+  "features": [],
+  "story": [
+   {
+    "title": "A back that breathes",
+    "text": "An elastomeric woven mesh is stretched over the frame, letting air move freely during long Indian summers while spreading load evenly across the shoulders and spine."
+   }
+  ],
+  "badges": [],
+  "rating": 4.4,
+  "reviews": 61,
+  "variants": [
+   {
+    "id": "banco-study-chair-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-BAN-STD",
+    "price": 4199,
+    "available": true,
+    "images": [
+     "/images/products/banco-study-chair/std-01.webp",
+     "/images/products/banco-study-chair/std-02.webp",
+     "/images/products/banco-study-chair/std-03.webp",
+     "/images/products/banco-study-chair/std-04.webp",
+     "/images/products/banco-study-chair/std-05.webp",
+     "/images/products/banco-study-chair/std-06.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "7.6±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "600±10mm"
+      ],
+      [
+       "Chair Depth",
+       "600±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "785±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "885±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "410±10mm"
+      ],
+      [
+       "Seat Width",
+       "470±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "420±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "520±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Backrest Height from Seat",
+       "380±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "tessa-visitor-chair",
+  "code": "TES",
+  "name": "Tessa",
+  "title": "Tessa Cushioned Chair",
+  "type": "Visitor chair",
+  "line": "Studio",
+  "tagline": "A fully upholstered chair for guests and cabins.",
+  "description": "Tessa is fully cushioned with fixed arms, an easy choice for cabins, consultation rooms and guest seating at home.",
+  "highlights": [
+   "Fully upholstered",
+   "Fixed arms",
+   "Swivel base",
+   "Durable fabric"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "mechanism": "Centre tilt",
+  "backType": "Medium back",
+  "spaces": [
+   "Corporate",
+   "Home office"
+  ],
+  "features": [],
+  "story": [
+   {
+    "title": "Fully upholstered",
+    "text": "High-density foam is wrapped in a hard-wearing woven fabric that keeps its colour and shape for years of daily use."
+   }
+  ],
+  "badges": [],
+  "rating": 4.3,
+  "reviews": 22,
+  "variants": [
+   {
+    "id": "tessa-visitor-chair-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-TES-STD",
+    "price": 4999,
+    "available": true,
+    "images": [
+     "/images/products/tessa-visitor-chair/std-01.webp",
+     "/images/products/tessa-visitor-chair/std-02.webp",
+     "/images/products/tessa-visitor-chair/std-03.webp",
+     "/images/products/tessa-visitor-chair/std-04.webp",
+     "/images/products/tessa-visitor-chair/std-05.webp",
+     "/images/products/tessa-visitor-chair/std-06.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "14.7±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "600±10mm"
+      ],
+      [
+       "Chair Depth",
+       "500±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "910±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1110±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "485±10mm"
+      ],
+      [
+       "Seat Width",
+       "505±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "470±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "570±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "160-250mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "600±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "530±10mm"
+      ],
+      [
+       "Backrest Width",
+       "470±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "volta-lounge-chair",
+  "code": "VLL",
+  "name": "Volta Lounge",
+  "title": "Volta Lounge Chair",
+  "type": "Lounge & gaming chair",
+  "line": "Atelier",
+  "subcategory": "lounge",
+  "tagline": "Long sessions, colour-blocked upholstery.",
+  "description": "Volta Lounge brings the flexing dual-frame back of our Volta chair into a fully upholstered, deeply padded shell, finished with a contrast stripe in ocean or saffron.",
+  "highlights": [
+   "Dual-frame flexing back",
+   "Seat depth adjust",
+   "Padded headrest",
+   "Two colourways"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "mechanism": "Multi-position tilt",
+  "backType": "High back",
+  "spaces": [
+   "Gaming",
+   "Home office"
+  ],
+  "features": [
+   "Seat depth",
+   "Headrest",
+   "Adjustable arms"
+  ],
+  "story": [
+   {
+    "title": "A frame that follows you",
+    "text": "A dual-frame back flexes independently at the shoulders and the lower back, so the chair follows twists and reaches instead of fighting them."
+   },
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   }
+  ],
+  "badges": [
+   "New"
+  ],
+  "rating": 4.7,
+  "reviews": 48,
+  "variants": [
+   {
+    "id": "volta-lounge-chair-ocean",
+    "key": "ocean",
+    "label": "Ocean",
+    "options": {
+     "Colour": "Ocean"
+    },
+    "swatch": "#2f6fa8",
+    "sku": "MGR-VLL-OCEAN",
+    "price": 22299,
+    "available": true,
+    "images": [
+     "/images/products/volta-lounge-chair/ocean-01.webp",
+     "/images/products/volta-lounge-chair/ocean-02.webp",
+     "/images/products/volta-lounge-chair/ocean-03.webp",
+     "/images/products/volta-lounge-chair/ocean-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/volta-lounge-chair/ocean-1.webp",
+     "/images/details/volta-lounge-chair/ocean-2.webp",
+     "/images/details/volta-lounge-chair/ocean-3.webp",
+     "/images/details/volta-lounge-chair/ocean-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "21±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1140±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1240±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "415±10mm"
+      ],
+      [
+       "Seat Width",
+       "500±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "480±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "580±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "175-265mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "690±10mm"
+      ],
+      [
+       "Headrest Height",
+       "155-195mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "volta-lounge-chair-saffron",
+    "key": "saffron",
+    "label": "Saffron",
+    "options": {
+     "Colour": "Saffron"
+    },
+    "swatch": "#d9782d",
+    "sku": "MGR-VLL-SAFFRON",
+    "price": 22299,
+    "available": true,
+    "images": [
+     "/images/products/volta-lounge-chair/saffron-01.webp",
+     "/images/products/volta-lounge-chair/saffron-02.webp",
+     "/images/products/volta-lounge-chair/saffron-03.webp",
+     "/images/products/volta-lounge-chair/saffron-04.webp",
+     "/images/products/volta-lounge-chair/saffron-05.webp",
+     "/images/products/volta-lounge-chair/saffron-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/volta-lounge-chair/saffron-1.webp",
+     "/images/details/volta-lounge-chair/saffron-2.webp",
+     "/images/details/volta-lounge-chair/saffron-3.webp",
+     "/images/details/volta-lounge-chair/saffron-4.webp"
+    ],
+    "specs": {
+     "Weight": [
+      [
+       "Chair Net Weight",
+       "21±0.5 kg"
+      ]
+     ],
+     "Dimensions": [
+      [
+       "Chair Width",
+       "660±10mm"
+      ],
+      [
+       "Chair Depth",
+       "660±10mm"
+      ],
+      [
+       "Minimum Chair Height",
+       "1140±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1240±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Seat Depth",
+       "490±10mm"
+      ],
+      [
+       "Seat Width",
+       "500±10mm"
+      ],
+      [
+       "Minimum Seat Height",
+       "480±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "580±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "175-265mm"
+      ],
+      [
+       "Arm Depth",
+       "250±10mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "455±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "690±10mm"
+      ],
+      [
+       "Headrest Height",
+       "155-195mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Does the chair arrive assembled?",
+    "a": "It arrives in a single carton with the base, seat and back pre-built. Most customers finish assembly in under fifteen minutes with the included tool. In metro cities our team can assemble it for you on request."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame and tilt mechanism, three years on the gas lift and castors, and one year on upholstery and mesh against manufacturing defects."
+   },
+   {
+    "q": "Can I see it before I buy?",
+    "a": "Yes. Book a visit to the Bengaluru or Mumbai studio, or ask us for a trial seat in your office if you are furnishing ten seats or more."
+   }
+  ],
+  "slug": "notte-lounge-chair",
+  "code": "NOT",
+  "name": "Notte",
+  "title": "Notte Lounge Chair",
+  "type": "Lounge & gaming chair",
+  "line": "Atelier",
+  "subcategory": "lounge",
+  "tagline": "Sculpted, cushioned and unapologetically bold.",
+  "description": "Notte is a high-backed, deeply cushioned chair for the late hours. Its sculpted shell and two-tone upholstery make it a statement in any study or media room.",
+  "highlights": [
+   "Sculpted high back",
+   "Two-tone upholstery",
+   "Cushioned headrest",
+   "Recline lock"
+  ],
+  "material": [
+   "Fabric"
+  ],
+  "mechanism": "Multi-position tilt",
+  "backType": "High back",
+  "spaces": [
+   "Gaming"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "story": [
+   {
+    "title": "Recline, then stay there",
+    "text": "A multi-position tilt lets you lock the back at the angle that suits the task: upright for focused work, reclined for calls and reading. Tension is tuned by a dial under the seat, so lighter and heavier sitters feel equally supported."
+   }
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 19,
+  "variants": [
+   {
+    "id": "notte-lounge-chair-std",
+    "key": "std",
+    "label": "Emerald & Plum",
+    "options": {},
+    "swatch": "#3d6b52",
+    "sku": "MGR-NOT-STD",
+    "price": 29999,
+    "available": false,
+    "images": [
+     "/images/products/notte-lounge-chair/std-01.webp",
+     "/images/products/notte-lounge-chair/std-02.webp",
+     "/images/products/notte-lounge-chair/std-03.webp",
+     "/images/products/notte-lounge-chair/std-04.webp",
+     "/images/products/notte-lounge-chair/std-05.webp",
+     "/images/products/notte-lounge-chair/std-06.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "Dimensions": [
+      [
+       "Minimum Chair Height",
+       "1170±10mm"
+      ],
+      [
+       "Maximum Chair Height",
+       "1255±10mm"
+      ]
+     ],
+     "Seat": [
+      [
+       "Minimum Seat Height",
+       "440±10mm"
+      ],
+      [
+       "Maximum Seat Height",
+       "525±10mm"
+      ]
+     ],
+     "Arms & Backrest": [
+      [
+       "Arm Rest Height",
+       "200-285mm"
+      ],
+      [
+       "Width (Arm to Arm)",
+       "460±10mm"
+      ],
+      [
+       "Backrest Height from Seat",
+       "570±10mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "height-adjustable",
+  "type": "Height-adjustable desk",
+  "title": "Altezza Standing Desk",
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": "Height adjustable",
+  "backType": null,
+  "spaces": [
+   "Home office",
+   "Corporate",
+   "Gaming"
+  ],
+  "features": [
+   "Height adjustable"
+  ],
+  "story": [
+   {
+    "title": "Change position, change pace",
+    "text": "Alternating between sitting and standing every half hour keeps the body moving. Our lift mechanisms are tuned to make that switch a single, quiet motion."
+   }
+  ],
+  "warranty": "3-year frame & lift warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "slug": "altezza-standing-desk",
+  "code": "ALZ",
+  "name": "Altezza",
+  "handle": "elevate-height-adjustable-table",
+  "line": "Signature",
+  "tagline": "Sit, stand, and glide between the two.",
+  "description": "Altezza is a mobile sit-stand desk with a smooth gas lift and lockable castors. Roll it to the window in the morning and to the sofa at night.",
+  "highlights": [
+   "Gas-lift height adjust",
+   "Lockable castors",
+   "Maple-finish top",
+   "Powder-coated steel"
+  ],
+  "badges": [
+   "Bestseller"
+  ],
+  "rating": 4.7,
+  "reviews": 58,
+  "variants": [
+   {
+    "id": "altezza-standing-desk-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-ALZ-STD",
+    "price": 24869,
+    "available": false,
+    "images": [
+     "/images/products/altezza-standing-desk/std-01.webp",
+     "/images/products/altezza-standing-desk/std-02.webp",
+     "/images/products/altezza-standing-desk/std-03.webp",
+     "/images/products/altezza-standing-desk/std-04.webp",
+     "/images/products/altezza-standing-desk/std-05.webp",
+     "/images/products/altezza-standing-desk/std-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/altezza-standing-desk/std-1.webp",
+     "/images/details/altezza-standing-desk/std-2.webp"
+    ],
+    "specs": {
+     "General": [
+      [
+       "Top",
+       "25mm Thk Membrane Top"
+      ],
+      [
+       "Top Size",
+       "800 x 600 x 25mm"
+      ],
+      [
+       "Base Size",
+       "750 x 600mm"
+      ],
+      [
+       "Capacity",
+       "Dynamic Load upto 8kg"
+      ],
+      [
+       "Detail",
+       "Static Load upto 50kg"
+      ],
+      [
+       "Height Range",
+       "750 to1150mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "height-adjustable",
+  "type": "Height-adjustable desk",
+  "title": "Aria Standing Desk",
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": "Height adjustable",
+  "backType": null,
+  "spaces": [
+   "Home office",
+   "Corporate",
+   "Gaming"
+  ],
+  "features": [
+   "Height adjustable"
+  ],
+  "story": [
+   {
+    "title": "Change position, change pace",
+    "text": "Alternating between sitting and standing every half hour keeps the body moving. Our lift mechanisms are tuned to make that switch a single, quiet motion."
+   }
+  ],
+  "warranty": "3-year frame & lift warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "slug": "aria-standing-desk",
+  "code": "ARI",
+  "name": "Aria",
+  "handle": "airlift-height-adjustable-table",
+  "line": "Atelier",
+  "tagline": "A lighter touch on the sit-stand idea.",
+  "description": "Aria lifts with a single lever and a counterbalanced column. A slim top and pedestal base make it feel at home in a living room.",
+  "highlights": [
+   "One-lever lift",
+   "Counterbalanced column",
+   "Slim pedestal base",
+   "Compact top"
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 21,
+  "variants": [
+   {
+    "id": "aria-standing-desk-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-ARI-STD",
+    "price": 30009,
+    "available": true,
+    "images": [
+     "/images/products/aria-standing-desk/std-01.webp",
+     "/images/products/aria-standing-desk/std-02.webp"
+    ],
+    "detailImages": [],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "height-adjustable",
+  "type": "Height-adjustable desk",
+  "title": "Alto Standing Desk",
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": "Height adjustable",
+  "backType": null,
+  "spaces": [
+   "Home office",
+   "Corporate",
+   "Gaming"
+  ],
+  "features": [
+   "Height adjustable"
+  ],
+  "story": [
+   {
+    "title": "Change position, change pace",
+    "text": "Alternating between sitting and standing every half hour keeps the body moving. Our lift mechanisms are tuned to make that switch a single, quiet motion."
+   }
+  ],
+  "warranty": "3-year frame & lift warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "slug": "alto-standing-desk",
+  "code": "ALT",
+  "name": "Alto",
+  "handle": "rise-height-adjustable-table",
+  "line": "Studio",
+  "tagline": "A compact standing desk for small rooms.",
+  "description": "Alto is our most compact sit-stand desk: a gas-lift column, castors and a maple-finish top, sized for laptop work in a corner or beside a bed.",
+  "highlights": [
+   "Gas-lift height adjust",
+   "Castors",
+   "730–1110 mm range",
+   "Maple-finish top"
+  ],
+  "badges": [],
+  "rating": 4.4,
+  "reviews": 37,
+  "variants": [
+   {
+    "id": "alto-standing-desk-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-ALT-STD",
+    "price": 15859,
+    "available": true,
+    "images": [
+     "/images/products/alto-standing-desk/std-01.webp",
+     "/images/products/alto-standing-desk/std-02.webp",
+     "/images/products/alto-standing-desk/std-03.webp",
+     "/images/products/alto-standing-desk/std-04.webp"
+    ],
+    "detailImages": [
+     "/images/details/alto-standing-desk/std-1.webp",
+     "/images/details/alto-standing-desk/std-2.webp"
+    ],
+    "specs": {
+     "General": [
+      [
+       "Top",
+       "18mm Thick Maple pre laminated particle board"
+      ],
+      [
+       "Top Size",
+       "750 x 600 x 18mm"
+      ],
+      [
+       "Base Size",
+       "618 x 545mm"
+      ],
+      [
+       "Capacity",
+       "Dynamic Load upto 8kg"
+      ],
+      [
+       "Height Range",
+       "730 to 1110 mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "height-adjustable",
+  "type": "Height-adjustable desk",
+  "title": "Ritmo Play Desk",
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": "Height adjustable",
+  "backType": null,
+  "spaces": [
+   "Home office",
+   "Corporate",
+   "Gaming"
+  ],
+  "features": [
+   "Height adjustable"
+  ],
+  "story": [
+   {
+    "title": "Change position, change pace",
+    "text": "Alternating between sitting and standing every half hour keeps the body moving. Our lift mechanisms are tuned to make that switch a single, quiet motion."
+   }
+  ],
+  "warranty": "3-year frame & lift warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "slug": "ritmo-play-desk",
+  "code": "RIT",
+  "name": "Ritmo",
+  "handle": "featherlite-motion-2-gaming-height-adjustable-table",
+  "line": "Atelier",
+  "tagline": "A wide, height-adjustable desk for play and work.",
+  "description": "Ritmo gives you a generous top for multiple monitors and a smooth height range, so long gaming or editing sessions can switch between sitting and standing.",
+  "highlights": [
+   "Wide top",
+   "Height adjustable",
+   "Cable management",
+   "Steel frame"
+  ],
+  "badges": [
+   "New"
+  ],
+  "rating": 4.6,
+  "reviews": 14,
+  "variants": [
+   {
+    "id": "ritmo-play-desk-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-RIT-STD",
+    "price": 35999,
+    "available": true,
+    "images": [
+     "/images/products/ritmo-play-desk/std-01.webp",
+     "/images/products/ritmo-play-desk/std-02.webp",
+     "/images/products/ritmo-play-desk/std-03.webp",
+     "/images/products/ritmo-play-desk/std-04.webp",
+     "/images/products/ritmo-play-desk/std-05.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "General": [
+      [
+       "Size",
+       "L: 1250mm x"
+      ],
+      [
+       "D",
+       "600mm."
+      ],
+      [
+       "Table Top",
+       "18mm Thick High Grade Engineered Wood."
+      ],
+      [
+       "Detail",
+       "65mm Diameter Wire Manager Grommet."
+      ],
+      [
+       "Maximum Load Capacity",
+       "88lbs/40kg."
+      ],
+      [
+       "Maximum Speed",
+       "25mm/s."
+      ],
+      [
+       "Stroke",
+       "19.3\"/490mm."
+      ],
+      [
+       "Height Range",
+       "28.3\"-47.6\"/720-1210mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "work-tables",
+  "type": "Work table",
+  "line": "Studio",
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "story": [
+   {
+    "title": "Built to be lived with",
+    "text": "Edge-banded tops resist chips and moisture, and powder-coated steel frames stay quiet and level on uneven Indian floors."
+   }
+  ],
+  "warranty": "3-year frame warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "badges": [],
+  "slug": "piega-work-table",
+  "code": "PIE",
+  "name": "Piega",
+  "title": "Piega Folding Table",
+  "handle": "featherlite-flip-computer-table",
+  "tagline": "Folds flat, rolls away.",
+  "description": "Piega’s top flips up and the frame rolls on castors, so a training room or a spare bedroom can be cleared in minutes.",
+  "highlights": [
+   "Flip-top",
+   "Nesting frame",
+   "Castors",
+   "Laminate top"
+  ],
+  "rating": 4.4,
+  "reviews": 18,
+  "spaces": [
+   "Corporate",
+   "Home office"
+  ],
+  "variants": [
+   {
+    "id": "piega-work-table-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-PIE-STD",
+    "price": 9059,
+    "available": true,
+    "images": [
+     "/images/products/piega-work-table/std-01.webp",
+     "/images/products/piega-work-table/std-02.webp",
+     "/images/products/piega-work-table/std-03.webp"
+    ],
+    "detailImages": [
+     "/images/details/piega-work-table/std-1.webp",
+     "/images/details/piega-work-table/std-2.webp"
+    ],
+    "specs": {
+     "General": [
+      [
+       "Detail",
+       "Table top -18 mm Particle Board"
+      ],
+      [
+       "Detail",
+       "size - 900mm x 500mm x 750 mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "work-tables",
+  "type": "Work table",
+  "line": "Studio",
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "story": [
+   {
+    "title": "Built to be lived with",
+    "text": "Edge-banded tops resist chips and moisture, and powder-coated steel frames stay quiet and level on uneven Indian floors."
+   }
+  ],
+  "warranty": "3-year frame warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "badges": [],
+  "slug": "gradino-work-table",
+  "code": "GRA",
+  "name": "Gradino",
+  "title": "Gradino Work Table",
+  "handle": "featherlite-step-up-computer-table",
+  "tagline": "A raised shelf puts the screen at eye level.",
+  "description": "Gradino has a stepped monitor shelf that lifts your screen and frees the desk surface below for keyboard, notebook and coffee.",
+  "highlights": [
+   "Raised monitor shelf",
+   "Steel frame",
+   "Laminate top",
+   "Cable cut-out"
+  ],
+  "rating": 4.5,
+  "reviews": 27,
+  "spaces": [
+   "Home office",
+   "Study"
+  ],
+  "variants": [
+   {
+    "id": "gradino-work-table-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-GRA-STD",
+    "price": 12109,
+    "available": true,
+    "images": [
+     "/images/products/gradino-work-table/std-01.webp",
+     "/images/products/gradino-work-table/std-02.webp",
+     "/images/products/gradino-work-table/std-03.webp",
+     "/images/products/gradino-work-table/std-04.webp",
+     "/images/products/gradino-work-table/std-05.webp",
+     "/images/products/gradino-work-table/std-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/gradino-work-table/std-1.webp",
+     "/images/details/gradino-work-table/std-2.webp",
+     "/images/details/gradino-work-table/std-3.webp"
+    ],
+    "specs": {
+     "General": [
+      [
+       "Detail",
+       "Size - 1200mm L X 500mm D X 1600mm H"
+      ],
+      [
+       "Detail",
+       "Tabletop and shelves 18mm Thick E-1 Grade"
+      ],
+      [
+       "Detail",
+       "Overhead shelf with 2 wire baskets"
+      ],
+      [
+       "Detail",
+       "25 x 25 mm steel tube powder coated metal frame"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "work-tables",
+  "type": "Work table",
+  "line": "Studio",
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": null,
+  "backType": null,
+  "features": [],
+  "story": [
+   {
+    "title": "Built to be lived with",
+    "text": "Edge-banded tops resist chips and moisture, and powder-coated steel frames stay quiet and level on uneven Indian floors."
+   }
+  ],
+  "warranty": "3-year frame warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "badges": [],
+  "slug": "studio-work-table",
+  "code": "STU",
+  "name": "Studio",
+  "title": "Studio Work Table",
+  "handle": "workhub-computer-table",
+  "tagline": "A practical desk with storage built in.",
+  "description": "Studio is a straightforward work table with integrated storage, sized to fit a home office without dominating it.",
+  "highlights": [
+   "Integrated storage",
+   "Steel frame",
+   "Laminate top",
+   "Easy assembly"
+  ],
+  "rating": 4.4,
+  "reviews": 24,
+  "spaces": [
+   "Home office",
+   "Study"
+  ],
+  "variants": [
+   {
+    "id": "studio-work-table-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-STU-STD",
+    "price": 11809,
+    "available": true,
+    "images": [
+     "/images/products/studio-work-table/std-01.webp",
+     "/images/products/studio-work-table/std-02.webp",
+     "/images/products/studio-work-table/std-03.webp",
+     "/images/products/studio-work-table/std-04.webp",
+     "/images/products/studio-work-table/std-05.webp"
+    ],
+    "detailImages": [
+     "/images/details/studio-work-table/std-1.webp",
+     "/images/details/studio-work-table/std-2.webp",
+     "/images/details/studio-work-table/std-3.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "desks",
+  "subcategory": "work-tables",
+  "slug": "quaderno-study-table",
+  "code": "QUA",
+  "name": "Quaderno",
+  "title": "Quaderno Study Table",
+  "type": "Study table",
+  "line": "Atelier",
+  "tagline": "A compact study table with two open shelves.",
+  "description": "Quaderno packs a full-size writing surface and two open shelves into a footprint small enough for a bedroom corner. Choose a pale maple or a deep walnut finish.",
+  "highlights": [
+   "Two open shelves",
+   "Compact footprint",
+   "Maple or walnut finish",
+   "Steel frame"
+  ],
+  "material": [
+   "Laminate",
+   "Steel"
+  ],
+  "mechanism": null,
+  "backType": null,
+  "spaces": [
+   "Study",
+   "Home office"
+  ],
+  "features": [],
+  "story": [
+   {
+    "title": "Small room, full desk",
+    "text": "A 105 cm top is wide enough for a laptop and an open notebook side by side, while the shelves below hold books and chargers out of the way."
+   }
+  ],
+  "warranty": "3-year frame warranty",
+  "leadTime": "Ships in 5–7 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "badges": [],
+  "rating": 4.6,
+  "reviews": 52,
+  "variants": [
+   {
+    "id": "quaderno-study-table-maple",
+    "key": "maple",
+    "label": "Maple",
+    "options": {
+     "Finish": "Maple"
+    },
+    "swatch": "#d8b98a",
+    "sku": "MGR-QUA-MAPLE",
+    "price": 6669,
+    "available": true,
+    "images": [
+     "/images/products/quaderno-study-table/maple-01.webp",
+     "/images/products/quaderno-study-table/maple-02.webp",
+     "/images/products/quaderno-study-table/maple-03.webp",
+     "/images/products/quaderno-study-table/maple-04.webp",
+     "/images/products/quaderno-study-table/maple-05.webp",
+     "/images/products/quaderno-study-table/maple-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/quaderno-study-table/maple-1.webp",
+     "/images/details/quaderno-study-table/maple-2.webp"
+    ],
+    "specs": {
+     "General": [
+      [
+       "Detail",
+       "Thanasu Maple Tabletop - 1050 x 600 x 750 mm"
+      ],
+      [
+       "Detail",
+       "Two shelves, each - 250 x 575 mm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "quaderno-study-table-walnut",
+    "key": "walnut",
+    "label": "Walnut",
+    "options": {
+     "Finish": "Walnut"
+    },
+    "swatch": "#6b4a33",
+    "sku": "MGR-QUA-WALNUT",
+    "price": 6669,
+    "available": false,
+    "images": [
+     "/images/products/quaderno-study-table/walnut-01.webp",
+     "/images/products/quaderno-study-table/walnut-02.webp",
+     "/images/products/quaderno-study-table/walnut-03.webp",
+     "/images/products/quaderno-study-table/walnut-04.webp",
+     "/images/products/quaderno-study-table/walnut-05.webp",
+     "/images/products/quaderno-study-table/walnut-06.webp"
+    ],
+    "detailImages": [
+     "/images/details/quaderno-study-table/walnut-1.webp",
+     "/images/details/quaderno-study-table/walnut-2.webp"
+    ],
+    "specs": {
+     "General": [
+      [
+       "Detail",
+       "Walnut Tabletop - 1050 x 600 x 750 mm"
+      ],
+      [
+       "Detail",
+       "Two shelves, each - 250 x 575 mm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "storage",
+  "slug": "mensola-open-shelf",
+  "code": "MEN",
+  "name": "Mensola",
+  "title": "Mensola Open Shelf",
+  "type": "Open storage",
+  "line": "Studio",
+  "tagline": "A modular open shelf in three heights.",
+  "description": "Mensola is a slim, open shelving unit in matt black. Use one beside a desk, or line several up as a room divider.",
+  "highlights": [
+   "Three heights",
+   "Matt black finish",
+   "18 mm board",
+   "Wall-fix kit included"
+  ],
+  "material": [
+   "Laminate"
+  ],
+  "mechanism": null,
+  "backType": null,
+  "spaces": [
+   "Home office",
+   "Study",
+   "Corporate"
+  ],
+  "features": [],
+  "story": [
+   {
+    "title": "Line them up",
+    "text": "Every Mensola unit shares the same depth and width, so mixed heights sit flush when placed side by side."
+   }
+  ],
+  "warranty": "2-year warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is assembly included?",
+    "a": "Desks ship flat with every fixing and tool required. Complimentary assembly is available in Bengaluru, Mumbai, Delhi NCR, Pune, Hyderabad and Chennai."
+   },
+   {
+    "q": "Can I order a custom size or finish?",
+    "a": "For orders of five units or more we can produce custom top sizes and laminate finishes. Send an enquiry with your floor plan and we will come back with options."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Three years on the frame and lift mechanism and one year on the top surface against manufacturing defects."
+   }
+  ],
+  "badges": [],
+  "rating": 4.5,
+  "reviews": 31,
+  "variants": [
+   {
+    "id": "mensola-open-shelf-h60",
+    "key": "h60",
+    "label": "60 cm · 2 shelves",
+    "options": {
+     "Height": "60 cm"
+    },
+    "swatch": null,
+    "sku": "MGR-MEN-H60",
+    "price": 3230,
+    "available": true,
+    "images": [
+     "/images/products/mensola-open-shelf/h60-01.webp",
+     "/images/products/mensola-open-shelf/h60-02.webp",
+     "/images/products/mensola-open-shelf/h60-03.webp",
+     "/images/products/mensola-open-shelf/h60-04.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "General": [
+      [
+       "Material",
+       "18 mm particle board, matt black"
+      ],
+      [
+       "Depth",
+       "40 cm"
+      ],
+      [
+       "Width",
+       "30 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "mensola-open-shelf-h90",
+    "key": "h90",
+    "label": "90 cm · 3 shelves",
+    "options": {
+     "Height": "90 cm"
+    },
+    "swatch": null,
+    "sku": "MGR-MEN-H90",
+    "price": 4300,
+    "available": true,
+    "images": [
+     "/images/products/mensola-open-shelf/h90-01.webp",
+     "/images/products/mensola-open-shelf/h90-02.webp",
+     "/images/products/mensola-open-shelf/h90-03.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "General": [
+      [
+       "Material",
+       "18 mm particle board, matt black"
+      ],
+      [
+       "Depth",
+       "40 cm"
+      ],
+      [
+       "Width",
+       "30 cm"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "mensola-open-shelf-h120",
+    "key": "h120",
+    "label": "120 cm · 4 shelves",
+    "options": {
+     "Height": "120 cm"
+    },
+    "swatch": null,
+    "sku": "MGR-MEN-H120",
+    "price": 5770,
+    "available": true,
+    "images": [
+     "/images/products/mensola-open-shelf/h120-01.webp",
+     "/images/products/mensola-open-shelf/h120-02.webp",
+     "/images/products/mensola-open-shelf/h120-03.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "General": [
+      [
+       "Material",
+       "18 mm particle board, matt black"
+      ],
+      [
+       "Depth",
+       "40 cm"
+      ],
+      [
+       "Width",
+       "30 cm"
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "category": "accessories",
+  "slug": "presa-desk-power",
+  "code": "PRE",
+  "name": "Presa",
+  "title": "Presa Desk Power Module",
+  "type": "Accessory",
+  "line": "Studio",
+  "tagline": "Power and USB, right at the desk edge.",
+  "description": "Presa clamps to any desk and brings two universal sockets and two USB-A ports within reach, ending the daily crawl under the table.",
+  "highlights": [
+   "2 universal sockets",
+   "2 USB-A ports",
+   "Desk clamp",
+   "Surge protected"
+  ],
+  "material": [
+   "Steel"
+  ],
+  "mechanism": null,
+  "backType": null,
+  "spaces": [
+   "Home office",
+   "Corporate"
+  ],
+  "features": [],
+  "story": [],
+  "warranty": "1-year warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [],
+  "badges": [],
+  "rating": 4.3,
+  "reviews": 12,
+  "variants": [
+   {
+    "id": "presa-desk-power-std",
+    "key": "std",
+    "label": "Standard",
+    "options": {},
+    "swatch": null,
+    "sku": "MGR-PRE-STD",
+    "price": 4400,
+    "available": false,
+    "images": [
+     "/images/products/presa-desk-power/std-01.webp",
+     "/images/products/presa-desk-power/std-02.webp",
+     "/images/products/presa-desk-power/std-03.webp",
+     "/images/products/presa-desk-power/std-04.webp"
+    ],
+    "detailImages": [],
+    "specs": {
+     "General": [
+      [
+       "Sockets",
+       "2 × universal"
+      ],
+      [
+       "USB",
+       "2 × USB-A"
+      ],
+      [
+       "Mounting",
+       "Desk clamp, up to 40 mm"
+      ]
+     ]
+    }
+   }
+  ]
+ }
+]
