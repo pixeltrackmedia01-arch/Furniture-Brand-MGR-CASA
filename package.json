@@ -7,12 +7,12 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "catalogue": "node tools/build-catalogue.mjs"
+    "catalogue": "node tools/build-catalogue.mjs",
+    "cutouts": "node tools/make-cutouts.mjs"
   },
   "dependencies": {
-    "@fontsource-variable/hanken-grotesk": "^5.1.0",
-    "@fontsource/libre-caslon-display": "^5.1.0",
-    "@fontsource/libre-caslon-text": "^5.1.0",
+    "@fontsource-variable/manrope": "^5.1.0",
+    "@fontsource-variable/outfit": "^5.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.28.0"

@@ -1,6 +1,5 @@
-import '@fontsource/libre-caslon-display/400.css';
-import '@fontsource/libre-caslon-text/400-italic.css';
-import '@fontsource-variable/hanken-grotesk';
+import '@fontsource-variable/outfit';
+import '@fontsource-variable/manrope';
 import './styles/global.css';
 import './styles/pages.css';
 import { StrictMode } from 'react';

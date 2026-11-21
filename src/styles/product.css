@@ -171,7 +171,7 @@
 }
 .pdp-stock.ok .dot {
   background: var(--ok);
-  box-shadow: 0 0 0 4px rgba(62, 107, 71, 0.15);
+  box-shadow: 0 0 0 4px rgba(111, 123, 94, 0.15);
 }
 .pdp-buy {
   display: flex;
@@ -323,10 +323,10 @@
   padding-block: clamp(64px, 8vw, 128px);
 }
 .pdp-story .eyebrow {
-  color: #9b9285;
+  color: #bfae99;
 }
 .pdp-story .muted {
-  color: #b5ac9e;
+  color: #cdbda8;
 }
 .story-grid {
   display: grid;
@@ -348,7 +348,7 @@
   margin: 8px 0 10px;
 }
 .story-item.no-img {
-  border-top: 1px solid rgba(242, 237, 228, 0.2);
+  border-top: 1px solid rgba(251, 247, 240, 0.2);
   padding-top: 20px;
 }
 

@@ -213,7 +213,7 @@
   margin-bottom: 8px;
 }
 .stats-mini span {
-  color: #b5ac9e;
+  color: #cdbda8;
   font-size: 0.92rem;
 }
 
@@ -235,14 +235,14 @@
 .trade-hero-shade {
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(22, 20, 17, 0.2), rgba(22, 20, 17, 0.78));
+  background: linear-gradient(180deg, rgba(34, 24, 18, 0.2), rgba(34, 24, 18, 0.78));
 }
 .trade-hero-in {
   position: relative;
   padding-block: clamp(48px, 8vw, 112px);
 }
 .trade-hero .eyebrow {
-  color: rgba(250, 247, 241, 0.75);
+  color: rgba(255, 253, 249, 0.75);
   margin-bottom: 16px;
 }
 .trade-hero .display {

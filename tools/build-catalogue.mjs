@@ -12,9 +12,9 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import sharp from 'sharp';
 import { SERIES as WORK, SCENES as WORK_SCENES } from './catalogue-copy.mjs';
-import { LIVING, EXECUTIVE, DRIVE_SCENES } from './catalogue-copy-drive.mjs';
+import { LIVING, EXECUTIVE, BOSS, DRIVE_SCENES } from './catalogue-copy-drive.mjs';
 
-const SERIES = [...LIVING, ...EXECUTIVE, ...WORK];
+const SERIES = [...LIVING, ...EXECUTIVE, ...BOSS, ...WORK];
 const SCENES = [...DRIVE_SCENES, ...WORK_SCENES];
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');

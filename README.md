@@ -44,14 +44,25 @@ tools/
 
 **Connecting a backend later:** replace the body of `submitEnquiry()` in `src/lib/enquiry.ts` with an API call, and back the helpers in `src/data/catalogue.ts` with API data. Components do not need to change.
 
+## Homepage hero
+
+The banner is a full-screen "flavour slider" (`src/components/FlavourHero.tsx`, configured in `src/data/heroSlides.ts`, styled in `src/styles/hero.css`). It has five slides: Lounge, Executive, Ergo, Velvet and Boss. Each slide has a flat colour, a giant white word behind one hero product, and smaller chairs, sofas and material swatches floating at different depths.
+
+- **Motion:** changing slide plays a measured right-to-left panel wipe with parallax.
+- **Controls:** autoplay every 2.6 s (paused for 6 s after any interaction), tabs, arrows, the arrow keys and swipe.
+- **Accessibility:** reduced motion is respected.
+- **Cut-outs:** the transparent product cut-outs and swatch discs come from `npm run cutouts` (`tools/make-cutouts.mjs`). It removes white or grey backgrounds, keeps the soft floor shadow and drops stray annotation text.
+
+Below the hero, `src/components/CategoryGrid.tsx` shows the category tiles.
+
 ## Design system
 
-- **Type:** Libre Caslon Display for headlines, Libre Caslon Text italic for accent words, Hanken Grotesk for UI and body text. All fonts are self-hosted through Fontsource.
-- **Colour:** bone `#f2ede4`, ink `#1c1a17`, terracotta `#a8492a`, moss `#4d5843`, night `#161411`. Tokens are on `:root` in `src/styles/global.css`.
+- **Type:** Outfit (geometric sans) for display text and headings, Manrope for UI and body text. Both are self-hosted through Fontsource.
+- **Colour:** warm walnut and cream: ivory `#fbf7f0`, oat `#f1e8da`, espresso `#2a1e17`, caramel `#b5651d`, sage `#6f7b5e`. Tokens are on `:root` in `src/styles/global.css`.
 
 ## Catalogue and images
 
-The catalogue has 60 products in five categories: **Living** (sofas, sectionals, sofa-cum-beds, chaises, armchairs, ottomans), **Seating** (executive, task, work and lounge chairs), **Desks & Tables**, **Storage** and **Accessories**.
+The catalogue has 62 products in five categories: **Living** (sofas, sectionals, sofa-cum-beds, chaises, armchairs, ottomans), **Seating** (executive, boss, task, work and lounge chairs), **Desks & Tables**, **Storage** and **Accessories**.
 
 | Range | Copy and variants | Photo source |
 |---|---|---|

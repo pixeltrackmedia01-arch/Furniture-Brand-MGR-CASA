@@ -2610,8 +2610,8 @@
  },
  {
   "category": "seating",
-  "subcategory": "executive",
-  "type": "Executive chair",
+  "subcategory": "boss",
+  "type": "Boss chair",
   "warranty": "5-year frame & mechanism warranty",
   "leadTime": "Ships in 3–5 working days",
   "faqs": [
@@ -2659,7 +2659,7 @@
   "slug": "corona-executive-chair",
   "code": "COR",
   "name": "Corona",
-  "title": "Corona Executive Chair",
+  "title": "Corona Boss Chair",
   "line": "Signature",
   "tagline": "Boardroom presence in two back heights.",
   "description": "Corona is a tall, generously padded executive chair in ivory leather, also available with a medium back for meeting rooms.",
@@ -3751,8 +3751,8 @@
  },
  {
   "category": "seating",
-  "subcategory": "executive",
-  "type": "Executive chair",
+  "subcategory": "boss",
+  "type": "Boss chair",
   "warranty": "5-year frame & mechanism warranty",
   "leadTime": "Ships in 3–5 working days",
   "faqs": [
@@ -3800,7 +3800,7 @@
   "slug": "bruna-executive-chair",
   "code": "BRU",
   "name": "Bruna",
-  "title": "Bruna Executive Chair",
+  "title": "Bruna Boss Chair",
   "line": "Studio",
   "tagline": "A rich executive chair at a sensible price.",
   "description": "Bruna offers the comfort of a padded leather executive chair in brown or black, at a price that suits whole teams.",
@@ -3961,6 +3961,219 @@
     ],
     "detailImages": [
      "/images/details/velluto-executive-chair/sage-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "boss",
+  "type": "Boss chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Deep, layered padding",
+    "text": "Thick, multi-layer cushioning in the back, seat and arms, wrapped in stitched composite leather for the classic boss-chair sink-in feel."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "bastion-boss-chair",
+  "code": "BAS",
+  "name": "Bastion",
+  "title": "Bastion Boss Chair",
+  "line": "Studio",
+  "tagline": "Racing-inspired padding in bold two-tone leather.",
+  "description": "Bastion is a generously padded high-back boss chair with contrast panels, padded loop arms and a 120° tilt, in lime-and-black or full red.",
+  "highlights": [
+   "Thick layered padding",
+   "Two-tone composite leather",
+   "Padded loop arms",
+   "Tilt with lock"
+  ],
+  "rating": 4.5,
+  "reviews": 63,
+  "variants": [
+   {
+    "id": "bastion-boss-chair-green",
+    "key": "green",
+    "label": "Lime & black",
+    "options": {
+     "Colour": "Lime & black"
+    },
+    "swatch": "#7cc142",
+    "sku": "MGR-BAS-GREEN",
+    "price": 7999,
+    "available": true,
+    "images": [
+     "/images/products/bastion-boss-chair/green-01.webp",
+     "/images/products/bastion-boss-chair/green-02.webp"
+    ],
+    "detailImages": [
+     "/images/details/bastion-boss-chair/green-1.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "bastion-boss-chair-red",
+    "key": "red",
+    "label": "Red",
+    "options": {
+     "Colour": "Red"
+    },
+    "swatch": "#c8202a",
+    "sku": "MGR-BAS-RED",
+    "price": 7999,
+    "available": true,
+    "images": [
+     "/images/products/bastion-boss-chair/red-01.webp",
+     "/images/products/bastion-boss-chair/red-02.webp"
+    ],
+    "detailImages": [
+     "/images/details/bastion-boss-chair/red-1.webp"
+    ],
+    "specs": {}
+   }
+  ]
+ },
+ {
+  "category": "seating",
+  "subcategory": "boss",
+  "type": "Boss chair",
+  "warranty": "5-year frame & mechanism warranty",
+  "leadTime": "Ships in 3–5 working days",
+  "faqs": [
+   {
+    "q": "Is the upholstery real leather?",
+    "a": "Our executive chairs use premium composite leather or technical mesh: durable, easy to clean and consistent in colour across a boardroom. Genuine leather is available to order for trade projects."
+   },
+   {
+    "q": "Does the chair recline?",
+    "a": "Yes. Each executive chair has a synchronised tilt that locks in several positions, with tension adjustable to your weight."
+   },
+   {
+    "q": "What does the warranty cover?",
+    "a": "Five years on the frame, base and mechanism; three years on the gas lift and castors; one year on upholstery."
+   }
+  ],
+  "mechanism": "Synchro tilt",
+  "backType": "High back",
+  "spaces": [
+   "Executive",
+   "Home office",
+   "Corporate"
+  ],
+  "features": [
+   "Headrest"
+  ],
+  "material": [
+   "Leather"
+  ],
+  "story": [
+   {
+    "title": "Deep, layered padding",
+    "text": "Thick, multi-layer cushioning in the back, seat and arms, wrapped in stitched composite leather for the classic boss-chair sink-in feel."
+   },
+   {
+    "title": "Recline with control",
+    "text": "A synchronised tilt reclines the back and seat together and locks at the angle you choose, from upright focus to a relaxed lean."
+   },
+   {
+    "title": "Polished foundations",
+    "text": "A polished aluminium base on smooth-rolling PU castors that are kind to wooden and stone floors alike."
+   }
+  ],
+  "badges": [],
+  "slug": "regent-boss-chair",
+  "code": "REG",
+  "name": "Regent",
+  "title": "Regent Boss Chair",
+  "line": "Studio",
+  "tagline": "Tufted, cushioned and built for the corner cabin.",
+  "description": "Regent wraps a deeply cushioned, pillow-tufted back and seat in espresso or caramel leather, with chrome-trimmed arms and a sturdy five-star base.",
+  "highlights": [
+   "Pillow-tufted back",
+   "Chrome-trimmed arms",
+   "Tilt with lock",
+   "Two leather colours"
+  ],
+  "rating": 4.6,
+  "reviews": 88,
+  "variants": [
+   {
+    "id": "regent-boss-chair-espresso",
+    "key": "espresso",
+    "label": "Espresso",
+    "options": {
+     "Colour": "Espresso"
+    },
+    "swatch": "#4a2a20",
+    "sku": "MGR-REG-ESPRESSO",
+    "price": 7999,
+    "available": true,
+    "images": [
+     "/images/products/regent-boss-chair/espresso-01.webp",
+     "/images/products/regent-boss-chair/espresso-02.webp"
+    ],
+    "detailImages": [
+     "/images/details/regent-boss-chair/espresso-1.webp"
+    ],
+    "specs": {}
+   },
+   {
+    "id": "regent-boss-chair-caramel",
+    "key": "caramel",
+    "label": "Caramel",
+    "options": {
+     "Colour": "Caramel"
+    },
+    "swatch": "#d08a32",
+    "sku": "MGR-REG-CARAMEL",
+    "price": 7999,
+    "available": true,
+    "images": [
+     "/images/products/regent-boss-chair/caramel-01.webp",
+     "/images/products/regent-boss-chair/caramel-02.webp",
+     "/images/products/regent-boss-chair/caramel-03.webp"
+    ],
+    "detailImages": [
+     "/images/details/regent-boss-chair/caramel-1.webp"
     ],
     "specs": {}
    }

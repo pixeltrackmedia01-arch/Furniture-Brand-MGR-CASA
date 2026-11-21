@@ -1,5 +1,7 @@
 import { useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
 import { Link } from 'react-router-dom';
+import { CategoryGrid } from '../components/CategoryGrid';
+import { FlavourHero } from '../components/FlavourHero';
 import { Icon } from '../components/Icon';
 import { ProductCard } from '../components/ProductCard';
 import { Reveal } from '../components/Reveal';
@@ -9,18 +11,12 @@ import { formatDate, formatPrice } from '../lib/format';
 import { prefersReducedMotion, useMediaQuery, useReveal, useScrollProgress, useSeo } from '../lib/hooks';
 import '../styles/home.css';
 
-const SLIDES = [
-  { image: '/images/scenes/living-hero.webp', caption: 'Riviera Sectional Sofa in sapphire velvet', product: 'riviera-sectional-sofa' },
-  { image: '/images/scenes/living-sun.webp', caption: 'Riviera Sectional Sofa in sunflower velvet', product: 'riviera-sectional-sofa' },
-  { image: '/images/scenes/hero-terracotta.webp', caption: 'Nido Task Chair in a Bengaluru home studio', product: 'nido-task-chair' },
-];
-
 export default function Home() {
   useSeo('MGR CASA · Contemporary furniture, designed in India', 'Sofas, sectionals, executive and ergonomic chairs, sit-stand desks and storage for homes and workplaces. Visit our studios in Bengaluru and Mumbai or enquire online.');
   return (
     <div className="home">
-      <Hero />
-      <Marquee />
+      <FlavourHero />
+      <CategoryGrid />
       <Manifesto />
       <Collections />
       <Anatomy />
@@ -32,96 +28,6 @@ export default function Home() {
       <TradeBand />
       <Journal />
       <StudioCta />
-    </div>
-  );
-}
-
-/* ---------------------------------------------------------------- Hero */
-function Hero() {
-  const [i, setI] = useState(0);
-  const [paused, setPaused] = useState(false);
-  const [ref, progress] = useScrollProgress<HTMLElement>();
-  const reduced = prefersReducedMotion();
-
-  useEffect(() => {
-    if (paused || reduced) return;
-    const t = setTimeout(() => setI((x) => (x + 1) % SLIDES.length), 6500);
-    return () => clearTimeout(t);
-  }, [i, paused, reduced]);
-
-  const slide = SLIDES[i];
-  const p = getProduct(slide.product)!;
-  const shift = reduced ? 0 : Math.max(0, progress - 0.5) * 2 * 120;
-
-  return (
-    <section className="hero" ref={ref} aria-label="Introduction" onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)}>
-      <div className="hero-media" style={{ transform: `translate3d(0, ${shift}px, 0)` }}>
-        {SLIDES.map((s, n) => (
-          <img key={s.image} src={s.image} alt={n === i ? s.caption : ''} className={n === i ? 'on' : ''} {...{ fetchpriority: n === 0 ? 'high' : 'low' }} />
-        ))}
-      </div>
-      <div className="hero-shade" />
-      <div className="wrap hero-in">
-        <p className="eyebrow hero-eyebrow">
-          <span className="line-mask"><span>Contemporary furniture · Designed in India</span></span>
-        </p>
-        <h1 className="display hero-title">
-          <span className="line-mask"><span>Made for the</span></span>
-          <span className="line-mask"><span><em className="italic">hours</em> you spend</span></span>
-          <span className="line-mask"><span>sitting still.</span></span>
-        </h1>
-        <div className="hero-actions">
-          <Link to="/shop" className="btn btn-light">
-            Explore the collection
-          </Link>
-          <Link to="/trade" className="btn btn-outline-light">
-            Furnish a workplace
-          </Link>
-        </div>
-      </div>
-      <div className="wrap hero-foot">
-        <Link to={`/product/${p.slug}`} className="hero-caption" key={slide.product}>
-          <span className="eyebrow">Shown</span>
-          <span>
-            {p.title} · from {formatPrice(fromPrice(p))}
-          </span>
-          <Icon name="arrow" size={16} />
-        </Link>
-        <div className="hero-dots" role="tablist" aria-label="Choose slide">
-          {SLIDES.map((s, n) => (
-            <button key={s.image} role="tab" aria-selected={n === i} aria-label={`Slide ${n + 1}: ${s.caption}`} onClick={() => setI(n)} className={n === i ? 'on' : ''}>
-              <span className="num">0{n + 1}</span>
-              <span className="bar">
-                <span style={{ animationPlayState: paused ? 'paused' : 'running' }} />
-              </span>
-            </button>
-          ))}
-        </div>
-      </div>
-      <a href="#manifesto" className="hero-scroll" aria-label="Scroll to continue">
-        <span />
-      </a>
-    </section>
-  );
-}
-
-/* ---------------------------------------------------------------- Marquee */
-function Marquee() {
-  const items = ['Designed in India', 'Sofas, seating & workspace', 'Up to 5-year warranty', 'Studios in Bengaluru, Mumbai & Gurugram', 'Free delivery to 40+ cities', 'Trade programme from 10 seats', 'Tested to 120,000 cycles'];
-  return (
-    <div className="marquee" aria-label="Brand promises">
-      <div className="marquee-track">
-        {[0, 1].map((k) => (
-          <ul key={k} aria-hidden={k === 1}>
-            {items.map((t) => (
-              <li key={t}>
-                {t}
-                <span className="marquee-star">✳</span>
-              </li>
-            ))}
-          </ul>
-        ))}
-      </div>
     </div>
   );
 }

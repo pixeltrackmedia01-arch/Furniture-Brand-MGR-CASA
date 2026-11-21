@@ -80,11 +80,12 @@ export const CATEGORIES: Category[] = [
   {
     slug: 'seating',
     title: 'Seating',
-    kicker: 'Executive, task & lounge chairs',
+    kicker: 'Executive, boss, task & lounge chairs',
     description: 'Executive chairs in leather and mesh, ergonomic task chairs and lounge seating, engineered for long days and Indian climates.',
     image: '/images/scenes/room-slate.webp',
     subcategories: [
       { slug: 'executive', title: 'Executive chairs' },
+      { slug: 'boss', title: 'Boss chairs' },
       { slug: 'task', title: 'Task chairs' },
       { slug: 'work', title: 'Work & study chairs' },
       { slug: 'lounge', title: 'Lounge & gaming' },
